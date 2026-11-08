@@ -1,0 +1,80 @@
+game 918800605
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: Alright. Who wants some?
+frame 1 agent 0
+  stderr: INITIAL [[8020, 3500], [[11000, 1000], [11000, 6000], [4000, 3500]], [[15000, 1000], [15000, 6000], [120, 3500], [0, 4000], [120, 3000]], [[14600, 1000], [14600, 6000], [520, 3500], [396, 3950], [516, 3051]]]
+      search 442 value 570
+  stdout: 120 3500
+frame 2 agent 0
+  stderr: search 489 value 570
+  stdout: 520 3500
+frame 3 agent 0
+  stderr: search 520 value 570
+  stdout: 920 3500
+frame 4 agent 0
+  stderr: search 475 value 570
+  stdout: 1320 3500
+frame 5 agent 0
+  referee: You have destroyed zombies 2, 3 & 4.
+  stderr: search 565 value 570
+  stdout: 1720 3500
+frame 6 agent 0
+  stderr: search 533 value 30
+  stdout: 13000 1000
+frame 7 agent 0
+  stderr: search 842 value 30
+  stdout: 12600 1000
+frame 8 agent 0
+  stderr: search 869 value 30
+  stdout: 12200 1000
+frame 9 agent 0
+  stderr: search 949 value 30
+  stdout: 11800 1000
+frame 10 agent 0
+  referee: Zombies have eaten humans 0 & 1.
+  stderr: search 652 value 30
+  stdout: 520 3500
+frame 11 agent 0
+  stderr: search 1038 value 30
+  stdout: 520 3500
+frame 12 agent 0
+  stderr: search 1127 value 30
+  stdout: 520 3500
+frame 13 agent 0
+  stderr: search 1220 value 30
+  stdout: 520 3500
+frame 14 agent 0
+  stderr: search 1276 value 30
+  stdout: 520 3500
+frame 15 agent 0
+  stderr: search 1419 value 30
+  stdout: 520 3500
+frame 16 agent 0
+  stderr: search 1571 value 30
+  stdout: 520 3500
+frame 17 agent 0
+  stderr: search 1716 value 30
+  stdout: 520 3500
+frame 18 agent 0
+  stderr: search 1884 value 30
+  stdout: 8342 1889
+frame 19 agent 0
+  stderr: search 2304 value 30
+  stdout: 7966 2028
+frame 20 agent 0
+  stderr: search 2856 value 30
+  stdout: 7590 2167
+frame 21 agent 0
+  stderr: search 3660 value 30
+  stdout: 7215 2306
+frame 22 agent 0
+  referee: ¤GREEN¤You held off the wave of zombies and scored 570 points.§GREEN§
+      You have destroyed zombies 0 & 1.
+  stderr: search 5269 value 30
+  stdout: 6840 2445
+result
+  scores: 0=1
+  metadata: score=570
+

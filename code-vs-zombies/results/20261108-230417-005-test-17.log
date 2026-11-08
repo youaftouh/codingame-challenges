@@ -1,0 +1,75 @@
+game 918806073
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: Fear the walking dead...
+frame 1 agent 0
+  stderr: search 2073 value 28320
+  stdout: 3968 3168
+frame 2 agent 0
+  stderr: search 1956 value 28640
+  stdout: 3606 3342
+frame 3 agent 0
+  stderr: search 1632 value 29280
+  stdout: 3455 2486
+frame 4 agent 0
+  referee: You have destroyed zombie 17.
+  stderr: search 2320 value 29280
+  stdout: 2596 2510
+frame 5 agent 0
+  referee: You have destroyed zombies 16 & 24.
+  stderr: search 2625 value 29120
+  stdout: 370 4128
+frame 6 agent 0
+  referee: You have destroyed zombies 18 & 19.
+  stderr: search 3115 value 41600
+  stdout: 4485 417
+frame 7 agent 0
+  referee: You have destroyed zombies 0 & 6.
+  stderr: search 3630 value 41120
+  stdout: 4085 401
+frame 8 agent 0
+  stderr: search 4167 value 40640
+  stdout: 52 3998
+frame 9 agent 0
+  referee: You have destroyed zombies 23 & 25.
+  stderr: search 5069 value 40640
+  stdout: 56 3598
+frame 10 agent 0
+  referee: You have destroyed zombie 9.
+  stderr: search 6254 value 40160
+  stdout: 4222 392
+frame 11 agent 0
+  referee: You have destroyed zombies 1 & 7.
+  stderr: search 8299 value 40160
+  stdout: 5422 410
+frame 12 agent 0
+  referee: You have destroyed zombies 2, 8, 10, 11, 12, 20, 21, 22, 26 & 27.
+  stderr: search 9587 value 40640
+  stdout: 12000 8999
+frame 13 agent 0
+  stderr: search 11162 value 3680
+  stdout: 2391 1601
+frame 14 agent 0
+  stderr: search 12661 value 3680
+  stdout: 8056 1957
+frame 15 agent 0
+  referee: You have destroyed zombies 3, 4, 13, 14 & 29.
+  stderr: search 8739 value 3680
+  stdout: 8056 1957
+frame 16 agent 0
+  referee: You have destroyed zombie 28.
+  stderr: search 13690 value 640
+  stdout: 3283 3993
+frame 17 agent 0
+  stderr: search 19853 value 480
+  stdout: 7819 957
+frame 18 agent 0
+  referee: ¤GREEN¤You held off the wave of zombies and scored 43360 points.§GREEN§
+      You have destroyed zombies 5 & 15.
+  stderr: search 22611 value 480
+  stdout: 7460 1134
+result
+  scores: 0=1
+  metadata: score=43360
+

@@ -1,0 +1,32 @@
+{
+    "test_game_id":  918805031,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918805031",
+    "log":  "game 918805031\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The dead are coming...\nframe 1 agent 0\n  stderr: search 2353 value 42560\n  stdout: 3968 3168\nframe 2 agent 0\n  referee: You have destroyed zombies 17, 18 \u0026 19.\n  stderr: search 3080 value 42880\n  stdout: 618 6293\nframe 3 agent 0\n  referee: You have destroyed zombies 16 \u0026 24.\n  stderr: search 3000 value 42400\n  stdout: 641 4882\nframe 4 agent 0\n  referee: You have destroyed zombie 23.\n  stderr: search 3230 value 43040\n  stdout: 505 4505\nframe 5 agent 0\n  stderr: search 3877 value 42880\n  stdout: 5852 439\nframe 6 agent 0\n  stderr: search 4387 value 42880\n  stdout: 4485 417\nframe 7 agent 0\n  referee: You have destroyed zombies 0 \u0026 6.\n  stderr: search 4899 value 42880\n  stdout: 2662 0\nframe 8 agent 0\n  stderr: search 5426 value 42400\n  stdout: 2662 0\nframe 9 agent 0\n  stderr: search 6213 value 42400\n  stdout: 0 2581\nframe 10 agent 0\n  referee: You have destroyed zombie 1.\n  stderr: search 7065 value 57660\n  stdout: 2833 0\nframe 11 agent 0\n  referee: You have destroyed zombies 2 \u0026 7.\n  stderr: search 6961 value 91160\n  stdout: 4471 793\nframe 12 agent 0\n  referee: You have destroyed zombies 3, 8, 10 \u0026 12.\n      Zombies have eaten human 3.\n  stderr: search 8284 value 90680\n  stdout: 4471 793\nframe 13 agent 0\n  stderr: search 9593 value 88920\n  stdout: 8000 8999\nframe 14 agent 0\n  stderr: search 11411 value 88920\n  stdout: 2521 0\nframe 15 agent 0\n  stderr: search 13464 value 88920\n  stdout: 4471 793\nframe 16 agent 0\n  stderr: search 16885 value 88920\n  stdout: 3822 386\nframe 17 agent 0\n  referee: You have destroyed zombies 4, 9, 11, 13, 14, 20, 21, 22, 25, 26, 27, 28 \u0026 29.\n  stderr: search 22119 value 88920\n  stdout: 8000 8999\nframe 18 agent 0\n  stderr: search 27168 value 270\n  stdout: 12000 8999\nframe 19 agent 0\n  referee: ¤GREEN¤You held off the wave of zombies and scored 93400 points.§GREEN§\n      You have destroyed zombies 5 \u0026 15.\n  stderr: search 31061 value 270\n  stdout: 6990 815\nresult\n  scores: 0=1\n  metadata: score=93400\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  1,
+                                   "remaining":  4,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  151
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  5,
+                                      "remaining":  25,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  1
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  5,
+                                    "remaining":  115,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  1
+                                }
+               }
+}

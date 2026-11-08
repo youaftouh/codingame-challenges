@@ -1,0 +1,44 @@
+game 918806602
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: Good. Bad. I'm the guy with the gun.
+frame 1 agent 0
+  stderr: search 24668 value 30
+  stdout: 8000 2000
+frame 2 agent 0
+  stderr: search 25992 value 30
+  stdout: 8000 4500
+frame 3 agent 0
+  stderr: search 27632 value 30
+  stdout: 8000 4500
+frame 4 agent 0
+  stderr: search 16431 value 30
+  stdout: 8000 0
+frame 5 agent 0
+  stderr: search 30661 value 30
+  stdout: 8000 4500
+frame 6 agent 0
+  stderr: search 32687 value 30
+  stdout: 8000 0
+frame 7 agent 0
+  stderr: search 34355 value 30
+  stdout: 8000 0
+frame 8 agent 0
+  stderr: search 32894 value 30
+  stdout: 8000 4500
+frame 9 agent 0
+  stderr: search 24022 value 30
+  stdout: 8000 4500
+frame 10 agent 0
+  stderr: search 45597 value 30
+  stdout: 8000 4500
+frame 11 agent 0
+  referee: ¤GREEN¤You held off the wave of zombies and scored 30 points.§GREEN§
+      You have destroyed zombies 0 & 1.
+  stderr: search 51184 value 30
+  stdout: 8000 4500
+result
+  scores: 0=1
+  metadata: score=30
+

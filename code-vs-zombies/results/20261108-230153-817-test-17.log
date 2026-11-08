@@ -1,0 +1,77 @@
+game 918805031
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: The dead are coming...
+frame 1 agent 0
+  stderr: search 2353 value 42560
+  stdout: 3968 3168
+frame 2 agent 0
+  referee: You have destroyed zombies 17, 18 & 19.
+  stderr: search 3080 value 42880
+  stdout: 618 6293
+frame 3 agent 0
+  referee: You have destroyed zombies 16 & 24.
+  stderr: search 3000 value 42400
+  stdout: 641 4882
+frame 4 agent 0
+  referee: You have destroyed zombie 23.
+  stderr: search 3230 value 43040
+  stdout: 505 4505
+frame 5 agent 0
+  stderr: search 3877 value 42880
+  stdout: 5852 439
+frame 6 agent 0
+  stderr: search 4387 value 42880
+  stdout: 4485 417
+frame 7 agent 0
+  referee: You have destroyed zombies 0 & 6.
+  stderr: search 4899 value 42880
+  stdout: 2662 0
+frame 8 agent 0
+  stderr: search 5426 value 42400
+  stdout: 2662 0
+frame 9 agent 0
+  stderr: search 6213 value 42400
+  stdout: 0 2581
+frame 10 agent 0
+  referee: You have destroyed zombie 1.
+  stderr: search 7065 value 57660
+  stdout: 2833 0
+frame 11 agent 0
+  referee: You have destroyed zombies 2 & 7.
+  stderr: search 6961 value 91160
+  stdout: 4471 793
+frame 12 agent 0
+  referee: You have destroyed zombies 3, 8, 10 & 12.
+      Zombies have eaten human 3.
+  stderr: search 8284 value 90680
+  stdout: 4471 793
+frame 13 agent 0
+  stderr: search 9593 value 88920
+  stdout: 8000 8999
+frame 14 agent 0
+  stderr: search 11411 value 88920
+  stdout: 2521 0
+frame 15 agent 0
+  stderr: search 13464 value 88920
+  stdout: 4471 793
+frame 16 agent 0
+  stderr: search 16885 value 88920
+  stdout: 3822 386
+frame 17 agent 0
+  referee: You have destroyed zombies 4, 9, 11, 13, 14, 20, 21, 22, 25, 26, 27, 28 & 29.
+  stderr: search 22119 value 88920
+  stdout: 8000 8999
+frame 18 agent 0
+  stderr: search 27168 value 270
+  stdout: 12000 8999
+frame 19 agent 0
+  referee: ¤GREEN¤You held off the wave of zombies and scored 93400 points.§GREEN§
+      You have destroyed zombies 5 & 15.
+  stderr: search 31061 value 270
+  stdout: 6990 815
+result
+  scores: 0=1
+  metadata: score=93400
+

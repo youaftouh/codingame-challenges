@@ -1,0 +1,35 @@
+{
+    "test_game_id":  918807019,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918807019",
+    "log":  "game 918807019\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: Good. Bad. I\u0027m the guy with the gun.\nframe 1 agent 0\n  stderr: search 21333 value 20\n  stdout: 15500 6500\nframe 2 agent 0\n  referee: Zombies have eaten human 0.\n  stderr: search 21600 value 20\n  stdout: 15260 6180\nframe 3 agent 0\n  stderr: search 23032 value 20\n  stdout: 15020 5860\nframe 4 agent 0\n  stderr: search 24674 value 20\n  stdout: 14780 5540\nframe 5 agent 0\n  referee: You have destroyed zombie 1.\n  stderr: search 25282 value 20\n  stdout: 14540 5220\nframe 6 agent 0\n  stderr: search 23441 value 10\n  stdout: 4195 4592\nframe 7 agent 0\n  stderr: search 27090 value 10\n  stdout: 4593 4621\nframe 8 agent 0\n  stderr: search 26507 value 10\n  stdout: 4991 4650\nframe 9 agent 0\n  stderr: search 28985 value 10\n  stdout: 5389 4679\nframe 10 agent 0\n  referee: ¤GREEN¤You held off the wave of zombies and scored 20 points.§GREEN§\n      You have destroyed zombie 0.\n  stderr: search 32445 value 10\n  stdout: 5787 4708\nresult\n  scores: 0=1\n  metadata: score=20\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  2,
+                                   "remaining":  3,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  57
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  16,
+                                      "remaining":  14,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  1
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  15,
+                                    "remaining":  105,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  6
+                                }
+               },
+    "local_language":  "C++",
+    "local_testcase":  19,
+    "local_source_sha256":  "31AA841D9EC0109D8CB64B8B3B031DDDEE0462ED02C9A2061568091B09902D90"
+}

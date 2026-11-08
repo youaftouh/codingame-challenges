@@ -1,0 +1,56 @@
+game 918806625
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: Good. Bad. I'm the guy with the gun.
+frame 1 agent 0
+  stderr: search 14979 value 240
+  stdout: 0 4500
+frame 2 agent 0
+  stderr: search 15515 value 240
+  stdout: 1865 1876
+frame 3 agent 0
+  stderr: search 16369 value 240
+  stdout: 1731 2252
+frame 4 agent 0
+  stderr: search 17160 value 240
+  stdout: 9026 131
+frame 5 agent 0
+  stderr: search 17766 value 240
+  stdout: 9000 1200
+frame 6 agent 0
+  stderr: search 18540 value 240
+  stdout: 9000 1200
+frame 7 agent 0
+  stderr: search 19845 value 240
+  stdout: 9000 1200
+frame 8 agent 0
+  stderr: search 20891 value 240
+  stdout: 9000 1200
+frame 9 agent 0
+  stderr: search 22140 value 240
+  stdout: 7575 729
+frame 10 agent 0
+  stderr: search 23617 value 240
+  stdout: 9000 1200
+frame 11 agent 0
+  stderr: search 25695 value 240
+  stdout: 8089 0
+frame 12 agent 0
+  stderr: search 27712 value 240
+  stdout: 8238 52
+frame 13 agent 0
+  stderr: search 30907 value 240
+  stdout: 8238 52
+frame 14 agent 0
+  stderr: search 34452 value 240
+  stdout: 8729 0
+frame 15 agent 0
+  referee: ¤GREEN¤You held off the wave of zombies and scored 240 points.§GREEN§
+      You have destroyed zombies 0, 1 & 2.
+  stderr: search 39034 value 240
+  stdout: 8104 2431
+result
+  scores: 0=1
+  metadata: score=240
+

@@ -1,0 +1,93 @@
+game 918803906
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: Braaaaaiiiiiiiiiiiins...
+frame 1 agent 0
+  stderr: INITIAL [[7992, 8304], [[757, 3545], [510, 8170], [1119, 733], [1416, 7409], [1110, 8488], [2118, 1983], [3167, 480], [6576, 664], [8704, 1276], [13340, 5663], [13808, 4731], [15355, 3528], [15495, 5035], [15182, 6184], [15564, 7640]], [[3996, 4152], [3996, 4844], [3996, 7612], [5328, 1384], [7992, 3460], [11322, 5536], [11322, 8304]], [[3734, 3849], [3776, 4509], [3597, 7580], [5674, 1184], [8115, 3079], [11721, 5561], [11564, 7986]]]
+      search 194 value 13810
+  stdout: 13808 4731
+frame 2 agent 0
+  referee: You have destroyed zombie 6.
+  stderr: search 193 value 13810
+  stdout: 13808 4731
+frame 3 agent 0
+  stderr: search 240 value 11560
+  stdout: 13808 4731
+frame 4 agent 0
+  referee: You have destroyed zombie 5.
+      Zombies have eaten human 7.
+  stderr: search 238 value 11560
+  stdout: 13808 4731
+frame 5 agent 0
+  stderr: search 278 value 9310
+  stdout: 13808 4731
+frame 6 agent 0
+  referee: Zombies have eaten human 8.
+  stderr: search 262 value 9310
+  stdout: 13808 4731
+frame 7 agent 0
+  referee: Zombies have eaten human 3.
+  stderr: search 250 value 9310
+  stdout: 13808 4731
+frame 8 agent 0
+  referee: Zombies have eaten human 5.
+  stderr: search 250 value 9310
+  stdout: 13808 4731
+frame 9 agent 0
+  stderr: search 259 value 9310
+  stdout: 13808 4731
+frame 10 agent 0
+  referee: Zombies have eaten human 4.
+  stderr: search 266 value 9310
+  stdout: 13808 4731
+frame 11 agent 0
+  stderr: search 300 value 9310
+  stdout: 13808 4731
+frame 12 agent 0
+  referee: Zombies have eaten humans 1 & 2.
+  stderr: search 294 value 9310
+  stdout: 13808 4731
+frame 13 agent 0
+  stderr: search 280 value 9310
+  stdout: 6328 934
+frame 14 agent 0
+  stderr: search 319 value 9310
+  stdout: 5932 877
+frame 15 agent 0
+  stderr: search 316 value 9310
+  stdout: 5536 820
+frame 16 agent 0
+  stderr: search 309 value 9310
+  stdout: 2309 585
+frame 17 agent 0
+  referee: Zombies have eaten human 6.
+  stderr: search 392 value 9310
+  stdout: 594 6570
+frame 18 agent 0
+  stderr: search 340 value 9310
+  stdout: 615 6170
+frame 19 agent 0
+  stderr: search 384 value 9310
+  stdout: 636 5770
+frame 20 agent 0
+  stderr: search 306 value 9310
+  stdout: 657 5370
+frame 21 agent 0
+  stderr: search 404 value 9310
+  stdout: 678 4970
+frame 22 agent 0
+  stderr: search 508 value 9310
+  stdout: 700 4570
+frame 23 agent 0
+  stderr: search 647 value 9310
+  stdout: 722 4170
+frame 24 agent 0
+  referee: ¤GREEN¤You held off the wave of zombies and scored 13810 points.§GREEN§
+      You have destroyed zombies 0, 1, 2, 3 & 4.
+  stderr: search 927 value 9310
+  stdout: 744 3770
+result
+  scores: 0=1
+  metadata: score=13810
+

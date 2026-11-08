@@ -1,0 +1,68 @@
+game 918805782
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: Braaaaaiiiiiiiiiiiins...
+frame 1 agent 0
+  referee: You have destroyed zombie 6.
+  stderr: search 7976 value 670
+  stdout: 11623 6702
+frame 2 agent 0
+  stderr: search 8001 value 580
+  stdout: 7577 5864
+frame 3 agent 0
+  referee: You have destroyed zombie 4.
+  stderr: search 10167 value 580
+  stdout: 7654 6256
+frame 4 agent 0
+  referee: Zombies have eaten human 2.
+  stderr: search 13241 value 490
+  stdout: 7731 6648
+frame 5 agent 0
+  stderr: search 14203 value 490
+  stdout: 7809 7040
+frame 6 agent 0
+  referee: You have destroyed zombies 3, 5 & 7.
+  stderr: search 15783 value 490
+  stdout: 7887 7432
+frame 7 agent 0
+  stderr: search 15984 value 250
+  stdout: 2444 3567
+frame 8 agent 0
+  stderr: search 16007 value 250
+  stdout: 2801 3747
+frame 9 agent 0
+  stderr: search 19004 value 250
+  stdout: 3158 3927
+frame 10 agent 0
+  referee: You have destroyed zombies 0, 1 & 2.
+      Zombies have eaten human 0.
+  stderr: search 13762 value 250
+  stdout: 3227 4801
+frame 11 agent 0
+  stderr: search 15897 value 10
+  stdout: 15999 4500
+frame 12 agent 0
+  stderr: search 20587 value 10
+  stdout: 15632 4660
+frame 13 agent 0
+  stderr: search 21566 value 10
+  stdout: 15265 4820
+frame 14 agent 0
+  stderr: search 18713 value 10
+  stdout: 14898 4980
+frame 15 agent 0
+  stderr: search 15921 value 10
+  stdout: 14531 5140
+frame 16 agent 0
+  stderr: search 23834 value 10
+  stdout: 14131 5122
+frame 17 agent 0
+  referee: ¤GREEN¤You held off the wave of zombies and scored 670 points.§GREEN§
+      You have destroyed zombie 8.
+  stderr: search 22349 value 10
+  stdout: 13731 5104
+result
+  scores: 0=1
+  metadata: score=670
+

@@ -1,0 +1,98 @@
+game 918806647
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: Good. Bad. I'm the guy with the gun.
+frame 1 agent 0
+  stderr: search 4187 value 6200
+  stdout: 4048 0
+frame 2 agent 0
+  stderr: search 3197 value 6200
+  stdout: 4048 0
+frame 3 agent 0
+  stderr: search 3280 value 6200
+  stdout: 4200 8000
+frame 4 agent 0
+  stderr: search 3370 value 6200
+  stdout: 3800 8000
+frame 5 agent 0
+  stderr: search 3499 value 9600
+  stdout: 4209 6618
+frame 6 agent 0
+  stderr: search 3581 value 9640
+  stdout: 12000 4500
+frame 7 agent 0
+  stderr: search 3718 value 9640
+  stdout: 12000 4500
+frame 8 agent 0
+  stderr: search 3927 value 9640
+  stdout: 10112 3324
+frame 9 agent 0
+  referee: You have destroyed zombies 5 & 7.
+  stderr: search 4160 value 9640
+  stdout: 15999 8999
+frame 10 agent 0
+  stderr: search 4364 value 9520
+  stdout: 10914 6025
+frame 11 agent 0
+  referee: You have destroyed zombies 9, 11 & 13.
+  stderr: search 4514 value 9520
+  stdout: 10914 6025
+frame 12 agent 0
+  referee: You have destroyed zombie 15.
+  stderr: search 4760 value 9280
+  stdout: 10914 6025
+frame 13 agent 0
+  stderr: search 4523 value 9240
+  stdout: 8960 7524
+frame 14 agent 0
+  stderr: search 4598 value 9240
+  stdout: 8960 7524
+frame 15 agent 0
+  stderr: search 4674 value 9240
+  stdout: 8960 7524
+frame 16 agent 0
+  stderr: search 4814 value 9240
+  stdout: 9518 7933
+frame 17 agent 0
+  stderr: search 4793 value 9240
+  stdout: 10858 7055
+frame 18 agent 0
+  stderr: search 5264 value 9240
+  stdout: 11936 7180
+frame 19 agent 0
+  stderr: search 5296 value 9240
+  stdout: 12914 6996
+frame 20 agent 0
+  stderr: search 5813 value 9240
+  stdout: 13547 6155
+frame 21 agent 0
+  stderr: search 6133 value 9240
+  stdout: 15999 0
+frame 22 agent 0
+  stderr: search 6125 value 9240
+  stdout: 13903 4028
+frame 23 agent 0
+  stderr: search 5818 value 9240
+  stdout: 13398 3102
+frame 24 agent 0
+  stderr: search 5949 value 9240
+  stdout: 12629 2375
+frame 25 agent 0
+  stderr: search 6137 value 9240
+  stdout: 11645 1986
+frame 26 agent 0
+  stderr: search 6052 value 9240
+  stdout: 10587 1990
+frame 27 agent 0
+  stderr: search 6745 value 9240
+  stdout: 9607 2386
+frame 28 agent 0
+  referee: ¤GREEN¤You held off the wave of zombies and scored 9640 points.§GREEN§
+      You have destroyed zombies 0, 1, 2, 3, 4, 6, 8, 10, 12 & 14.
+  stderr: search 8574 value 9240
+  stdout: 10019 5348
+result
+  scores: 0=1
+  metadata: score=9640
+

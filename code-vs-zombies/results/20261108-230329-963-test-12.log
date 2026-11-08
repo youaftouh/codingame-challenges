@@ -1,0 +1,47 @@
+game 918805791
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: Fear the starving dead...
+frame 1 agent 0
+  stderr: search 9198 value 760
+  stdout: 7798 4030
+frame 2 agent 0
+  stderr: search 11647 value 1010
+  stdout: 7402 4089
+frame 3 agent 0
+  referee: You have destroyed zombies 0, 1 & 2.
+  stderr: search 16897 value 1010
+  stdout: 4676 2005
+frame 4 agent 0
+  stderr: search 18867 value 770
+  stdout: 0 6000
+frame 5 agent 0
+  stderr: search 15811 value 770
+  stdout: 9874 3718
+frame 6 agent 0
+  referee: You have destroyed zombies 3, 4, 5, 6 & 7.
+  stderr: search 25556 value 770
+  stdout: 9196 5860
+frame 7 agent 0
+  stderr: search 31639 value 10
+  stdout: 0 4800
+frame 8 agent 0
+  referee: Zombies have eaten human 0.
+  stderr: search 32146 value 10
+  stdout: 0 4400
+frame 9 agent 0
+  stderr: search 30067 value 10
+  stdout: 0 4000
+frame 10 agent 0
+  stderr: search 25902 value 10
+  stdout: 398 4034
+frame 11 agent 0
+  referee: ¤GREEN¤You held off the wave of zombies and scored 1010 points.§GREEN§
+      You have destroyed zombie 8.
+  stderr: search 29811 value 10
+  stdout: 796 4068
+result
+  scores: 0=1
+  metadata: score=1010
+

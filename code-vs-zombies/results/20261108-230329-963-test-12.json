@@ -1,0 +1,32 @@
+{
+    "test_game_id":  918805791,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918805791",
+    "log":  "game 918805791\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: Fear the starving dead...\nframe 1 agent 0\n  stderr: search 9198 value 760\n  stdout: 7798 4030\nframe 2 agent 0\n  stderr: search 11647 value 1010\n  stdout: 7402 4089\nframe 3 agent 0\n  referee: You have destroyed zombies 0, 1 \u0026 2.\n  stderr: search 16897 value 1010\n  stdout: 4676 2005\nframe 4 agent 0\n  stderr: search 18867 value 770\n  stdout: 0 6000\nframe 5 agent 0\n  stderr: search 15811 value 770\n  stdout: 9874 3718\nframe 6 agent 0\n  referee: You have destroyed zombies 3, 4, 5, 6 \u0026 7.\n  stderr: search 25556 value 770\n  stdout: 9196 5860\nframe 7 agent 0\n  stderr: search 31639 value 10\n  stdout: 0 4800\nframe 8 agent 0\n  referee: Zombies have eaten human 0.\n  stderr: search 32146 value 10\n  stdout: 0 4400\nframe 9 agent 0\n  stderr: search 30067 value 10\n  stdout: 0 4000\nframe 10 agent 0\n  stderr: search 25902 value 10\n  stdout: 398 4034\nframe 11 agent 0\n  referee: ¤GREEN¤You held off the wave of zombies and scored 1010 points.§GREEN§\n      You have destroyed zombie 8.\n  stderr: search 29811 value 10\n  stdout: 796 4068\nresult\n  scores: 0=1\n  metadata: score=1010\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  2,
+                                   "remaining":  3,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  51
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  12,
+                                      "remaining":  18,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  9
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  6,
+                                    "remaining":  114,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  34
+                                }
+               }
+}

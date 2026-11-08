@@ -1,0 +1,32 @@
+{
+    "test_game_id":  918805926,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918805926",
+    "log":  "game 918805926\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: Alright. Who wants some?\nframe 1 agent 0\n  stderr: search 7403 value 3390\n  stdout: 7000 5500\nframe 2 agent 0\n  stderr: search 8381 value 3390\n  stdout: 7032 2301\nframe 3 agent 0\n  referee: You have destroyed zombies 0, 1 \u0026 2.\n  stderr: search 9699 value 3390\n  stdout: 8200 3500\nframe 4 agent 0\n  stderr: search 9755 value 1230\n  stdout: 7032 2301\nframe 5 agent 0\n  referee: Zombies have eaten humans 0 \u0026 2.\n  stderr: search 12461 value 1230\n  stdout: 7032 2301\nframe 6 agent 0\n  referee: You have destroyed zombies 3, 4 \u0026 5.\n      Zombies have eaten human 5.\n  stderr: search 13922 value 1230\n  stdout: 7000 5500\nframe 7 agent 0\n  stderr: search 8613 value 270\n  stdout: 10949 6409\nframe 8 agent 0\n  stderr: search 15014 value 270\n  stdout: 7013 6613\nframe 9 agent 0\n  stderr: search 17010 value 270\n  stdout: 10365 6955\nframe 10 agent 0\n  stderr: search 18467 value 270\n  stdout: 10073 7228\nframe 11 agent 0\n  stderr: search 19599 value 270\n  stdout: 8437 6275\nframe 12 agent 0\n  stderr: search 17943 value 270\n  stdout: 8475 6369\nframe 13 agent 0\n  stderr: search 22754 value 270\n  stdout: 8626 6738\nframe 14 agent 0\n  stderr: search 16698 value 270\n  stdout: 8000 7014\nframe 15 agent 0\n  referee: ¤GREEN¤You held off the wave of zombies and scored 3390 points.§GREEN§\n      You have destroyed zombies 6 \u0026 7.\n  stderr: search 17875 value 270\n  stdout: 10287 6003\nresult\n  scores: 0=1\n  metadata: score=3390\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  2,
+                                   "remaining":  3,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  33
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  14,
+                                      "remaining":  16,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  1
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  12,
+                                    "remaining":  108,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  15
+                                }
+               }
+}

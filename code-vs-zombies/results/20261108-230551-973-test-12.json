@@ -1,0 +1,35 @@
+{
+    "test_game_id":  918806827,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918806827",
+    "log":  "game 918806827\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: Braaaaaiiiiiiiiiiiins...\nframe 1 agent 0\n  stderr: search 9607 value 760\n  stdout: 7798 4030\nframe 2 agent 0\n  stderr: search 10471 value 760\n  stdout: 7402 4089\nframe 3 agent 0\n  referee: You have destroyed zombies 0, 1 \u0026 2.\n  stderr: search 11910 value 760\n  stdout: 0 4000\nframe 4 agent 0\n  referee: You have destroyed zombie 3.\n  stderr: search 13361 value 520\n  stdout: 0 4000\nframe 5 agent 0\n  stderr: search 13696 value 480\n  stdout: 0 5600\nframe 6 agent 0\n  stderr: search 15248 value 480\n  stdout: 0 4298\nframe 7 agent 0\n  stderr: search 15599 value 480\n  stdout: 0 4298\nframe 8 agent 0\n  referee: You have destroyed zombie 8.\n  stderr: search 17045 value 480\n  stdout: 0 3728\nframe 9 agent 0\n  stderr: search 19199 value 440\n  stdout: 153 4084\nframe 10 agent 0\n  stderr: search 20501 value 440\n  stdout: 7083 3960\nframe 11 agent 0\n  stderr: search 21530 value 440\n  stdout: 6683 3967\nframe 12 agent 0\n  stderr: search 23247 value 440\n  stdout: 6283 3974\nframe 13 agent 0\n  referee: ¤GREEN¤You held off the wave of zombies and scored 760 points.§GREEN§\n      You have destroyed zombies 4, 5, 6 \u0026 7.\n  stderr: search 27707 value 440\n  stdout: 5883 3981\nresult\n  scores: 0=1\n  metadata: score=760\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  2,
+                                   "remaining":  3,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  73
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  11,
+                                      "remaining":  19,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  17
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  10,
+                                    "remaining":  110,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  22
+                                }
+               },
+    "local_language":  "C++",
+    "local_testcase":  12,
+    "local_source_sha256":  "31AA841D9EC0109D8CB64B8B3B031DDDEE0462ED02C9A2061568091B09902D90"
+}

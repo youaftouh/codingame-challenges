@@ -1,0 +1,91 @@
+game 918807070
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: Good. Bad. I'm the guy with the gun.
+frame 1 agent 0
+  stderr: search 3075 value 15190
+  stdout: 5328 1384
+frame 2 agent 0
+  stderr: search 3173 value 15190
+  stdout: 7632 7370
+frame 3 agent 0
+  stderr: search 3594 value 15190
+  stdout: 15495 5035
+frame 4 agent 0
+  referee: Zombies have eaten human 7.
+  stderr: search 3864 value 15190
+  stdout: 13340 5663
+frame 5 agent 0
+  stderr: search 4045 value 15190
+  stdout: 15495 5035
+frame 6 agent 0
+  referee: You have destroyed zombies 5 & 6.
+      Zombies have eaten human 8.
+  stderr: search 4400 value 15190
+  stdout: 13340 5663
+frame 7 agent 0
+  referee: Zombies have eaten human 3.
+  stderr: search 4894 value 9310
+  stdout: 13340 5663
+frame 8 agent 0
+  referee: Zombies have eaten human 5.
+  stderr: search 5129 value 9310
+  stdout: 13629 3825
+frame 9 agent 0
+  stderr: search 5340 value 9310
+  stdout: 13629 3825
+frame 10 agent 0
+  referee: Zombies have eaten human 4.
+  stderr: search 5487 value 9310
+  stdout: 13629 3825
+frame 11 agent 0
+  stderr: search 5699 value 9310
+  stdout: 13340 5663
+frame 12 agent 0
+  referee: Zombies have eaten humans 1 & 2.
+  stderr: search 5994 value 9310
+  stdout: 13808 4731
+frame 13 agent 0
+  stderr: search 6263 value 9310
+  stdout: 6328 934
+frame 14 agent 0
+  stderr: search 6646 value 9310
+  stdout: 5932 877
+frame 15 agent 0
+  stderr: search 6484 value 9310
+  stdout: 5536 820
+frame 16 agent 0
+  stderr: search 7715 value 9310
+  stdout: 2309 585
+frame 17 agent 0
+  referee: Zombies have eaten human 6.
+  stderr: search 7984 value 9310
+  stdout: 594 6570
+frame 18 agent 0
+  stderr: search 8720 value 9310
+  stdout: 615 6170
+frame 19 agent 0
+  stderr: search 9835 value 9310
+  stdout: 636 5770
+frame 20 agent 0
+  stderr: search 10577 value 9310
+  stdout: 657 5370
+frame 21 agent 0
+  stderr: search 11497 value 9310
+  stdout: 678 4970
+frame 22 agent 0
+  stderr: search 13144 value 9310
+  stdout: 700 4570
+frame 23 agent 0
+  stderr: search 15493 value 9310
+  stdout: 722 4170
+frame 24 agent 0
+  referee: ¤GREEN¤You held off the wave of zombies and scored 15190 points.§GREEN§
+      You have destroyed zombies 0, 1, 2, 3 & 4.
+  stderr: search 18013 value 9310
+  stdout: 744 3770
+result
+  scores: 0=1
+  metadata: score=15190
+

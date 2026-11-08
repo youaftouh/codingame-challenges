@@ -1,0 +1,32 @@
+{
+    "test_game_id":  918799709,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918799709",
+    "log":  "game 918799709\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The dead are coming...\nframe 1\n  referee: ¤RED¤Timeout: the program did not provide 1 input lines in due time...§RED§\nresult\n  scores: 0=0\n  metadata: score=0\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  0,
+                                   "remaining":  5,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  0
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  2,
+                                      "remaining":  28,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  40
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  2,
+                                    "remaining":  118,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  40
+                                }
+               }
+}

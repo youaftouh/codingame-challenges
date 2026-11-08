@@ -1,0 +1,14 @@
+﻿{
+    "stub_generator":  "gameloop\nread x:int y:int\nread humanCount:int\nloop humanCount read humanId:int humanX:int humanY:int\nread zombieCount:int\nloop zombieCount read zombieId:int zombieX:int zombieY:int zombieXNext:int zombieYNext:int\nwrite 0 0\n\nSTATEMENT\nSave humans, destroy zombies!\n\nOUTPUT\nYour destination coordinates\n ",
+    "syntax_doc":  "https://www.codingame.com/api/v1/docs/stub-generator",
+    "limits":  {
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  4,
+                                    "remaining":  116,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  48
+                                }
+               }
+}

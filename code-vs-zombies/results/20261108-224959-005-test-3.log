@@ -1,0 +1,48 @@
+game 918800355
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: Alright. Who wants some?
+frame 1 agent 0
+  stderr: search 910 value 80
+  stdout: 1250 5500
+frame 2 agent 0
+  stderr: search 944 value 80
+  stdout: 1650 5500
+frame 3 agent 0
+  stderr: search 931 value 80
+  stdout: 2050 5500
+frame 4 agent 0
+  stderr: search 1202 value 80
+  stdout: 2450 5500
+frame 5 agent 0
+  stderr: search 1314 value 80
+  stdout: 2850 5500
+frame 6 agent 0
+  stderr: search 1493 value 80
+  stdout: 3250 5500
+frame 7 agent 0
+  referee: You have destroyed zombie 0.
+  stderr: search 1722 value 80
+  stdout: 3650 5500
+frame 8 agent 0
+  stderr: search 2201 value 40
+  stdout: 13493 4902
+frame 9 agent 0
+  stderr: search 2515 value 40
+  stdout: 13095 4945
+frame 10 agent 0
+  stderr: search 2959 value 40
+  stdout: 12697 4988
+frame 11 agent 0
+  stderr: search 3728 value 40
+  stdout: 12299 5031
+frame 12 agent 0
+  referee: ¤GREEN¤You held off the wave of zombies and scored 80 points.§GREEN§
+      You have destroyed zombie 1.
+  stderr: search 5139 value 40
+  stdout: 11904 4965
+result
+  scores: 0=1
+  metadata: score=80
+

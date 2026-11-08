@@ -1,0 +1,32 @@
+{
+    "test_game_id":  918799791,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918799791",
+    "log":  "game 918799791\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: Good. Bad. I\u0027m the guy with the gun.\nframe 1 agent 0\n  stderr: target 7\n      5.770112997891343 3.601999444752872\n      3.9645607549927764 5.054980835769806\n  stdout: 11721 5561\nframe 2 agent 0\n  referee: You have destroyed zombie 6.\n  stderr: target 7\n      5.388710983656081 2.602887819326834\n      2.9832873687958235 4.055524781085674\n  stdout: 12120 5586\nframe 3 agent 0\n  stderr: target 7\n      5.192776445851768 1.6037767924496225\n      1.9968089771716637 3.0560687574071363\n  stdout: 12519 5611\nframe 4 agent 0\n  referee: You have destroyed zombie 5.\n      Zombies have eaten human 7.\n  stderr: target 7\n      5.205020818845703 0.6046693311223913\n      1.0047808572340182 2.056612809937738\n  stdout: 12918 5636\nframe 5 agent 0\n  stderr: target 8\n      3.708958661612466 1.736895578323579\n      8.078203212874802 2.4673264883269908\n      8.262039758254693 3.166967200651121\n      8.55322192508051 4.085117042386913\n      9.082451218029341 5.02576175818154\n      9.022528793339577 5.682487351503741\n      8.103363103442337 6.174322331236036\n      9.715346046959091 7.165930679262813\n      0.8423539540317634 15.026032826398323\n  stdout: 8611 1556\nframe 6 agent 0\n  referee: Zombies have eaten human 8.\n  stderr: target 8\n      2.709 0.7376016879047933\n      7.707651621272778 1.4668205411705961\n      7.453248542167925 2.1639157215566414\n      8.275278536370681 3.4123278344848402\n      8.764303089378336 4.135015870586231\n      7.198989618430929 5.525493756217629\n      8.336516095861313 5.327785656349175\n      8.868799611732658 6.163183025028544\n      0.9716231254989253 15.22527380706173\n  stdout: 8704 1276\nframe 7 agent 0\n  referee: Zombies have eaten human 3.\n  stderr: target 3\n      7.475252503231774 0.46631534394656154\n      6.716925260663877 1.1608644408370858\n      8.136099890983711 2.932883606623352\n      8.578402762232114 3.3076360516235765\n      8.079837548294119 5.160553507134676\n      6.341231803516792 4.995210831386399\n      7.743760721610522 5.116200983151463\n      1.3639812722427573 15.408569247337663\n  stdout: 8892 1628\nframe 8 agent 0\n  referee: You have destroyed zombie 4.\n      Zombies have eaten human 5.\n  stderr: target 5\n      6.037955212614711 0.15945218719101975\n      8.094689346384069 2.803877894987583\n      8.485134667709328 2.957994464159796\n      7.3315864138955495 4.159691244551691\n      5.518905904451791 4.623073923267937\n      7.221780793317524 4.987933565114917\n      1.9755824730471887 14.533509770526871\n  stdout: 9080 1980\nframe 9 agent 0\n  stderr: target 4\n      8.152243348147245 1.805271793941289\n      8.48697063026306 2.2019096825256024\n      6.63463635597933 4.000391387102017\n      4.744983617474545 4.582173338056953\n      6.783203800436377 5.058780732548111\n      2.721991317230475 20.63708267294581\n  stdout: 6147 767\nframe 10 agent 0\n  referee: You have destroyed zombie 3.\n      Zombies have eaten human 4.\n  stderr: target 4\n      7.77432156213412 0.8073490570998396\n      8.054289134493796 1.7175891534357104\n      5.684663688151876 2.9989268914063247\n      3.765907820976676 4.404189057022871\n  stdout: 1742 1532\nframe 11 agent 0\n  stderr: target 1\n      7.335138831319007 1.697652791356348\n      4.68920092387723 1.9974624527134421\n      2.791547766640754 4.428126720183152\n  stdout: 1496 1216\nframe 12 agent 0\n  referee: Zombies have eaten humans 1 \u0026 2.\n  stderr: target 1\n      6.7087281505395495 0.6955932719628619\n      3.6908955358537376 0.9959982429703378\n      1.8175705625436709 4.564767929479\n  stdout: 1249 900\nframe 13 agent 0\n  stderr: target 6\n      0.8467363769762737 4.90861742245207\n  stdout: 1639 814\nframe 14 agent 0\n  referee: You have destroyed zombies 0 \u0026 1.\n  stderr: target 6\n      -0.1089587524329354 3.9101950079247967\n  stdout: 2029 728\nframe 15 agent 0\n  stderr: target 0\n      1.7664541680471835 9.576223812129706\n  stdout: 573 6970\nframe 16 agent 0\n  stderr: target 0\n      0.8786081706269092 8.574847301847422\n  stdout: 594 6570\nframe 17 agent 0\n  stderr: target 0\n      0.06916069941413706 7.573470967792773\n  stdout: 615 6170\nframe 18 agent 0\n  referee: ¤GREEN¤You held off the wave of zombies and scored 9710 points.§GREEN§\n      You have destroyed zombie 2.\n  stderr: target 0\n      -0.5369565966793739 6.572094890520069\n  stdout: 636 5770\nresult\n  scores: 0=1\n  metadata: score=9710\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  0,
+                                   "remaining":  5,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  0
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  4,
+                                      "remaining":  26,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  26
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  4,
+                                    "remaining":  116,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  26
+                                }
+               }
+}

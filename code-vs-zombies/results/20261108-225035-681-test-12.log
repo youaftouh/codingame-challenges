@@ -1,0 +1,51 @@
+game 918800525
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: Alright. Who wants some?
+frame 1 agent 0
+  stderr: INITIAL [[8000, 4000], [[0, 4000], [15000, 4000]], [[4333, 1800], [4333, 3600], [4333, 5400], [4333, 7200], [10666, 1800], [10666, 3600], [10666, 5400], [10666, 7200], [0, 7200]], [[4676, 2005], [4730, 3643], [4706, 5257], [4634, 6936], [10357, 2054], [10270, 3659], [10311, 5214], [10409, 6892], [0, 6800]]]
+      search 618 value 760
+  stdout: 8000 4000
+frame 2 agent 0
+  stderr: search 726 value 760
+  stdout: 0 6800
+frame 3 agent 0
+  referee: You have destroyed zombies 1, 2 & 3.
+  stderr: search 822 value 760
+  stdout: 0 6400
+frame 4 agent 0
+  referee: You have destroyed zombie 0.
+  stderr: search 941 value 520
+  stdout: 0 6000
+frame 5 agent 0
+  stderr: search 1064 value 480
+  stdout: 0 5600
+frame 6 agent 0
+  stderr: search 1196 value 480
+  stdout: 0 5200
+frame 7 agent 0
+  stderr: search 1391 value 480
+  stdout: 0 4800
+frame 8 agent 0
+  referee: You have destroyed zombie 8.
+  stderr: search 1707 value 480
+  stdout: 0 4400
+frame 9 agent 0
+  stderr: search 2283 value 440
+  stdout: 7879 3307
+frame 10 agent 0
+  stderr: search 2930 value 440
+  stdout: 7122 4230
+frame 11 agent 0
+  stderr: search 4128 value 440
+  stdout: 6722 4251
+frame 12 agent 0
+  referee: ¤GREEN¤You held off the wave of zombies and scored 760 points.§GREEN§
+      You have destroyed zombies 4, 5, 6 & 7.
+  stderr: search 7179 value 440
+  stdout: 6322 4272
+result
+  scores: 0=1
+  metadata: score=760
+

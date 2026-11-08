@@ -1,0 +1,32 @@
+{
+    "test_game_id":  918801346,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918801346",
+    "log":  "game 918801346\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: Fear the starving dead...\nframe 1 agent 0\n  referee: You have destroyed zombies 17, 18 \u0026 19.\n  stderr: INITIAL [[3989, 3259], [[3647, 384], [60, 3262], [2391, 1601], [2363, 3422]], [[6485, 499], [7822, 446], [9202, 826], [11060, 253], [12568, 808], [14148, 650], [6571, 1893], [8484, 2013], [9669, 1968], [7570, 3338], [9780, 3611], [8360, 4767], [9804, 4154], [10935, 4977], [12310, 4614], [13891, 4302], [913, 5636], [2410, 5912], [3952, 6143], [4615, 5995], [6568, 6085], [8204, 5579], [9049, 5470], [30, 6798], [1798, 6682], [3247, 7664], [5005, 7319], [6415, 7094], [8159, 7447], [9550, 6847]], [[6085, 482], [7422, 440], [8803, 794], [10660, 260], [12183, 917], [13760, 749], [6217, 2080], [8098, 2119], [9278, 2056], [7170, 3329], [9380, 3586], [7981, 4636], [9408, 4093], [10546, 4880], [11915, 4549], [13493, 4260], [777, 5259], [2402, 5512], [3957, 5743], [4525, 5605], [6298, 5789], [7853, 5386], [8682, 5309], [33, 6398], [1866, 6287], [3165, 7272], [4907, 6930], [6201, 6755], [7876, 7163], [9213, 6630]]]\n      search 124 value 18270\n  stdout: 2842 6094\nframe 2 agent 0\n  referee: You have destroyed zombie 24.\n  stderr: search 154 value 18020\n  stdout: 777 5259\nframe 3 agent 0\n  referee: You have destroyed zombies 16 \u0026 23.\n  stderr: search 165 value 19460\n  stdout: 641 4882\nframe 4 agent 0\n  stderr: search 189 value 18980\n  stdout: 5285 449\nframe 5 agent 0\n  stderr: search 219 value 18980\n  stdout: 4885 433\nframe 6 agent 0\n  referee: You have destroyed zombies 0 \u0026 6.\n  stderr: search 262 value 18980\n  stdout: 4485 417\nframe 7 agent 0\n  referee: You have destroyed zombies 7 \u0026 9.\n  stderr: search 307 value 18500\n  stdout: 7347 2880\nframe 8 agent 0\n  referee: You have destroyed zombies 2, 8, 10, 11, 12, 20, 21 \u0026 22.\n  stderr: search 423 value 18720\n  stdout: 7347 2880\nframe 9 agent 0\n  referee: You have destroyed zombie 1.\n  stderr: search 529 value 4800\n  stdout: 5832 505\nframe 10 agent 0\n  stderr: search 615 value 4640\n  stdout: 2503 4210\nframe 11 agent 0\n  referee: You have destroyed zombies 25, 26 \u0026 27.\n  stderr: search 822 value 4640\n  stdout: 2433 3816\nframe 12 agent 0\n  referee: You have destroyed zombie 28.\n  stderr: search 1112 value 3680\n  stdout: 6881 1097\nframe 13 agent 0\n  referee: You have destroyed zombies 3, 4, 13, 14 \u0026 29.\n  stderr: search 1677 value 3520\n  stdout: 7623 1828\nframe 14 agent 0\n  stderr: search 2207 value 480\n  stdout: 6829 5251\nframe 15 agent 0\n  referee: ¤GREEN¤You held off the wave of zombies and scored 21280 points.§GREEN§\n      You have destroyed zombies 5 \u0026 15.\n  stderr: search 2884 value 480\n  stdout: 9400 884\nresult\n  scores: 0=1\n  metadata: score=21280\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  1,
+                                   "remaining":  4,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  287
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  1,
+                                      "remaining":  29,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  60
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  2,
+                                    "remaining":  118,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  47
+                                }
+               }
+}

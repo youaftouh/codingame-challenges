@@ -1,0 +1,32 @@
+{
+    "test_game_id":  918805418,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918805418",
+    "log":  "game 918805418\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: Alright. Who wants some?\nframe 1 agent 0\n  stderr: search 39687 value 10\n  stdout: 8250 8999\nframe 2 agent 0\n  stderr: search 41709 value 10\n  stdout: 8250 8599\nframe 3 agent 0\n  stderr: search 44148 value 10\n  stdout: 8250 8199\nframe 4 agent 0\n  stderr: search 45387 value 10\n  stdout: 8250 7799\nframe 5 agent 0\n  stderr: search 47932 value 10\n  stdout: 8250 7399\nframe 6 agent 0\n  stderr: search 49415 value 10\n  stdout: 8250 6999\nframe 7 agent 0\n  stderr: search 52823 value 10\n  stdout: 8250 6599\nframe 8 agent 0\n  stderr: search 57175 value 10\n  stdout: 8250 6199\nframe 9 agent 0\n  referee: ¤GREEN¤You held off the wave of zombies and scored 10 points.§GREEN§\n      You have destroyed zombie 0.\n  stderr: search 61454 value 10\n  stdout: 8250 5799\nresult\n  scores: 0=1\n  metadata: score=10\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  2,
+                                   "remaining":  3,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  103
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  3,
+                                      "remaining":  27,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  12
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  4,
+                                    "remaining":  116,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  18
+                                }
+               }
+}

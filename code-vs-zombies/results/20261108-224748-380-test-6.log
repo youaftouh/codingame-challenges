@@ -1,0 +1,58 @@
+game 918799587
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: The dead are coming...
+frame 1 agent 0
+  stderr: search 214 value 5400
+  stdout: 10 5500
+frame 2 agent 0
+  stderr: search 236 value 5400
+  stdout: 500 3500
+frame 3 agent 0
+  stderr: search 257 value 5400
+  stdout: 9084 3883
+frame 4 agent 0
+  stderr: search 278 value 5400
+  stdout: 10600 4500
+frame 5 agent 0
+  stderr: search 318 value 5400
+  stdout: 14600 3500
+frame 6 agent 0
+  referee: You have destroyed zombie 0.
+  stderr: search 355 value 5400
+  stdout: 12600 4500
+frame 7 agent 0
+  referee: You have destroyed zombies 1 & 2.
+  stderr: search 393 value 5040
+  stdout: 9600 4500
+frame 8 agent 0
+  stderr: search 414 value 3960
+  stdout: 500 3500
+frame 9 agent 0
+  stderr: search 443 value 3960
+  stdout: 7802 4392
+frame 10 agent 0
+  referee: You have destroyed zombies 3 & 4.
+  stderr: search 563 value 3960
+  stdout: 7402 4367
+frame 11 agent 0
+  referee: You have destroyed zombie 5.
+  stderr: search 673 value 2880
+  stdout: 9002 4377
+frame 12 agent 0
+  referee: You have destroyed zombies 6, 7 & 8.
+  stderr: search 878 value 2520
+  stdout: 9602 4377
+frame 13 agent 0
+  stderr: search 930 value 360
+  stdout: 11355 1981
+frame 14 agent 0
+  referee: ¤GREEN¤You held off the wave of zombies and scored 5400 points.§GREEN§
+      You have destroyed zombie 9.
+  stderr: search 1228 value 360
+  stdout: 11038 2225
+result
+  scores: 0=1
+  metadata: score=5400
+

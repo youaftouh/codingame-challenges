@@ -1,0 +1,66 @@
+game 918800388
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: Braaaaaiiiiiiiiiiiins...
+frame 1 agent 0
+  stderr: search 627 value 160
+  stdout: 2000 1500
+frame 2 agent 0
+  stderr: search 574 value 160
+  stdout: 1865 1876
+frame 3 agent 0
+  stderr: search 755 value 160
+  stdout: 3410 1348
+frame 4 agent 0
+  referee: You have destroyed zombie 0.
+  stderr: search 831 value 160
+  stdout: 3410 1348
+frame 5 agent 0
+  stderr: search 918 value 120
+  stdout: 3410 1348
+frame 6 agent 0
+  stderr: search 966 value 120
+  stdout: 3410 1348
+frame 7 agent 0
+  stderr: search 1037 value 120
+  stdout: 3410 1348
+frame 8 agent 0
+  stderr: search 1088 value 120
+  stdout: 3410 1348
+frame 9 agent 0
+  stderr: search 1178 value 120
+  stdout: 3410 1348
+frame 10 agent 0
+  stderr: search 1273 value 120
+  stdout: 3410 1348
+frame 11 agent 0
+  stderr: search 1423 value 120
+  stdout: 3410 1348
+frame 12 agent 0
+  stderr: search 1560 value 120
+  stdout: 3410 1348
+frame 13 agent 0
+  stderr: search 1747 value 120
+  stdout: 3410 1348
+frame 14 agent 0
+  stderr: search 1994 value 120
+  stdout: 9000 1200
+frame 15 agent 0
+  stderr: search 2371 value 120
+  stdout: 7036 7101
+frame 16 agent 0
+  stderr: search 2893 value 120
+  stdout: 8611 1998
+frame 17 agent 0
+  stderr: search 3883 value 120
+  stdout: 8786 1638
+frame 18 agent 0
+  referee: ¤GREEN¤You held off the wave of zombies and scored 160 points.§GREEN§
+      You have destroyed zombies 1 & 2.
+  stderr: search 5645 value 120
+  stdout: 8961 1278
+result
+  scores: 0=1
+  metadata: score=160
+

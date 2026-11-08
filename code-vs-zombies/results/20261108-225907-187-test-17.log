@@ -1,0 +1,72 @@
+game 918803854
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: Good. Bad. I'm the guy with the gun.
+frame 1 agent 0
+  referee: You have destroyed zombie 6.
+  stderr: INITIAL [[3989, 3259], [[3647, 384], [60, 3262], [2391, 1601], [2363, 3422]], [[6485, 499], [7822, 446], [9202, 826], [11060, 253], [12568, 808], [14148, 650], [6571, 1893], [8484, 2013], [9669, 1968], [7570, 3338], [9780, 3611], [8360, 4767], [9804, 4154], [10935, 4977], [12310, 4614], [13891, 4302], [913, 5636], [2410, 5912], [3952, 6143], [4615, 5995], [6568, 6085], [8204, 5579], [9049, 5470], [30, 6798], [1798, 6682], [3247, 7664], [5005, 7319], [6415, 7094], [8159, 7447], [9550, 6847]], [[6085, 482], [7422, 440], [8803, 794], [10660, 260], [12183, 917], [13760, 749], [6217, 2080], [8098, 2119], [9278, 2056], [7170, 3329], [9380, 3586], [7981, 4636], [9408, 4093], [10546, 4880], [11915, 4549], [13493, 4260], [777, 5259], [2402, 5512], [3957, 5743], [4525, 5605], [6298, 5789], [7853, 5386], [8682, 5309], [33, 6398], [1866, 6287], [3165, 7272], [4907, 6930], [6201, 6755], [7876, 7163], [9213, 6630]]]
+      search 172 value 16660
+  stdout: 7170 3329
+frame 2 agent 0
+  referee: You have destroyed zombie 9.
+  stderr: search 192 value 16930
+  stdout: 7170 3329
+frame 3 agent 0
+  referee: You have destroyed zombies 7, 8, 10, 11, 12, 20, 21 & 22.
+  stderr: search 218 value 17600
+  stdout: 7170 3329
+frame 4 agent 0
+  referee: You have destroyed zombies 19 & 27.
+  stderr: search 311 value 4060
+  stdout: 5478 5534
+frame 5 agent 0
+  referee: You have destroyed zombies 1, 2, 13, 28 & 29.
+  stderr: search 330 value 3640
+  stdout: 8935 3152
+frame 6 agent 0
+  referee: You have destroyed zombie 14.
+  stderr: search 484 value 700
+  stdout: 9573 3771
+frame 7 agent 0
+  referee: You have destroyed zombies 3 & 4.
+      Zombies have eaten humans 1 & 3.
+  stderr: search 665 value 740
+  stdout: 10103 2062
+frame 8 agent 0
+  referee: Zombies have eaten human 0.
+  stderr: search 907 value 260
+  stdout: 3685 385
+frame 9 agent 0
+  referee: You have destroyed zombie 26.
+  stderr: search 962 value 260
+  stdout: 2369 3022
+frame 10 agent 0
+  stderr: search 1094 value 250
+  stdout: 2375 2622
+frame 11 agent 0
+  stderr: search 1012 value 250
+  stdout: 2381 2222
+frame 12 agent 0
+  referee: You have destroyed zombies 0, 17, 18, 24 & 25.
+  stderr: search 1189 value 250
+  stdout: 2387 1822
+frame 13 agent 0
+  referee: You have destroyed zombies 16 & 23.
+  stderr: search 1307 value 60
+  stdout: 1687 2101
+frame 14 agent 0
+  stderr: search 1588 value 30
+  stdout: 8826 3315
+frame 15 agent 0
+  stderr: search 1857 value 30
+  stdout: 8433 3238
+frame 16 agent 0
+  referee: ¤GREEN¤You held off the wave of zombies and scored 18660 points.§GREEN§
+      You have destroyed zombies 5 & 15.
+  stderr: search 1615 value 30
+  stdout: 8040 3161
+result
+  scores: 0=1
+  metadata: score=18660
+

@@ -1,0 +1,89 @@
+game 918800049
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: Fear the starving dead...
+frame 1 agent 0
+  referee: You have destroyed zombie 6.
+  stderr: search 483 value 670
+  stdout: 11623 6702
+frame 2 agent 0
+  stderr: search 527 value 580
+  stdout: 7577 5864
+frame 3 agent 0
+  referee: You have destroyed zombie 4.
+  stderr: search 587 value 580
+  stdout: 7654 6256
+frame 4 agent 0
+  referee: Zombies have eaten human 2.
+  stderr: search 654 value 490
+  stdout: 7731 6648
+frame 5 agent 0
+  stderr: search 720 value 490
+  stdout: 7809 7040
+frame 6 agent 0
+  referee: You have destroyed zombies 3, 5 & 7.
+  stderr: search 751 value 490
+  stdout: 7887 7432
+frame 7 agent 0
+  stderr: search 802 value 250
+  stdout: 2444 3567
+frame 8 agent 0
+  stderr: search 854 value 250
+  stdout: 0 4500
+frame 9 agent 0
+  stderr: search 993 value 250
+  stdout: 0 4500
+frame 10 agent 0
+  referee: You have destroyed zombies 0, 1 & 2.
+      Zombies have eaten human 0.
+  stderr: search 1103 value 250
+  stdout: 0 4500
+frame 11 agent 0
+  stderr: search 1442 value 10
+  stdout: 0 4500
+frame 12 agent 0
+  stderr: search 1505 value 10
+  stdout: 0 4500
+frame 13 agent 0
+  stderr: search 1526 value 10
+  stdout: 0 4500
+frame 14 agent 0
+  stderr: search 1588 value 10
+  stdout: 0 4500
+frame 15 agent 0
+  stderr: search 1777 value 10
+  stdout: 14898 4980
+frame 16 agent 0
+  stderr: search 1890 value 10
+  stdout: 14531 5140
+frame 17 agent 0
+  stderr: search 2077 value 10
+  stdout: 14164 5300
+frame 18 agent 0
+  stderr: search 2161 value 10
+  stdout: 13765 5269
+frame 19 agent 0
+  stderr: search 2429 value 10
+  stdout: 13366 5238
+frame 20 agent 0
+  stderr: search 2753 value 10
+  stdout: 12967 5207
+frame 21 agent 0
+  stderr: search 3263 value 10
+  stdout: 12329 6100
+frame 22 agent 0
+  stderr: search 3903 value 10
+  stdout: 11962 6260
+frame 23 agent 0
+  stderr: search 4721 value 10
+  stdout: 11595 6420
+frame 24 agent 0
+  referee: ¤GREEN¤You held off the wave of zombies and scored 670 points.§GREEN§
+      You have destroyed zombie 8.
+  stderr: search 6116 value 10
+  stdout: 11215 6293
+result
+  scores: 0=1
+  metadata: score=670
+

@@ -1,0 +1,60 @@
+game 918805926
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: Alright. Who wants some?
+frame 1 agent 0
+  stderr: search 7403 value 3390
+  stdout: 7000 5500
+frame 2 agent 0
+  stderr: search 8381 value 3390
+  stdout: 7032 2301
+frame 3 agent 0
+  referee: You have destroyed zombies 0, 1 & 2.
+  stderr: search 9699 value 3390
+  stdout: 8200 3500
+frame 4 agent 0
+  stderr: search 9755 value 1230
+  stdout: 7032 2301
+frame 5 agent 0
+  referee: Zombies have eaten humans 0 & 2.
+  stderr: search 12461 value 1230
+  stdout: 7032 2301
+frame 6 agent 0
+  referee: You have destroyed zombies 3, 4 & 5.
+      Zombies have eaten human 5.
+  stderr: search 13922 value 1230
+  stdout: 7000 5500
+frame 7 agent 0
+  stderr: search 8613 value 270
+  stdout: 10949 6409
+frame 8 agent 0
+  stderr: search 15014 value 270
+  stdout: 7013 6613
+frame 9 agent 0
+  stderr: search 17010 value 270
+  stdout: 10365 6955
+frame 10 agent 0
+  stderr: search 18467 value 270
+  stdout: 10073 7228
+frame 11 agent 0
+  stderr: search 19599 value 270
+  stdout: 8437 6275
+frame 12 agent 0
+  stderr: search 17943 value 270
+  stdout: 8475 6369
+frame 13 agent 0
+  stderr: search 22754 value 270
+  stdout: 8626 6738
+frame 14 agent 0
+  stderr: search 16698 value 270
+  stdout: 8000 7014
+frame 15 agent 0
+  referee: ¤GREEN¤You held off the wave of zombies and scored 3390 points.§GREEN§
+      You have destroyed zombies 6 & 7.
+  stderr: search 17875 value 270
+  stdout: 10287 6003
+result
+  scores: 0=1
+  metadata: score=3390
+

@@ -1,0 +1,62 @@
+game 918806994
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: Fear the walking dead...
+frame 1 agent 0
+  stderr: search 7443 value 1980
+  stdout: 203 3627
+frame 2 agent 0
+  referee: You have destroyed zombie 3.
+  stderr: search 8204 value 2250
+  stdout: 218 4026
+frame 3 agent 0
+  stderr: search 8783 value 2250
+  stdout: 6243 1515
+frame 4 agent 0
+  stderr: search 9638 value 2790
+  stdout: 6243 1515
+frame 5 agent 0
+  stderr: search 10218 value 2790
+  stdout: 7081 2328
+frame 6 agent 0
+  stderr: search 12207 value 2790
+  stdout: 4945 1619
+frame 7 agent 0
+  stderr: search 13726 value 2790
+  stdout: 4945 1619
+frame 8 agent 0
+  referee: You have destroyed zombies 1, 4, 5, 7 & 8.
+  stderr: search 16069 value 2790
+  stdout: 8000 4500
+frame 9 agent 0
+  referee: You have destroyed zombie 0.
+  stderr: search 17633 value 1080
+  stdout: 4008 47
+frame 10 agent 0
+  stderr: search 18171 value 990
+  stdout: 7334 1193
+frame 11 agent 0
+  stderr: search 19642 value 990
+  stdout: 4487 2042
+frame 12 agent 0
+  stderr: search 20265 value 990
+  stdout: 4000 8999
+frame 13 agent 0
+  stderr: search 21709 value 990
+  stdout: 4000 8999
+frame 14 agent 0
+  stderr: search 23453 value 990
+  stdout: 12000 8999
+frame 15 agent 0
+  stderr: search 26027 value 990
+  stdout: 7629 760
+frame 16 agent 0
+  referee: ¤GREEN¤You held off the wave of zombies and scored 2880 points.§GREEN§
+      You have destroyed zombies 2, 6, 9 & 10.
+  stderr: search 30641 value 990
+  stdout: 7229 785
+result
+  scores: 0=1
+  metadata: score=2880
+
