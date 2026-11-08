@@ -1,0 +1,32 @@
+{
+    "test_game_id":  918790113,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918790113",
+    "log":  "game 918790113\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\nframe 1\n  stdout: D\nframe 2\n  stdout: D\nframe 3\n  stdout: D\nframe 4\n  stdout: D\nframe 5\n  stdout: D\nframe 6\n  stdout: A\nframe 7\n  stdout: A\nframe 8\n  stdout: A\nframe 9\n  stdout: A\nframe 10\n  stdout: C\nframe 11\n  stdout: C\nframe 12\n  stdout: C\nframe 13\n  stdout: C\nframe 14\n  stdout: C\nframe 15\n  stdout: C\nframe 16\n  stdout: C\nframe 17\n  stdout: C\nframe 18\n  stdout: D\nframe 19\n  stdout: C\nframe 20\n  stdout: C\nframe 21\n  stdout: C\nframe 22\n  stdout: A\nframe 23\n  stdout: A\nframe 24\n  stdout: A\nframe 25\n  stdout: A\nframe 26\n  stdout: A\nframe 27\n  stdout: B\nframe 28\n  referee: ¤GREEN¤Final score: 48§GREEN§\n  stdout: B\nresult\n  scores: 0=1\n  metadata: score=48\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  2,
+                                   "remaining":  3,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  221
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  5,
+                                      "remaining":  25,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  40
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  5,
+                                    "remaining":  115,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  43
+                                }
+               }
+}

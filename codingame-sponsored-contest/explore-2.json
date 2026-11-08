@@ -1,0 +1,32 @@
+{
+    "test_game_id":  918788431,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918788431",
+    "log":  "game 918788431\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\nframe 1\n  stdout: A\nframe 2\n  stdout: A\nframe 3\n  stdout: A\nframe 4\n  stdout: A\nframe 5\n  stdout: A\nframe 6\n  stdout: A\nframe 7\n  stdout: A\nframe 8\n  stdout: A\nframe 9\n  stdout: D\nframe 10\n  stdout: D\nframe 11\n  stdout: D\nframe 12\n  stdout: A\nframe 13\n  stdout: A\nframe 14\n  stdout: A\nframe 15\n  stdout: A\nframe 16\n  stdout: A\nframe 17\n  stdout: D\nframe 18\n  stdout: D\nframe 19\n  stdout: D\nframe 20\n  stdout: E\nframe 21\n  stdout: E\nframe 22\n  stdout: E\nframe 23\n  stdout: E\nframe 24\n  stdout: E\nframe 25\n  stdout: E\nframe 26\n  stdout: E\nframe 27\n  stdout: E\nframe 28\n  stdout: E\nframe 29\n  stdout: E\nframe 30\n  stdout: E\nframe 31\n  stdout: E\nframe 32\n  stdout: E\nframe 33\n  stdout: E\nframe 34\n  stdout: E\nframe 35\n  stdout: E\nframe 36\n  stdout: E\nframe 37\n  stdout: E\nframe 38\n  stdout: E\nframe 39\n  stdout: E\nframe 40\n  stdout: E\nframe 41\n  stdout: E\nframe 42\n  stdout: E\nframe 43\n  stdout: E\nframe 44\n  stdout: E\nframe 45\n  stdout: C\nframe 46\n  stdout: C\nframe 47\n  stdout: C\nframe 48\n  stdout: A\nframe 49\n  stdout: A\nframe 50\n  stdout: A\nframe 51\n  stdout: A\nframe 52\n  stdout: A\nframe 53\n  stdout: C\nframe 54\n  stdout: C\nframe 55\n  stdout: C\nframe 56\n  stdout: A\nframe 57\n  stdout: A\nframe 58\n  stdout: A\nframe 59\n  stdout: A\nframe 60\n  stdout: A\nframe 61\n  stdout: A\nframe 62\n  stdout: C\nframe 63\n  stdout: C\nframe 64\n  stdout: C\nframe 65\n  stdout: E\nframe 66\n  stdout: E\nframe 67\n  stdout: E\nframe 68\n  stdout: E\nframe 69\n  stdout: E\nframe 70\n  stdout: E\nframe 71\n  stdout: D\nframe 72\n  stdout: D\nframe 73\n  stdout: D\nframe 74\n  stdout: A\nframe 75\n  stdout: A\nframe 76\n  stdout: A\nframe 77\n  stdout: D\nframe 78\n  stdout: D\nframe 79\n  stdout: D\nframe 80\n  stdout: A\nframe 81\n  stdout: A\nframe 82\n  stdout: A\nframe 83\n  stdout: D\nframe 84\n  stdout: D\nframe 85\n  stdout: D\nframe 86\n  stdout: A\nframe 87\n  stdout: A\nframe 88\n  stdout: A\nframe 89\n  stdout: C\nframe 90\n  stdout: C\nframe 91\n  stdout: C\nframe 92\n  stdout: D\nframe 93\n  stdout: D\nframe 94\n  stdout: D\nframe 95\n  stdout: A\nframe 96\n  stdout: A\nframe 97\n  stdout: A\nframe 98\n  stdout: A\nframe 99\n  stdout: A\nframe 100\n  stdout: A\nframe 101\n  stdout: A\nframe 102\n  stdout: A\nframe 103\n  stdout: A\nframe 104\n  stdout: A\nframe 105\n  stdout: A\nframe 106\n  stdout: C\nframe 107\n  stdout: C\nframe 108\n  stdout: C\nframe 109\n  stdout: E\nframe 110\n  stdout: E\nframe 111\n  stdout: C\nframe 112\n  stdout: C\nframe 113\n  stdout: C\nframe 114\n  stdout: A\nframe 115\n  stdout: A\nframe 116\n  stdout: C\nframe 117\n  stdout: C\nframe 118\n  stdout: C\nframe 119\n  stdout: E\nframe 120\n  stdout: E\nframe 121\n  stdout: E\nframe 122\n  stdout: E\nframe 123\n  stdout: E\nframe 124\n  stdout: D\nframe 125\n  stdout: D\nframe 126\n  stdout: D\nframe 127\n  stdout: E\nframe 128\n  stdout: E\nframe 129\n  stdout: E\nframe 130\n  stdout: D\nframe 131\n  stdout: D\nframe 132\n  stdout: D\nframe 133\n  stdout: E\nframe 134\n  stdout: E\nframe 135\n  stdout: E\nframe 136\n  stdout: D\nframe 137\n  stdout: D\nframe 138\n  stdout: D\nframe 139\n  stdout: E\nframe 140\n  stdout: E\nframe 141\n  stdout: E\nframe 142\n  stdout: E\nframe 143\n  stdout: E\nframe 144\n  stdout: E\nframe 145\n  stdout: E\nframe 146\n  stdout: E\nframe 147\n  stdout: E\nframe 148\n  stdout: E\nframe 149\n  stdout: E\nframe 150\n  stdout: E\nframe 151\n  stdout: E\nframe 152\n  stdout: E\nframe 153\n  stdout: C\nframe 154\n  stdout: C\nframe 155\n  stdout: C\nframe 156\n  stdout: A\nframe 157\n  stdout: A\nframe 158\n  stdout: C\nframe 159\n  stdout: C\nframe 160\n  stdout: C\nframe 161\n  stdout: E\nframe 162\n  stdout: E\nframe 163\n  stdout: C\nframe 164\n  stdout: C\nframe 165\n  stdout: C\nframe 166\n  stdout: A\nframe 167\n  stdout: A\nframe 168\n  stdout: A\nframe 169\n  stdout: A\nframe 170\n  stdout: A\nframe 171\n  stdout: C\nframe 172\n  stdout: C\nframe 173\n  stdout: C\nframe 174\n  stdout: C\nframe 175\n  stdout: C\nframe 176\n  stdout: C\nframe 177\n  stdout: A\nframe 178\n  stdout: A\nframe 179\n  stdout: A\nframe 180\n  stdout: D\nframe 181\n  stdout: D\nframe 182\n  stdout: D\nframe 183\n  stdout: A\nframe 184\n  stdout: A\nframe 185\n  stdout: A\nframe 186\n  stdout: A\nframe 187\n  stdout: A\nframe 188\n  stdout: A\nframe 189\n  referee: ¤GREEN¤Final score: 266§GREEN§\n  stdout: B\nresult\n  scores: 0=1\n  metadata: score=266\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  0,
+                                   "remaining":  5,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  0
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  3,
+                                      "remaining":  27,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  13
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  2,
+                                    "remaining":  118,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  54
+                                }
+               }
+}

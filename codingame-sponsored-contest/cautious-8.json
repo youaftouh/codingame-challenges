@@ -1,0 +1,32 @@
+{
+    "test_game_id":  918789124,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918789124",
+    "log":  "game 918789124\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\nframe 1\n  stdout: D\nframe 2\n  stdout: A\nframe 3\n  stdout: A\nframe 4\n  stdout: C\nframe 5\n  stdout: C\nframe 6\n  stdout: E\nframe 7\n  stdout: E\nframe 8\n  stdout: C\nframe 9\n  stdout: C\nframe 10\n  stdout: A\nframe 11\n  stdout: A\nframe 12\n  stdout: A\nframe 13\n  stdout: A\nframe 14\n  stdout: D\nframe 15\n  stdout: D\nframe 16\n  stdout: A\nframe 17\n  stdout: A\nframe 18\n  stdout: A\nframe 19\n  stdout: A\nframe 20\n  stdout: A\nframe 21\n  stdout: A\nframe 22\n  stdout: A\nframe 23\n  stdout: A\nframe 24\n  stdout: A\nframe 25\n  stdout: A\nframe 26\n  stdout: C\nframe 27\n  stdout: C\nframe 28\n  stdout: E\nframe 29\n  stdout: E\nframe 30\n  stdout: D\nframe 31\n  stdout: C\nframe 32\n  stdout: C\nframe 33\n  stdout: C\nframe 34\n  stdout: A\nframe 35\n  stdout: A\nframe 36\n  stdout: E\nframe 37\n  stdout: E\nframe 38\n  stdout: E\nframe 39\n  stdout: E\nframe 40\n  stdout: D\nframe 41\n  stdout: D\nframe 42\n  stdout: D\nframe 43\n  stdout: D\nframe 44\n  stdout: D\nframe 45\n  stdout: D\nframe 46\n  stdout: E\nframe 47\n  stdout: E\nframe 48\n  stdout: E\nframe 49\n  stdout: E\nframe 50\n  stdout: E\nframe 51\n  stdout: E\nframe 52\n  stdout: E\nframe 53\n  stdout: E\nframe 54\n  stdout: D\nframe 55\n  stdout: D\nframe 56\n  stdout: E\nframe 57\n  stdout: E\nframe 58\n  stdout: E\nframe 59\n  stdout: E\nframe 60\n  stdout: D\nframe 61\n  stdout: D\nframe 62\n  stdout: E\nframe 63\n  stdout: E\nframe 64\n  stdout: E\nframe 65\n  stdout: A\nframe 66\n  stdout: C\nframe 67\n  stdout: C\nframe 68\n  stdout: A\nframe 69\n  stdout: B\nframe 70\n  referee: ¤GREEN¤Final score: 124§GREEN§\n  stdout: B\nresult\n  scores: 0=1\n  metadata: score=124\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  0,
+                                   "remaining":  5,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  0
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  8,
+                                      "remaining":  22,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  29
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  8,
+                                    "remaining":  112,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  28
+                                }
+               }
+}

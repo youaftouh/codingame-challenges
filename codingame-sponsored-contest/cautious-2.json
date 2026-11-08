@@ -1,0 +1,32 @@
+{
+    "test_game_id":  918788944,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918788944",
+    "log":  "game 918788944\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\nframe 1\n  stdout: A\nframe 2\n  stdout: A\nframe 3\n  stdout: A\nframe 4\n  stdout: A\nframe 5\n  stdout: A\nframe 6\n  stdout: A\nframe 7\n  stdout: A\nframe 8\n  stdout: A\nframe 9\n  stdout: D\nframe 10\n  stdout: D\nframe 11\n  stdout: D\nframe 12\n  stdout: A\nframe 13\n  stdout: A\nframe 14\n  stdout: A\nframe 15\n  stdout: A\nframe 16\n  stdout: A\nframe 17\n  stdout: D\nframe 18\n  stdout: D\nframe 19\n  stdout: D\nframe 20\n  stdout: E\nframe 21\n  stdout: E\nframe 22\n  stdout: E\nframe 23\n  stdout: E\nframe 24\n  stdout: E\nframe 25\n  stdout: E\nframe 26\n  stdout: E\nframe 27\n  stdout: E\nframe 28\n  stdout: E\nframe 29\n  stdout: E\nframe 30\n  stdout: E\nframe 31\n  stdout: E\nframe 32\n  stdout: E\nframe 33\n  stdout: E\nframe 34\n  stdout: E\nframe 35\n  stdout: E\nframe 36\n  stdout: E\nframe 37\n  stdout: E\nframe 38\n  stdout: E\nframe 39\n  stdout: E\nframe 40\n  stdout: E\nframe 41\n  stdout: E\nframe 42\n  stdout: E\nframe 43\n  stdout: E\nframe 44\n  stdout: E\nframe 45\n  stdout: C\nframe 46\n  stdout: C\nframe 47\n  stdout: C\nframe 48\n  stdout: A\nframe 49\n  stdout: A\nframe 50\n  stdout: A\nframe 51\n  stdout: A\nframe 52\n  stdout: A\nframe 53\n  stdout: C\nframe 54\n  stdout: C\nframe 55\n  stdout: C\nframe 56\n  stdout: A\nframe 57\n  stdout: A\nframe 58\n  stdout: A\nframe 59\n  stdout: D\nframe 60\n  stdout: D\nframe 61\n  stdout: D\nframe 62\n  stdout: A\nframe 63\n  stdout: A\nframe 64\n  stdout: A\nframe 65\n  stdout: D\nframe 66\n  stdout: D\nframe 67\n  stdout: D\nframe 68\n  stdout: A\nframe 69\n  stdout: A\nframe 70\n  stdout: A\nframe 71\n  stdout: C\nframe 72\n  stdout: C\nframe 73\n  stdout: C\nframe 74\n  stdout: A\nframe 75\n  stdout: A\nframe 76\n  stdout: A\nframe 77\n  stdout: C\nframe 78\n  stdout: C\nframe 79\n  stdout: C\nframe 80\n  stdout: A\nframe 81\n  stdout: A\nframe 82\n  stdout: A\nframe 83\n  stdout: C\nframe 84\n  stdout: C\nframe 85\n  stdout: C\nframe 86\n  stdout: E\nframe 87\n  stdout: E\nframe 88\n  stdout: E\nframe 89\n  stdout: E\nframe 90\n  stdout: E\nframe 91\n  stdout: E\nframe 92\n  stdout: D\nframe 93\n  stdout: D\nframe 94\n  stdout: D\nframe 95\n  stdout: E\nframe 96\n  stdout: E\nframe 97\n  stdout: E\nframe 98\n  stdout: E\nframe 99\n  stdout: E\nframe 100\n  stdout: E\nframe 101\n  stdout: E\nframe 102\n  stdout: E\nframe 103\n  stdout: E\nframe 104\n  stdout: C\nframe 105\n  stdout: C\nframe 106\n  stdout: C\nframe 107\n  stdout: A\nframe 108\n  stdout: A\nframe 109\n  stdout: E\nframe 110\n  referee: ¤GREEN¤Final score: 188§GREEN§\n  stdout: B\nresult\n  scores: 0=1\n  metadata: score=188\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  0,
+                                   "remaining":  5,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  0
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  8,
+                                      "remaining":  22,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  1
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  2,
+                                    "remaining":  118,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  54
+                                }
+               }
+}
