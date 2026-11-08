@@ -1,0 +1,8 @@
+﻿{
+    "action":  "test",
+    "seed":  1,
+    "source":  "candidate-gold-economy.cpp",
+    "opponent":  "boss",
+    "replay_game_id":  0,
+    "source_sha256":  "4FF1D72F00C9FEFEB630D8C0E0D6A5C0FAE4DBC4786EAA0A980854EB0514C3F5"
+}

@@ -1,0 +1,8 @@
+﻿{
+    "action":  "test",
+    "seed":  2,
+    "source":  "candidate-gold-horizon.cpp",
+    "opponent":  "boss",
+    "replay_game_id":  0,
+    "source_sha256":  "AB36047A601B85FE58ACA7F66B2234B9270390272E45FC78F2E3DC5438864D32"
+}

@@ -1,0 +1,101 @@
+﻿[
+    {
+        "file":  "20261108-192935-progress-bot-vsboss-game0-seed1.json",
+        "percentage":  21,
+        "score":  25.79,
+        "league":  "Silver",
+        "league_rank":  57,
+        "boss_score":  32.2,
+        "eligible_for_promotion":  false
+    },
+    {
+        "file":  "20261108-193051-progress-bot-vsboss-game0-seed1.json",
+        "percentage":  30,
+        "score":  27.86,
+        "league":  "Silver",
+        "league_rank":  27,
+        "boss_score":  32.2,
+        "eligible_for_promotion":  false
+    },
+    {
+        "file":  "20261108-193159-progress-bot-vsboss-game0-seed1.json",
+        "percentage":  36,
+        "score":  28.02,
+        "league":  "Silver",
+        "league_rank":  12,
+        "boss_score":  32.2,
+        "eligible_for_promotion":  false
+    },
+    {
+        "file":  "20261108-193308-progress-bot-vsboss-game0-seed1.json",
+        "percentage":  43,
+        "score":  29.12,
+        "league":  "Silver",
+        "league_rank":  9,
+        "boss_score":  32.2,
+        "eligible_for_promotion":  false
+    },
+    {
+        "file":  "20261108-193416-progress-bot-vsboss-game0-seed1.json",
+        "percentage":  50,
+        "score":  28.53,
+        "league":  "Silver",
+        "league_rank":  11,
+        "boss_score":  32.2,
+        "eligible_for_promotion":  false
+    },
+    {
+        "file":  "20261108-193532-progress-bot-vsboss-game0-seed1.json",
+        "percentage":  61,
+        "score":  29.15,
+        "league":  "Silver",
+        "league_rank":  6,
+        "boss_score":  32.2,
+        "eligible_for_promotion":  false
+    },
+    {
+        "file":  "20261108-193639-progress-bot-vsboss-game0-seed1.json",
+        "percentage":  68,
+        "score":  29.64,
+        "league":  "Silver",
+        "league_rank":  6,
+        "boss_score":  32.2,
+        "eligible_for_promotion":  false
+    },
+    {
+        "file":  "20261108-193742-progress-bot-vsboss-game0-seed1.json",
+        "percentage":  78,
+        "score":  30.95,
+        "league":  "Silver",
+        "league_rank":  2,
+        "boss_score":  31.99,
+        "eligible_for_promotion":  false
+    },
+    {
+        "file":  "20261108-193845-progress-bot-vsboss-game0-seed1.json",
+        "percentage":  86,
+        "score":  31.7,
+        "league":  "Silver",
+        "league_rank":  1,
+        "boss_score":  31.99,
+        "eligible_for_promotion":  false
+    },
+    {
+        "file":  "20261108-193947-progress-bot-vsboss-game0-seed1.json",
+        "percentage":  95,
+        "score":  32.33,
+        "league":  "Silver",
+        "league_rank":  1,
+        "boss_score":  32.1,
+        "eligible_for_promotion":  false
+    },
+    {
+        "file":  "20261108-194050-progress-bot-vsboss-game0-seed1.json",
+        "percentage":  100,
+        "score":  32.08,
+        "league":  "Silver",
+        "league_rank":  1,
+        "boss_score":  32.21,
+        "eligible_for_promotion":  false
+    }
+]

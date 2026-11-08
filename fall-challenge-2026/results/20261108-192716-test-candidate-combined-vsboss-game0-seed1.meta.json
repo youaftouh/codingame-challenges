@@ -1,0 +1,8 @@
+﻿{
+    "action":  "test",
+    "seed":  1,
+    "source":  "candidate-combined.cpp",
+    "opponent":  "boss",
+    "replay_game_id":  0,
+    "source_sha256":  "162152D932923826398F89686DDCABF21366C8EF94D89B9F6FCF8DEF3C89C315"
+}

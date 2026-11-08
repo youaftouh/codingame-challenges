@@ -1,0 +1,30 @@
+﻿[
+    {
+        "file":  "20261108-184835-test-seed1.json",
+        "game_id":  918700088,
+        "scores":  "scores: 0=184 1=-1",
+        "turns":  24,
+        "errors":  0
+    },
+    {
+        "file":  "20261108-184856-test-seed2.json",
+        "game_id":  918700204,
+        "scores":  "scores: 0=200 1=-1",
+        "turns":  18,
+        "errors":  0
+    },
+    {
+        "file":  "20261108-184918-test-seed3.json",
+        "game_id":  918700358,
+        "scores":  "scores: 0=184 1=-1",
+        "turns":  33,
+        "errors":  0
+    },
+    {
+        "file":  "20261108-184948-test-seed4.json",
+        "game_id":  918700601,
+        "scores":  "scores: 0=477 1=-1",
+        "turns":  49,
+        "errors":  0
+    }
+]

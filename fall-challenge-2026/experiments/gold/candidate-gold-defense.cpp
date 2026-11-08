@@ -1,0 +1,186 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+// One-step stochastic placement search, with coordinated triangle approach plans.
+// Every move goes to an explicit adjacent house, avoiding routing ambiguity.
+struct Triangle { int v[3], owner, capture, enemyCapture, danger; uint64_t mask; };
+int n, turnNumber=0, dista[50][50], enemy[50], mine[50];
+vector<int> adj[50];
+vector<Triangle> triangles;
+bool attackThreat[50];
+mt19937 rng(2026);
+uint64_t neighbors[50], within[50][51];
+
+double evaluate(const vector<int>& targets) {
+    int count[50]={}, other[50], near[50];
+    for(int x:targets) ++count[x];
+    copy(enemy,enemy+n,other);
+    uint64_t majority=0,opponentMajority=0;
+    for(int i=0;i<n;i++) {
+        if(count[i]>other[i]) majority|=1ULL<<i;
+        if(other[i]>count[i]) opponentMajority|=1ULL<<i;
+    }
+    double value=0;
+    // The referee kills surrounded units simultaneously, before ownership.
+    for(int i=0;i<n;i++) {
+        if(neighbors[i] && !(neighbors[i]&~opponentMajority)) {value-=18*count[i];count[i]=0;}
+        if(neighbors[i] && !(neighbors[i]&~majority)) {value+=8*other[i];other[i]=0;}
+    }
+    majority=opponentMajority=0;
+    uint64_t occupied=0,owned=0,enemyOwned=0;
+    for(int i=0;i<n;i++) {
+        if(count[i]>other[i]) majority|=1ULL<<i;
+        if(other[i]>count[i]) opponentMajority|=1ULL<<i;
+        if(count[i]) {occupied|=1ULL<<i;value+=0.12;if(other[i]) value+=min(count[i],other[i]+1)*0.15;}
+        if(attackThreat[i]) value-=4.0*max(0,count[i]-2);
+    }
+    for(int i=0;i<n;i++) {
+        uint64_t bit=1ULL<<i;
+        bool ours=neighbors[i] && !(neighbors[i]&~majority);
+        bool theirs=neighbors[i] && !(neighbors[i]&~opponentMajority);
+        if(ours || (!theirs && (majority&bit))) owned|=bit;
+        else if(theirs || (opponentMajority&bit)) enemyOwned|=bit;
+        near[i]=50;
+        if(occupied) {
+            int d=0;while(d<50 && !(within[i][d]&occupied)) ++d;
+            near[i]=d;
+        }
+    }
+    for(const auto& t:triangles) {
+        int own=__builtin_popcountll(t.mask&owned);
+        int opp=__builtin_popcountll(t.mask&enemyOwned);
+        int empty=3-__builtin_popcountll(t.mask&occupied);
+        if(t.owner==0) {
+            value+=opp==3?-32:opp==2?-3:0;
+            if(t.danger>=3 && count[t.v[0]] && count[t.v[1]] && count[t.v[2]])
+                value+=4.0*min(t.danger,15);
+        } else if(t.capture || empty==3) {
+            if(!t.capture && empty==3) value+=12;
+            double weight=t.owner==1?1.6:1.0;
+            value+=weight*(own==3?32:own==2?5.5:own==1?1.2:0);
+            int travel=0;
+            for(int x:t.v) if(!(owned&(1ULL<<x))) travel+=near[x]+1+min(other[x],3);
+            value+=weight*8.0/(1.0+travel);
+        } else {
+            value+=empty==2?1:0;
+        }
+    }
+    return value;
+}
+
+int main() {
+    ios::sync_with_stdio(false); cin.tie(nullptr);
+    if(!(cin>>n)) return 0;
+    for(int i=0,id,x,y;i<n;i++) cin>>id>>x>>y;
+    int myScore, enemyScore;
+    while(cin>>myScore>>enemyScore) {
+        auto start=chrono::steady_clock::now();
+        ++turnNumber;
+        for(int i=0,id,a,b;i<n;i++) {cin>>id>>a>>b; mine[id]=a; enemy[id]=b; adj[i].clear();}
+        int m; cin>>m;
+        for(int i=0,a,b;i<m;i++) {cin>>a>>b;adj[a].push_back(b);adj[b].push_back(a);}
+        int k; cin>>k; triangles.resize(k);
+        for(auto& t:triangles) cin>>t.v[0]>>t.v[1]>>t.v[2]>>t.owner>>t.capture>>t.enemyCapture;
+        cin>>k; for(int i=0,a,b;i<k;i++) cin>>a>>b;
+        vector<string> commands;
+        // Resolve profitable attacks before planning movement. Each attack spends
+        // one triangle and one stationary unit on each of its three corners.
+        for(int attacks=0;attacks<3;attacks++) {
+            int chosen=-1,target=-1; double top=0;
+            for(int ti=0;ti<(int)triangles.size();ti++) {
+                const auto& t=triangles[ti];
+                if(t.owner!=0 || any_of(begin(t.v),end(t.v),[](int x){return mine[x]<1;})) continue;
+                for(int corner:t.v) for(int x:adj[corner]) {
+                    if(enemy[x]<4) continue;
+                    double score=enemy[x]-3.5;
+                    // Breaking an armed enemy triangle can also prevent retaliation.
+                    for(const auto& e:triangles) if(e.owner==1 && all_of(begin(e.v),end(e.v),[](int v){return enemy[v]>0;}) && find(begin(e.v),end(e.v),x)!=end(e.v)) score+=1.0;
+                    if(score>top) {top=score;chosen=ti;target=x;}
+                }
+            }
+            if(chosen<0) break;
+            auto& t=triangles[chosen];
+            commands.push_back("ATTACK "+to_string(t.v[0])+" "+to_string(t.v[1])+" "+to_string(t.v[2])+" "+to_string(target));
+            for(int x:t.v) --mine[x];
+            enemy[target]=0;t.owner=-1;t.capture=0;
+        }
+        fill(attackThreat,attackThreat+n,false);
+        for(const auto& t:triangles) if(t.owner==1 && all_of(begin(t.v),end(t.v),[](int x){return enemy[x]>0;}))
+            for(int x:t.v) for(int y:adj[x]) attackThreat[y]=true;
+        for(int i=0;i<n;i++) {
+            fill(dista[i],dista[i]+n,50); dista[i][i]=0;
+            queue<int> q; q.push(i);
+            while(!q.empty()) {int x=q.front();q.pop();for(int y:adj[x]) if(dista[i][y]==50) {dista[i][y]=dista[i][x]+1;q.push(y);}}
+            neighbors[i]=0;for(int j:adj[i]) neighbors[i]|=1ULL<<j;
+            uint64_t layer=0;
+            for(int d=0;d<=50;d++) {for(int j=0;j<n;j++) if(dista[i][j]==d) layer|=1ULL<<j;within[i][d]=layer;}
+        }
+        for(auto& t:triangles) {
+            t.mask=(1ULL<<t.v[0])|(1ULL<<t.v[1])|(1ULL<<t.v[2]);
+            t.danger=0;
+            for(int x:t.v) for(int y:adj[x]) {
+                t.danger=max(t.danger,enemy[y]);
+                for(int z:adj[y]) t.danger=max(t.danger,enemy[z]-2);
+            }
+        }
+        vector<int> sources;
+        for(int i=0;i<n;i++) for(int j=0;j<mine[i];j++) sources.push_back(i);
+        vector<int> best=sources;
+        double bestValue=evaluate(best);
+        // Seed with plans assigning three distinct units to a triangle's corners.
+        for(const auto& t:triangles) if(t.owner!=0 && (t.capture || all_of(begin(t.v),end(t.v),[](int x){return mine[x]==0;})) && sources.size()>=3) {
+            array<int,3> perm={0,1,2};
+            do {
+                vector<int> plan=sources;
+                vector<bool> used(sources.size(),false);
+                for(int p:perm) {
+                    int target=t.v[p], unit=-1;
+                    for(int u=0;u<(int)sources.size();u++) if(!used[u] && (unit<0 || dista[sources[u]][target]<dista[sources[unit]][target])) unit=u;
+                    used[unit]=true;
+                    int from=sources[unit], next=from;
+                    for(int x:adj[from]) if(dista[x][target]<dista[next][target]) next=x;
+                    plan[unit]=next;
+                }
+                double score=evaluate(plan);
+                if(score>bestValue) {bestValue=score;best=plan;}
+            } while(next_permutation(perm.begin(),perm.end()));
+        }
+        // Coordinate descent plus paired moves avoids many incomplete-capture traps.
+        vector<int> current=best;
+        double currentValue=bestValue;
+        int iterations=0;
+        while(!sources.empty() && iterations<22000) {
+            if((iterations++&127)==0 && chrono::duration<double,milli>(chrono::steady_clock::now()-start).count()>32) break;
+            int a=rng()%sources.size(), b=rng()%sources.size();
+            int oldA=current[a],oldB=current[b];
+            auto destination=[&](int u) {int from=sources[u];int r=rng()%(adj[from].size()+1);return r==(int)adj[from].size()?from:adj[from][r];};
+            current[a]=destination(a);
+            if(iterations%3==0) current[b]=destination(b);
+            double score=evaluate(current);
+            if(score+1e-8>=currentValue) {
+                currentValue=score;
+                if(score>bestValue+1e-8) {bestValue=score;best=current;}
+            } else {current[a]=oldA;current[b]=oldB;}
+            if(iterations%2500==0) {current=best;currentValue=bestValue;}
+        }
+        int moving[50][50]={};
+        for(int u=0;u<(int)sources.size();u++) if(sources[u]!=best[u]) moving[sources[u]][best[u]]++;
+        for(int a=0;a<n;a++) for(int b:adj[a]) if(moving[a][b]) commands.push_back("MOVE "+to_string(a)+" "+to_string(b)+" "+to_string(moving[a][b]));
+        int population=sources.size();
+        // Growing early is worth temporary income loss. Stop when units saturate the map.
+        int enemyPopulation=accumulate(enemy,enemy+n,0);
+        int armyTarget=min(3*n,max(n,enemyPopulation+20));
+        for(const auto& t:triangles) if(t.owner==0 && population<armyTarget && turnNumber<175) {
+            if(t.danger>=3 && all_of(begin(t.v),end(t.v),[&](int x){return find(best.begin(),best.end(),x)!=best.end();})) continue;
+            int spawn=t.v[0]; double top=-1e100;
+            for(int x:t.v) {best.push_back(x);double score=evaluate(best);best.pop_back();if(score>top) {top=score;spawn=x;}}
+            int other[2],j=0;for(int x:t.v) if(x!=spawn) other[j++]=x;
+            commands.push_back("SPAWN "+to_string(spawn)+" "+to_string(other[0])+" "+to_string(other[1]));
+            best.push_back(spawn); population++;
+        }
+        if(commands.empty()) cout<<"WAIT";
+        else for(int i=0;i<(int)commands.size();i++) cout<<(i?";":"")<<commands[i];
+        cout<<endl;
+        cerr<<"turn="<<turnNumber<<" units="<<population<<" search="<<iterations<<" value="<<bestValue<<'\n';
+    }
+}

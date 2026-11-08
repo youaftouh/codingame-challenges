@@ -1,0 +1,542 @@
+game 918714713
+options: seed=11
+    units=0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_1,0_0,1_0,0_0,0_0,0_0,0_0,1_1,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,0_0,1_1,0_0,0_0,0
+    edges=0,2_0,5_0,15_0,18_0,24_1,3_1,4_1,14_1,19_1,25_2,18_2,37_3,19_3,36_4,17_4,20_4,25_5,16_5,21_5,24_6,27_6,31_6,39_7,26_7,30_7,38_8,16_8,32_8,41_9,17_9,33_9,40_10,21_10,35_11,20_11,34_12,14_12,27_12,31_12,36_12,43_13,15_13,26_13,30_13,37_13,42_14,31_14,43_15,30_15,42_16,21_16,32_17,20_17,33_18,24_18,25_18,34_19,24_19,25_19,35_22,29_22,32_22,38_22,41_23,28_23,33_23,39_23,40_24,25_26,29_27,28_30,38_31,39_36,43_37,42
+    nodes=738,598_1181,361_871,845_1048,114_1313,677_606,282_1740,323_179,636_254,104_1665,855_627,99_1292,860_1474,181_445,778_1445,395_474,564_381,298_1538,661_881,684_1038,275_1439,818_480,141_132,442_1787,517_805,366_1114,593_270,834_1649,125_1805,146_114,813_357,651_1562,308_164,221_1755,738_1159,794_760,165_1288,127_631,832_402,439_1517,520_1836,869_83,90_591,652_1328,307
+agents:
+  0 Yasseruvski (me, agent_id -1)
+  1 Yasseruvski (me, agent_id 6864924, rank 574)
+frame 0
+frame 1 agent 0
+  stderr: turn=1 units=3 search=2817 value=19.2174
+  stdout: MOVE 22 32 1;MOVE 29 26 1;MOVE 41 8 1
+frame 2 agent 1
+  stderr: turn=1 units=3 search=2305 value=19.2174
+  stdout: MOVE 23 33 1;MOVE 28 27 1;MOVE 40 9 1
+frame 3 agent 0
+  stderr: turn=2 units=3 search=2817 value=28.1989
+  stdout: MOVE 8 16 1;MOVE 26 13 1
+frame 4 agent 1
+  stderr: turn=2 units=3 search=2305 value=28.1989
+  stdout: MOVE 9 17 1;MOVE 27 12 1
+frame 5 agent 0
+  stderr: turn=3 units=3 search=2689 value=31.6869
+  stdout: MOVE 16 5 1;MOVE 32 16 1
+frame 6 agent 1
+  stderr: turn=3 units=3 search=2177 value=31.6869
+  stdout: MOVE 17 4 1;MOVE 33 17 1
+frame 7 agent 0
+  stderr: turn=4 units=3 search=2689 value=36.6092
+  stdout: MOVE 5 24 1;MOVE 16 5 1
+frame 8 agent 1
+  stderr: turn=4 units=3 search=2177 value=36.6092
+  stdout: MOVE 4 25 1;MOVE 17 4 1
+frame 9 agent 0
+  stderr: turn=5 units=3 search=2689 value=67.2323
+  stdout: MOVE 5 0 1;MOVE 13 37 1;MOVE 24 18 1
+frame 10 agent 1
+  stderr: turn=5 units=3 search=2177 value=67.2323
+  stdout: MOVE 4 1 1;MOVE 12 36 1;MOVE 25 19 1
+frame 11 agent 0
+  summary: $0 captured 1 triangle
+      $1 captured 1 triangle
+frame 12 agent 0
+  stderr: turn=6 units=4 search=2689 value=42.621
+  stdout: MOVE 0 24 1;MOVE 18 25 1;MOVE 37 13 1;SPAWN 18 0 2
+frame 13 agent 1
+  stderr: turn=6 units=4 search=2177 value=42.621
+  stdout: MOVE 1 25 1;MOVE 19 24 1;MOVE 36 12 1;SPAWN 19 1 3
+frame 14 agent 0
+  summary: $0 spawned 1 unit
+      $1 spawned 1 unit
+frame 15 agent 0
+  stderr: turn=7 units=4 search=2689 value=41.3524
+  stdout: MOVE 18 25 1;MOVE 24 25 1;MOVE 25 1 1
+frame 16 agent 1
+  stderr: turn=7 units=4 search=2177 value=41.3524
+  stdout: MOVE 19 24 1;MOVE 24 0 1;MOVE 25 24 1
+frame 17 agent 0
+  stderr: turn=8 units=4 search=2817 value=83.4885
+  stdout: MOVE 25 19 1
+frame 18 agent 1
+  stderr: turn=8 units=4 search=2177 value=83.4885
+  stdout: MOVE 24 18 1
+frame 19 agent 0
+  summary: $0 captured 1 triangle
+      $1 captured 1 triangle
+frame 20 agent 0
+  stderr: turn=9 units=5 search=2689 value=67.9461
+  stdout: MOVE 19 25 1;MOVE 25 4 1;SPAWN 19 1 25
+frame 21 agent 1
+  stderr: turn=9 units=5 search=2177 value=67.9461
+  stdout: MOVE 18 24 1;MOVE 24 5 1;SPAWN 18 0 24
+frame 22 agent 0
+  summary: $0 spawned 1 unit
+      $1 spawned 1 unit
+frame 23 agent 0
+  summary: $0 captured 1 triangle
+      $1 captured 1 triangle
+frame 24 agent 0
+  stderr: turn=10 units=6 search=2689 value=72.662
+  stdout: MOVE 1 19 1;MOVE 4 25 1;MOVE 19 24 1;MOVE 25 24 1;SPAWN 1 4 25
+frame 25 agent 1
+  stderr: turn=10 units=6 search=2177 value=68.0239
+  stdout: MOVE 0 2 1;MOVE 5 0 1;SPAWN 5 0 24
+frame 26 agent 0
+  summary: $0 spawned 1 unit
+      $1 spawned 1 unit
+frame 27 agent 0
+  summary: $0 captured 1 triangle
+      $1 captured 1 triangle
+frame 28 agent 0
+  stderr: turn=11 units=7 search=2689 value=66.601
+  stdout: MOVE 1 19 1;MOVE 19 3 1;MOVE 24 0 2;MOVE 25 1 1;SPAWN 24 19 25
+frame 29 agent 1
+  stderr: turn=11 units=7 search=2049 value=43.4249
+  stdout: MOVE 0 5 1;MOVE 2 18 1;MOVE 5 16 1;MOVE 18 25 1;MOVE 24 25 1;SPAWN 2 0 18
+frame 30 agent 0
+  summary: $0 spawned 1 unit
+      $1 spawned 1 unit
+frame 31 agent 0
+  summary: $0 captured 1 triangle
+frame 32 agent 0
+  stderr: turn=12 units=8 search=2689 value=122.95
+  stdout: MOVE 0 18 1;MOVE 1 14 1;MOVE 3 36 1;MOVE 13 37 1;MOVE 19 24 1;MOVE 24 18 1;SPAWN 1 3 19
+frame 33 agent 1
+  stderr: turn=12 units=7 search=2049 value=82.5219
+  stdout: MOVE 2 18 1;MOVE 5 24 1;MOVE 18 25 1;MOVE 25 4 1;MOVE 25 24 1
+frame 34 agent 0
+  summary: $0 spawned 1 unit
+frame 35 agent 0
+  summary: $0 captured 1 triangle
+frame 36 agent 0
+  stderr: turn=13 units=9 search=2689 value=60.4286
+  stdout: MOVE 0 15 1;MOVE 1 14 1;MOVE 14 31 1;MOVE 18 0 1;MOVE 18 24 1;MOVE 24 5 1;MOVE 36 43 1;MOVE 37 13 1;SPAWN 18 0 2
+frame 37 agent 1
+  stderr: turn=13 units=7 search=2049 value=89.0709
+  stdout: MOVE 18 25 1;MOVE 25 19 1
+frame 38 agent 0
+  summary: $0 spawned 1 unit
+frame 39 agent 0
+  summary: $1 captured 1 triangle
+frame 40 agent 0
+  stderr: turn=14 units=9 search=2689 value=134.856
+  stdout: MOVE 0 15 1;MOVE 5 0 1;MOVE 13 37 1;MOVE 15 13 1;MOVE 24 5 1
+frame 41 agent 1
+  stderr: turn=14 units=8 search=2049 value=143.041
+  stdout: MOVE 4 1 1;MOVE 12 36 1;MOVE 24 0 1;MOVE 24 25 1;MOVE 25 4 1;SPAWN 19 24 25
+frame 42 agent 0
+  summary: $1 spawned 1 unit
+frame 43 agent 0
+  summary: $0 captured 2 triangles
+      $1 captured 3 triangles
+frame 44 agent 0
+  stderr: turn=15 units=11 search=2689 value=174.275
+  stdout: MOVE 0 5 1;MOVE 5 24 1;MOVE 13 30 1;MOVE 14 43 1;MOVE 31 12 1;MOVE 37 2 1;MOVE 43 14 1;SPAWN 13 15 42;SPAWN 37 13 42
+frame 45 agent 1
+  stderr: turn=15 units=11 search=2049 value=40.4979
+  stdout: MOVE 0 15 1;MOVE 1 4 1;MOVE 4 17 1;MOVE 19 24 1;MOVE 36 12 1;SPAWN 1 3 19;SPAWN 1 4 25;SPAWN 1 19 25
+frame 46 agent 0
+  summary: $0 spawned 2 units
+      $1 spawned 3 units
+frame 47 agent 0
+  stderr: turn=16 units=11 search=2689 value=138.265
+  stdout: MOVE 2 0 1;MOVE 13 42 1;MOVE 14 12 1;MOVE 15 30 1;MOVE 18 24 1;MOVE 30 38 1;MOVE 37 13 1;MOVE 43 14 1
+frame 48 agent 1
+  stderr: turn=16 units=11 search=1921 value=76.4897
+  stdout: MOVE 1 4 1;MOVE 1 14 2;MOVE 4 20 1;MOVE 12 31 1;MOVE 19 3 1;MOVE 24 0 1
+frame 49 agent 0
+  summary: $1 captured 1 triangle
+frame 50 agent 0
+  stderr: turn=17 units=11 search=2689 value=171.292
+  stdout: MOVE 5 24 1;MOVE 12 36 1;MOVE 13 42 1;MOVE 14 43 1;MOVE 24 0 1;MOVE 24 18 1;MOVE 30 38 1;MOVE 38 30 1;MOVE 42 13 1
+frame 51 agent 1
+  stderr: turn=17 units=12 search=1921 value=56.7791
+  stdout: MOVE 0 2 1;MOVE 3 36 1;MOVE 4 25 1;MOVE 14 43 1;MOVE 15 13 1;MOVE 17 9 1;MOVE 20 17 1;MOVE 25 18 1;MOVE 31 14 1;SPAWN 20 4 17
+frame 52 agent 0
+  summary: $1 spawned 1 unit
+frame 53 agent 0
+  stderr: turn=18 units=11 search=2689 value=135.465
+  stdout: MOVE 0 18 1;MOVE 0 24 1;MOVE 12 43 1;MOVE 13 30 1;MOVE 18 0 1;MOVE 24 18 1;MOVE 30 7 1;MOVE 36 43 1;MOVE 38 22 1;MOVE 42 37 1;MOVE 43 12 1
+frame 54 agent 1
+  stderr: turn=18 units=12 search=1921 value=121.127
+  stdout: MOVE 2 18 1;MOVE 9 40 1;MOVE 13 37 1;MOVE 14 12 1;MOVE 14 31 1;MOVE 17 33 1;MOVE 20 17 1;MOVE 36 12 1;MOVE 43 14 1
+frame 55 agent 0
+  summary: $0 captured 1 triangle
+      $1 captured 2 triangles
+frame 56 agent 0
+  stderr: turn=19 units=12 search=2689 value=126.162
+  stdout: MOVE 7 30 1;MOVE 18 24 1;MOVE 18 25 1;MOVE 22 32 1;MOVE 24 5 1;MOVE 30 15 1;MOVE 37 13 1;MOVE 43 36 1;SPAWN 7 30 38
+frame 57 agent 1
+  stderr: turn=19 units=14 search=1921 value=111.982
+  stdout: MOVE 12 31 1;MOVE 12 36 1;MOVE 14 1 1;MOVE 16 5 1;MOVE 17 33 1;MOVE 18 0 2;MOVE 25 19 1;MOVE 31 6 1;MOVE 33 17 1;MOVE 37 13 1;MOVE 40 23 1;SPAWN 9 17 33;SPAWN 14 12 31
+frame 58 agent 0
+  summary: $0 spawned 1 unit
+      $1 spawned 2 units
+frame 59 agent 0
+  summary: $1 captured 1 triangle
+frame 60 agent 0
+  stderr: turn=20 units=12 search=2689 value=183.676
+  stdout: MOVE 0 18 1;MOVE 5 24 1;MOVE 7 30 1;MOVE 24 19 1;MOVE 30 13 1;MOVE 32 16 1;MOVE 36 3 1
+frame 61 agent 1
+  stderr: turn=20 units=15 search=1793 value=72.8501
+  stdout: MOVE 0 2 1;MOVE 0 18 1;MOVE 5 16 1;MOVE 6 39 1;MOVE 9 40 1;MOVE 13 42 1;MOVE 17 20 1;MOVE 23 28 1;MOVE 31 6 1;MOVE 33 23 1;MOVE 36 3 1;SPAWN 6 31 39
+frame 62 agent 0
+  summary: $1 spawned 1 unit
+frame 63 agent 0
+  summary: $0 captured 1 triangle
+frame 64 agent 0
+  stderr: turn=21 units=13 search=2689 value=247.185
+  stdout: MOVE 3 36 1;MOVE 13 15 1;MOVE 13 37 1;MOVE 15 0 1;MOVE 16 5 1;MOVE 19 25 1;MOVE 25 18 1;MOVE 30 13 1;SPAWN 30 13 15
+frame 65 agent 1
+  stderr: turn=21 units=15 search=1921 value=84.8928
+  stdout: MOVE 2 0 1;MOVE 6 27 2;MOVE 16 5 1;MOVE 18 2 1;MOVE 19 3 1;MOVE 20 17 1;MOVE 23 33 1;MOVE 39 23 1;MOVE 40 9 1
+frame 66 agent 0
+  summary: $0 spawned 1 unit
+frame 67 agent 0
+  summary: $0 surrounded 1 unit
+frame 68 agent 0
+  summary: $0 captured 3 triangles
+      $1 captured 1 triangle
+frame 69 agent 0
+  stderr: turn=22 units=16 search=2689 value=137.553
+  stdout: MOVE 5 16 1;MOVE 12 31 1;MOVE 13 37 1;MOVE 15 0 1;MOVE 18 24 1;MOVE 18 25 1;MOVE 24 18 1;MOVE 25 19 1;MOVE 30 38 1;MOVE 36 43 1;MOVE 37 2 1;MOVE 43 12 1;SPAWN 36 12 43;SPAWN 15 13 42;SPAWN 18 24 25
+frame 70 agent 1
+  stderr: turn=22 units=15 search=1921 value=107.165
+  stdout: MOVE 0 24 1;MOVE 2 37 1;MOVE 3 19 1;MOVE 5 24 1;MOVE 9 40 1;MOVE 14 31 1;MOVE 23 39 1;MOVE 27 6 1;SPAWN 9 17 33
+frame 71 agent 0
+  summary: $0 spawned 3 units
+      $1 spawned 1 unit
+frame 72 agent 0
+  stderr: turn=23 units=16 search=2689 value=163.689
+  stdout: MOVE 0 2 1;MOVE 0 5 1;MOVE 2 37 1;MOVE 12 31 1;MOVE 15 0 1;MOVE 18 24 1;MOVE 19 25 1;MOVE 25 24 1;MOVE 36 12 1;MOVE 38 7 1;MOVE 43 14 1
+frame 73 agent 1
+  stderr: turn=23 units=15 search=1921 value=105.84
+  stdout: MOVE 6 39 1;MOVE 9 40 1;MOVE 17 20 1;MOVE 24 5 1;MOVE 24 19 1;MOVE 27 6 1;MOVE 33 23 1;MOVE 37 13 1;MOVE 39 31 1
+frame 74 agent 0
+  summary: $0 captured 1 triangle
+      $1 captured 1 triangle
+frame 75 agent 0
+  stderr: turn=24 units=17 search=2689 value=170.432
+  stdout: MOVE 2 18 1;MOVE 5 21 1;MOVE 7 30 1;MOVE 14 43 1;MOVE 18 34 1;MOVE 24 19 1;MOVE 24 25 1;MOVE 25 4 1;MOVE 31 14 1;MOVE 37 2 1;MOVE 37 42 1;SPAWN 0 18 24
+frame 76 agent 1
+  stderr: turn=24 units=16 search=1921 value=111.687
+  stdout: MOVE 1 25 1;MOVE 3 36 1;MOVE 5 21 1;MOVE 6 31 1;MOVE 19 25 1;MOVE 20 17 1;MOVE 23 33 1;MOVE 28 23 1;MOVE 39 6 1;MOVE 40 9 1;SPAWN 3 1 19
+frame 77 agent 0
+  summary: $0 spawned 1 unit
+      $1 spawned 1 unit
+frame 78 agent 0
+  summary: $0 captured 1 triangle
+      $1 captured 2 triangles
+frame 79 agent 0
+  stderr: turn=25 units=18 search=2689 value=231.809
+  stdout: MOVE 0 5 1;MOVE 0 15 1;MOVE 12 31 1;MOVE 14 12 1;MOVE 16 8 1;MOVE 18 24 1;MOVE 21 16 1;MOVE 24 19 1;MOVE 25 1 1;MOVE 31 6 1;MOVE 34 18 1;MOVE 43 14 1;SPAWN 12 14 43
+frame 80 agent 1
+  stderr: turn=25 units=18 search=1921 value=153.186
+  stdout: MOVE 3 36 1;MOVE 17 33 1;MOVE 19 24 1;MOVE 21 5 1;MOVE 23 39 1;MOVE 25 24 1;MOVE 31 12 1;MOVE 31 14 2;MOVE 33 17 1;MOVE 36 12 1;MOVE 40 23 1;SPAWN 31 6 39;SPAWN 9 17 33
+frame 81 agent 0
+  summary: $0 spawned 1 unit
+      $1 spawned 2 units
+frame 82 agent 0
+  stderr: turn=26 units=18 search=2689 value=209.502
+  stdout: MOVE 1 4 1;MOVE 2 0 1;MOVE 4 20 1;MOVE 5 16 1;MOVE 6 31 1;MOVE 8 32 1;MOVE 12 31 1;MOVE 14 1 1;MOVE 16 8 1;MOVE 18 25 1;MOVE 19 3 1;MOVE 24 25 1;MOVE 31 39 1
+frame 83 agent 1
+  stderr: turn=26 units=18 search=1921 value=136.993
+  stdout: MOVE 5 0 1;MOVE 9 40 2;MOVE 12 36 1;MOVE 14 12 1;MOVE 17 20 1;MOVE 23 39 1;MOVE 31 14 1;MOVE 33 23 1;MOVE 36 12 1;MOVE 39 6 1
+frame 84 agent 0
+  summary: $0 captured 4 triangles
+      $1 captured 2 triangles
+frame 85 agent 0
+  stderr: turn=27 units=22 search=2689 value=132.665
+  stdout: MOVE 0 5 1;MOVE 1 14 1;MOVE 3 36 1;MOVE 4 17 1;MOVE 8 16 1;MOVE 12 14 1;MOVE 16 21 1;MOVE 20 11 1;MOVE 25 4 1;MOVE 25 24 1;MOVE 31 12 1;MOVE 31 14 1;MOVE 32 22 1;MOVE 39 31 1;SPAWN 1 3 19;SPAWN 1 4 25;SPAWN 1 19 25;SPAWN 8 16 32
+frame 86 agent 1
+  stderr: turn=27 units=20 search=1921 value=168.268
+  stdout: MOVE 6 39 1;MOVE 12 31 1;MOVE 13 37 1;MOVE 14 1 1;MOVE 20 17 1;MOVE 23 33 1;MOVE 24 0 1;MOVE 25 18 1;MOVE 36 3 1;MOVE 40 23 1;SPAWN 43 12 14;SPAWN 36 12 43
+frame 87 agent 0
+  summary: $0 spawned 4 units
+      $1 spawned 2 units
+frame 88 agent 0
+  summary: $1 surrounded 1 unit
+frame 89 agent 0
+  summary: $0 captured 1 triangle
+      $1 captured 1 triangle
+frame 90 agent 0
+  stderr: turn=28 units=22 search=2689 value=123.341
+  stdout: MOVE 1 4 1;MOVE 1 19 1;MOVE 1 25 1;MOVE 4 17 1;MOVE 5 0 1;MOVE 8 41 1;MOVE 14 31 1;MOVE 16 5 1;MOVE 19 35 1;MOVE 21 10 1;MOVE 24 0 1;MOVE 30 13 1;SPAWN 21 5 16
+frame 91 agent 1
+  stderr: turn=28 units=21 search=1921 value=160.51
+  stdout: MOVE 0 24 1;MOVE 1 25 1;MOVE 3 19 1;MOVE 6 27 1;MOVE 12 14 2;MOVE 14 1 1;MOVE 23 28 1;MOVE 31 14 1;MOVE 33 17 1;MOVE 36 3 1;MOVE 37 13 1;MOVE 39 23 1;MOVE 40 9 1;MOVE 43 14 1;SPAWN 2 0 18
+frame 92 agent 0
+  summary: $0 spawned 1 unit
+      $1 spawned 1 unit
+frame 93 agent 0
+  stderr: turn=29 units=22 search=2689 value=277.976
+  stdout: MOVE 0 15 1;MOVE 0 24 1;MOVE 4 1 1;MOVE 10 35 1;MOVE 12 36 1;MOVE 14 12 1;MOVE 14 43 1;MOVE 15 30 1;MOVE 17 4 1;MOVE 17 20 1;MOVE 21 16 1;MOVE 25 1 1;MOVE 31 6 1;MOVE 35 19 1;MOVE 41 8 1;MOVE 42 13 1
+frame 94 agent 1
+  stderr: turn=29 units=21 search=1921 value=239.791
+  stdout: MOVE 0 5 1;MOVE 2 37 1;MOVE 3 19 1;MOVE 13 30 1;MOVE 14 12 1;MOVE 14 31 2;MOVE 14 43 1;MOVE 17 4 1;MOVE 17 33 1;MOVE 23 40 1;MOVE 24 5 1;MOVE 25 4 1;MOVE 27 12 1;MOVE 39 31 1
+frame 95 agent 0
+  summary: $0 captured 1 triangle
+frame 96 agent 0
+  stderr: turn=30 units=23 search=2689 value=212.236
+  stdout: MOVE 1 19 1;MOVE 1 25 1;MOVE 4 17 1;MOVE 5 24 1;MOVE 8 41 1;MOVE 12 43 1;MOVE 13 42 1;MOVE 16 5 1;MOVE 19 24 1;MOVE 22 38 1;MOVE 24 0 1;MOVE 30 7 1;MOVE 31 14 1;MOVE 35 19 1;SPAWN 8 16 32
+frame 97 agent 1
+  stderr: turn=30 units=21 search=1793 value=205.535
+  stdout: MOVE 1 19 1;MOVE 4 17 1;MOVE 4 25 1;MOVE 5 0 1;MOVE 5 24 1;MOVE 12 43 1;MOVE 19 3 1;MOVE 28 23 1;MOVE 30 38 1;MOVE 31 6 2;MOVE 31 12 1;MOVE 37 42 1
+frame 98 agent 0
+  summary: $0 spawned 1 unit
+frame 99 agent 0
+  stderr: turn=31 units=23 search=2689 value=224.558
+  stdout: MOVE 5 0 1;MOVE 6 31 1;MOVE 7 30 1;MOVE 8 41 1;MOVE 11 20 1;MOVE 20 17 1;MOVE 24 5 1;MOVE 24 18 1;MOVE 25 18 1;MOVE 36 43 1;MOVE 38 7 1;MOVE 41 22 1;MOVE 42 37 1
+frame 100 agent 1
+  stderr: turn=31 units=21 search=1793 value=128.17
+  stdout: MOVE 0 18 1;MOVE 3 1 1;MOVE 12 27 1;MOVE 12 36 1;MOVE 18 25 1;MOVE 19 3 1;MOVE 24 25 1;MOVE 25 4 1;MOVE 33 17 1;MOVE 42 37 1;MOVE 43 12 1;MOVE 43 36 1
+frame 101 agent 0
+  summary: $0 surrounded 1 unit
+frame 102 agent 0
+  summary: $0 captured 2 triangles
+      $1 captured 1 triangle
+frame 103 agent 0
+  stderr: turn=32 units=25 search=2689 value=258.353
+  stdout: MOVE 0 24 1;MOVE 5 16 1;MOVE 13 42 1;MOVE 14 31 1;MOVE 15 13 1;MOVE 17 4 2;MOVE 19 1 2;MOVE 19 24 1;MOVE 31 39 1;MOVE 37 2 1;MOVE 41 8 1;MOVE 43 12 2;SPAWN 38 7 30;SPAWN 15 13 30
+frame 104 agent 1
+  stderr: turn=32 units=21 search=1793 value=217.704
+  stdout: MOVE 1 25 1;MOVE 3 1 1;MOVE 4 17 1;MOVE 6 27 1;MOVE 9 17 1;MOVE 17 33 1;MOVE 19 35 1;MOVE 23 40 1;MOVE 24 5 1;MOVE 25 19 1;MOVE 25 24 1;MOVE 27 28 1;MOVE 36 3 1;MOVE 37 13 1;MOVE 40 23 1;SPAWN 1 4 25
+frame 105 agent 0
+  summary: $0 spawned 2 units
+      $1 spawned 1 unit
+frame 106 agent 0
+  summary: $0 captured 2 triangles
+      $1 captured 1 triangle
+frame 107 agent 0
+  stderr: turn=33 units=27 search=2689 value=220.637
+  stdout: MOVE 1 14 1;MOVE 1 19 1;MOVE 2 37 1;MOVE 4 20 1;MOVE 7 26 1;MOVE 8 16 1;MOVE 13 15 1;MOVE 15 30 1;MOVE 16 21 1;MOVE 18 25 2;MOVE 20 17 1;MOVE 22 41 1;MOVE 30 13 1;MOVE 38 22 1;SPAWN 18 0 2;SPAWN 8 16 32
+frame 108 agent 1
+  stderr: turn=33 units=22 search=1921 value=119.012
+  stdout: MOVE 3 1 1;MOVE 5 0 1;MOVE 6 39 1;MOVE 17 4 3;MOVE 18 0 1;MOVE 23 39 1;MOVE 24 5 1;MOVE 27 12 1;MOVE 33 23 1;SPAWN 9 17 33
+frame 109 agent 0
+  summary: $0 spawned 2 units
+      $1 spawned 1 unit
+frame 110 agent 0
+  summary: $0 surrounded 1 unit
+frame 111 agent 0
+  summary: $0 captured 1 triangle
+frame 112 agent 0
+  stderr: turn=34 units=28 search=2689 value=146.196
+  stdout: MOVE 4 25 1;MOVE 8 16 1;MOVE 12 36 2;MOVE 13 26 1;MOVE 15 0 1;MOVE 16 21 1;MOVE 18 0 1;MOVE 19 25 1;MOVE 21 10 1;MOVE 22 41 1;MOVE 24 19 2;MOVE 25 4 1;MOVE 25 24 1;MOVE 26 29 1;MOVE 30 15 1;MOVE 37 42 1;MOVE 39 6 1;MOVE 41 22 1;SPAWN 15 13 42
+frame 113 agent 1
+  stderr: turn=34 units=21 search=1921 value=162.763
+  stdout: MOVE 0 24 2;MOVE 1 3 1;MOVE 1 25 1;MOVE 4 25 2;MOVE 19 35 1;MOVE 23 39 1;MOVE 25 24 1;MOVE 28 27 1;MOVE 35 19 1;MOVE 36 12 1;MOVE 39 23 1
+frame 114 agent 0
+  summary: $0 spawned 1 unit
+frame 115 agent 0
+  summary: $1 surrounded 2 units
+      $0 surrounded 1 unit
+frame 116 agent 0
+  summary: $1 captured 3 triangles
+frame 117 agent 0
+  stderr: turn=35 units=26 search=2689 value=110.065
+  stdout: MOVE 0 5 2;MOVE 6 39 1;MOVE 10 35 1;MOVE 14 31 1;MOVE 15 0 1;MOVE 15 30 1;MOVE 16 32 1;MOVE 20 4 1;MOVE 21 10 1;MOVE 22 29 1;MOVE 24 19 1;MOVE 25 19 1;MOVE 26 7 1;MOVE 29 26 1;MOVE 31 6 1;MOVE 36 43 1;MOVE 41 22 1;MOVE 42 37 2;MOVE 43 14 1
+frame 118 agent 1
+  stderr: turn=35 units=23 search=1921 value=78.0457
+  stdout: MOVE 1 3 1;MOVE 3 36 1;MOVE 4 17 1;MOVE 9 17 1;MOVE 12 27 1;MOVE 12 36 2;MOVE 19 25 1;MOVE 23 28 1;MOVE 24 18 1;MOVE 25 19 1;MOVE 27 12 1;MOVE 39 6 2;MOVE 40 23 1;SPAWN 3 1 19;SPAWN 19 1 25;SPAWN 19 24 25
+frame 119 agent 0
+  summary: $1 spawned 3 units
+frame 120 agent 0
+  summary: $0 captured 1 triangle
+      $1 captured 1 triangle
+frame 121 agent 0
+  stderr: turn=36 units=27 search=2689 value=172.17
+  stdout: MOVE 0 15 1;MOVE 4 20 1;MOVE 6 39 1;MOVE 7 38 1;MOVE 14 12 1;MOVE 17 9 1;MOVE 19 1 1;MOVE 19 3 1;MOVE 22 41 1;MOVE 31 6 1;MOVE 32 22 1;MOVE 35 19 1;MOVE 36 12 1;MOVE 37 42 1;MOVE 39 31 1;SPAWN 7 30 38
+frame 122 agent 1
+  stderr: turn=36 units=24 search=1921 value=79.8465
+  stdout: MOVE 3 19 1;MOVE 3 36 1;MOVE 5 0 1;MOVE 6 27 1;MOVE 6 39 1;MOVE 12 27 1;MOVE 18 0 1;MOVE 19 24 1;MOVE 19 35 2;MOVE 23 39 1;MOVE 24 0 1;MOVE 24 5 1;MOVE 25 18 1;MOVE 25 19 2;MOVE 27 28 1;MOVE 28 23 1;MOVE 36 12 2;SPAWN 18 24 25
+frame 123 agent 0
+  summary: $0 spawned 1 unit
+      $1 spawned 1 unit
+frame 124 agent 0
+  summary: $0 captured 2 triangles
+      $1 captured 1 triangle
+frame 125 agent 0
+  stderr: turn=37 units=29 search=2689 value=235.468
+  stdout: MOVE 0 24 1;MOVE 5 16 1;MOVE 5 24 1;MOVE 6 31 1;MOVE 7 26 1;MOVE 10 35 1;MOVE 15 0 1;MOVE 22 32 1;MOVE 30 7 1;MOVE 31 12 1;MOVE 37 42 1;MOVE 38 22 1;MOVE 39 6 1;MOVE 41 8 1;SPAWN 1 4 25;SPAWN 42 13 15
+frame 126 agent 1
+  stderr: turn=37 units=25 search=1921 value=121.225
+  stdout: MOVE 0 2 1;MOVE 5 16 1;MOVE 12 14 1;MOVE 17 33 1;MOVE 18 34 1;MOVE 19 24 1;MOVE 23 40 1;MOVE 24 5 1;MOVE 27 12 1;MOVE 28 23 1;MOVE 35 10 2;MOVE 36 12 1;SPAWN 0 18 24
+frame 127 agent 0
+  summary: $0 spawned 2 units
+      $1 spawned 1 unit
+frame 128 agent 0
+  summary: $1 surrounded 2 units
+      $0 surrounded 2 units
+frame 129 agent 0
+  summary: $0 captured 3 triangles
+      $1 captured 1 triangle
+frame 130 agent 0
+  stderr: turn=38 units=30 search=2689 value=138.134
+  stdout: MOVE 0 15 1;MOVE 1 4 1;MOVE 1 14 1;MOVE 3 36 1;MOVE 4 17 1;MOVE 7 30 1;MOVE 8 16 1;MOVE 12 14 1;MOVE 12 36 1;MOVE 16 32 1;MOVE 19 3 1;MOVE 20 17 1;MOVE 22 41 1;MOVE 26 29 1;MOVE 29 22 1;MOVE 32 16 1;MOVE 42 13 1;MOVE 42 37 1;SPAWN 1 3 19;SPAWN 19 1 25;SPAWN 19 24 25
+frame 131 agent 1
+  stderr: turn=38 units=24 search=1793 value=130.529
+  stdout: MOVE 0 5 1;MOVE 0 15 1;MOVE 2 0 1;MOVE 5 16 1;MOVE 10 21 1;MOVE 10 35 1;MOVE 17 4 1;MOVE 18 25 1;MOVE 23 39 1;MOVE 24 25 1;MOVE 27 12 1;MOVE 33 23 1;MOVE 39 6 2;SPAWN 2 0 18
+frame 132 agent 0
+  summary: $0 spawned 3 units
+      $1 spawned 1 unit
+frame 133 agent 0
+  stderr: turn=39 units=30 search=2689 value=321.112
+  stdout: MOVE 1 14 1;MOVE 3 36 1;MOVE 6 39 1;MOVE 12 27 1;MOVE 14 12 1;MOVE 17 4 1;MOVE 19 35 1;MOVE 22 32 1;MOVE 24 18 1;MOVE 25 1 1;MOVE 32 16 1;MOVE 36 43 1;MOVE 37 2 1;MOVE 42 15 1;MOVE 43 12 1
+frame 134 agent 1
+  stderr: turn=39 units=24 search=1921 value=68.3303
+  stdout: MOVE 0 15 1;MOVE 2 37 1;MOVE 4 1 1;MOVE 5 21 1;MOVE 12 36 2;MOVE 14 1 1;MOVE 16 32 2;MOVE 21 5 1;MOVE 23 33 1;MOVE 34 11 1;MOVE 35 19 1;MOVE 39 23 1;MOVE 40 9 1
+frame 135 agent 0
+  summary: $0 surrounded 2 units
+frame 136 agent 0
+  summary: $0 captured 1 triangle
+frame 137 agent 0
+  stderr: turn=40 units=31 search=2689 value=409.713
+  stdout: MOVE 1 3 1;MOVE 4 20 1;MOVE 12 36 1;MOVE 13 37 1;MOVE 14 43 1;MOVE 15 0 1;MOVE 15 42 1;MOVE 16 8 1;MOVE 16 32 1;MOVE 18 0 1;MOVE 19 24 1;MOVE 24 18 1;MOVE 26 13 1;MOVE 27 6 1;MOVE 31 39 1;MOVE 32 22 1;MOVE 35 19 1;MOVE 36 12 2;MOVE 39 23 1;MOVE 43 36 1;SPAWN 31 6 39
+frame 138 agent 1
+  stderr: turn=40 units=22 search=1793 value=155.43
+  stdout: MOVE 1 19 2;MOVE 11 20 1;MOVE 12 27 1;MOVE 12 36 1;MOVE 15 13 1;MOVE 15 42 1;MOVE 19 1 1;MOVE 21 10 1;MOVE 23 39 1;MOVE 25 1 1;MOVE 36 12 1;MOVE 37 13 1
+frame 139 agent 0
+  summary: $0 spawned 1 unit
+frame 140 agent 0
+  summary: $1 surrounded 1 unit
+      $0 surrounded 6 units
+frame 141 agent 0
+  summary: $0 captured 6 triangles
+      $1 captured 1 triangle
+frame 142 agent 0
+  stderr: turn=41 units=36 search=2817 value=141.3
+  stdout: MOVE 0 5 1;MOVE 8 41 1;MOVE 12 27 2;MOVE 13 26 1;MOVE 16 5 1;MOVE 19 3 1;MOVE 20 11 1;MOVE 22 32 1;MOVE 23 28 1;MOVE 32 22 1;MOVE 36 12 1;MOVE 39 23 1;MOVE 41 8 1;MOVE 42 15 1;SPAWN 0 2 18;SPAWN 0 18 24;SPAWN 8 16 32;SPAWN 12 14 31;SPAWN 12 14 43;SPAWN 12 36 43
+frame 143 agent 1
+  stderr: turn=41 units=17 search=1921 value=105.852
+  stdout: MOVE 0 15 1;MOVE 1 3 1;MOVE 9 17 1;MOVE 10 21 1;MOVE 13 30 1;MOVE 20 17 1;MOVE 27 6 1;MOVE 33 9 1;MOVE 42 13 1;SPAWN 1 19 25
+frame 144 agent 0
+  summary: $0 spawned 6 units
+      $1 spawned 1 unit
+frame 145 agent 0
+  summary: $0 surrounded 1 unit
+frame 146 agent 0
+  summary: $0 captured 1 triangle
+frame 147 agent 0
+  stderr: turn=42 units=37 search=2689 value=81.3589
+  stdout: MOVE 0 5 1;MOVE 0 18 1;MOVE 0 24 1;MOVE 4 25 1;MOVE 5 21 2;MOVE 6 39 1;MOVE 8 16 1;MOVE 8 41 1;MOVE 11 20 1;MOVE 12 27 2;MOVE 12 31 2;MOVE 14 31 1;MOVE 17 4 1;MOVE 18 25 1;MOVE 22 38 1;MOVE 23 33 1;MOVE 24 0 1;MOVE 27 6 1;MOVE 27 28 1;MOVE 28 23 1;MOVE 30 15 1;MOVE 31 6 1;MOVE 32 22 1;MOVE 36 3 1;MOVE 43 12 1;SPAWN 5 0 24
+frame 148 agent 1
+  stderr: turn=42 units=16 search=1921 value=212.621
+  stdout: MOVE 1 14 1;MOVE 1 19 1;MOVE 3 1 1;MOVE 5 16 1;MOVE 6 31 1;MOVE 9 17 1;MOVE 13 42 1;MOVE 17 20 1;MOVE 19 3 2;MOVE 30 15 1
+frame 149 agent 0
+  summary: $0 spawned 1 unit
+frame 150 agent 0
+  summary: $0 captured 1 triangle
+frame 151 agent 0
+  stderr: turn=43 units=38 search=2689 value=126.071
+  stdout: MOVE 0 5 1;MOVE 2 37 1;MOVE 4 20 1;MOVE 5 16 2;MOVE 6 27 1;MOVE 6 39 1;MOVE 12 31 1;MOVE 12 36 1;MOVE 16 21 1;MOVE 18 34 1;MOVE 21 10 1;MOVE 22 29 1;MOVE 23 33 1;MOVE 24 25 1;MOVE 25 4 1;MOVE 27 6 1;MOVE 27 28 1;MOVE 28 23 1;MOVE 29 26 1;MOVE 31 6 2;MOVE 33 9 1;MOVE 38 30 1;MOVE 41 22 1;SPAWN 25 18 24
+frame 152 agent 1
+  stderr: turn=43 units=16 search=1793 value=128.796
+  stdout: MOVE 3 36 1;MOVE 14 43 1;MOVE 15 30 1;MOVE 17 4 1;MOVE 20 4 1;MOVE 21 16 1;MOVE 31 14 1
+frame 153 agent 0
+  summary: $0 spawned 1 unit
+frame 154 agent 0
+  stderr: turn=44 units=38 search=2689 value=194.046
+  stdout: MOVE 3 36 1;MOVE 5 0 1;MOVE 6 27 3;MOVE 9 40 1;MOVE 10 35 1;MOVE 15 30 2;MOVE 20 4 1;MOVE 21 10 1;MOVE 21 16 1;MOVE 23 33 1;MOVE 25 4 1;MOVE 25 18 1;MOVE 25 24 1;MOVE 26 29 2;MOVE 27 12 1;MOVE 29 26 1;MOVE 30 13 1;MOVE 31 12 2;MOVE 33 9 1;MOVE 34 11 1;MOVE 36 43 1;MOVE 37 2 1;MOVE 37 13 1;MOVE 39 23 2
+frame 155 agent 1
+  stderr: turn=44 units=16 search=1921 value=335.629
+  stdout: MOVE 1 19 1;MOVE 3 36 1;MOVE 14 1 1;MOVE 15 0 1;MOVE 16 5 2;MOVE 19 24 1;MOVE 25 18 1;MOVE 30 38 1;MOVE 43 12 1
+frame 156 agent 0
+  summary: $1 surrounded 1 unit
+      $0 surrounded 3 units
+frame 157 agent 0
+  summary: $0 captured 2 triangles
+frame 158 agent 0
+  stderr: turn=45 units=38 search=2689 value=166.217
+  stdout: MOVE 2 18 1;MOVE 4 20 1;MOVE 9 33 1;MOVE 10 35 1;MOVE 12 31 1;MOVE 12 43 1;MOVE 13 15 1;MOVE 16 21 1;MOVE 16 32 2;MOVE 20 4 1;MOVE 22 38 1;MOVE 23 39 1;MOVE 23 40 1;MOVE 24 0 1;MOVE 26 7 1;MOVE 27 6 1;MOVE 27 12 1;MOVE 28 23 1;MOVE 29 26 1;MOVE 30 13 1;MOVE 33 17 1;MOVE 35 19 1;MOVE 40 9 1;MOVE 41 22 1;MOVE 43 14 1;SPAWN 4 17 20
+frame 159 agent 1
+  stderr: turn=45 units=13 search=1921 value=288.314
+  stdout: MOVE 0 5 1;MOVE 1 3 1;MOVE 4 1 1;MOVE 4 25 1;MOVE 5 0 2;MOVE 12 31 1;MOVE 13 37 1;MOVE 24 18 1
+frame 160 agent 0
+  summary: $0 spawned 1 unit
+frame 161 agent 0
+  summary: $0 surrounded 2 units
+frame 162 agent 0
+  summary: $0 captured 3 triangles
+frame 163 agent 0
+  stderr: turn=46 units=38 search=2689 value=88.7548
+  stdout: MOVE 0 2 1;MOVE 0 18 1;MOVE 4 1 4;MOVE 6 39 1;MOVE 7 26 1;MOVE 9 40 1;MOVE 11 34 1;MOVE 12 27 1;MOVE 12 36 1;MOVE 13 37 2;MOVE 14 1 1;MOVE 15 0 1;MOVE 17 9 1;MOVE 20 11 1;MOVE 22 41 1;MOVE 23 40 1;MOVE 26 13 1;MOVE 27 28 1;MOVE 30 15 1;MOVE 31 6 1;MOVE 32 22 2;MOVE 35 19 1;MOVE 36 3 1;MOVE 38 22 1;MOVE 40 23 1;MOVE 43 36 1
+frame 164 agent 1
+  stderr: turn=46 units=11 search=2049 value=101.155
+  stdout: MOVE 0 15 2;MOVE 3 19 1;MOVE 18 2 1;MOVE 18 24 1
+frame 165 agent 0
+  summary: $0 surrounded 1 unit
+frame 166 agent 0
+  summary: $0 captured 1 triangle
+frame 167 agent 0
+  stderr: turn=47 units=38 search=2689 value=265.96
+  stdout: MOVE 0 18 1;MOVE 1 4 1;MOVE 1 14 1;MOVE 1 19 1;MOVE 2 37 1;MOVE 3 19 1;MOVE 9 17 1;MOVE 11 34 1;MOVE 13 30 1;MOVE 18 0 1;MOVE 18 25 2;MOVE 19 35 1;MOVE 21 16 1;MOVE 22 29 1;MOVE 22 41 1;MOVE 23 33 1;MOVE 26 7 1;MOVE 29 26 1;MOVE 33 9 1;MOVE 34 11 1;MOVE 36 3 1;MOVE 36 12 1;MOVE 37 2 1;MOVE 39 31 1;MOVE 40 23 1;MOVE 41 8 1
+frame 168 agent 1
+  stderr: turn=47 units=10 search=2049 value=110.282
+  stdout: MOVE 1 14 1;MOVE 15 0 1;MOVE 15 30 1;MOVE 19 24 1;MOVE 19 25 1;MOVE 24 0 1;MOVE 25 4 1;MOVE 37 13 1;MOVE 42 13 1
+frame 169 agent 0
+  summary: $0 captured 3 triangles
+      $1 captured 1 triangle
+frame 170 agent 0
+  stderr: turn=48 units=38 search=2689 value=286.61
+  stdout: MOVE 0 5 1;MOVE 1 4 1;MOVE 1 25 1;MOVE 3 36 1;MOVE 4 20 1;MOVE 6 31 1;MOVE 7 30 1;MOVE 8 41 1;MOVE 14 43 1;MOVE 16 5 1;MOVE 18 24 1;MOVE 19 1 1;MOVE 19 24 1;MOVE 22 38 1;MOVE 23 40 1;MOVE 25 4 1;MOVE 27 6 1;MOVE 28 27 1;MOVE 29 22 1;MOVE 31 14 1;MOVE 34 18 1;MOVE 37 42 1;MOVE 40 23 1;MOVE 41 8 1
+frame 171 agent 1
+  stderr: turn=48 units=11 search=1921 value=100.548
+  stdout: MOVE 0 18 1;MOVE 4 17 1;MOVE 5 0 1;MOVE 13 15 2;MOVE 14 43 1;MOVE 25 18 1;MOVE 30 13 1;SPAWN 5 0 24
+frame 172 agent 0
+  summary: $1 spawned 1 unit
+frame 173 agent 0
+  summary: $0 surrounded 2 units
+frame 174 agent 0
+  summary: $0 captured 3 triangles
+frame 175 agent 0
+  stderr: turn=49 units=38 search=2689 value=107.446
+  stdout: MOVE 1 3 1;MOVE 2 18 1;MOVE 4 20 2;MOVE 5 0 1;MOVE 6 31 1;MOVE 8 41 1;MOVE 11 34 1;MOVE 12 27 1;MOVE 15 0 1;MOVE 19 35 1;MOVE 20 11 1;MOVE 22 38 1;MOVE 23 40 1;MOVE 24 5 1;MOVE 24 18 1;MOVE 25 24 2;MOVE 27 28 1;MOVE 30 15 2;MOVE 31 6 1;MOVE 35 10 1;MOVE 36 3 1;MOVE 37 2 1;MOVE 38 22 1;MOVE 40 23 1;MOVE 41 8 1;MOVE 42 15 1;MOVE 43 14 1
+frame 176 agent 1
+  stderr: turn=49 units=9 search=2049 value=111.595
+  stdout: MOVE 0 2 1;MOVE 0 18 1;MOVE 5 16 1;MOVE 18 2 1;MOVE 24 0 1
+frame 177 agent 0
+  summary: $0 captured 2 triangles
+frame 178 agent 0
+  stderr: turn=50 units=38 search=2689 value=158.49
+  stdout: MOVE 0 2 1;MOVE 0 24 1;MOVE 3 36 1;MOVE 5 0 1;MOVE 5 16 1;MOVE 8 16 1;MOVE 9 40 1;MOVE 10 35 1;MOVE 11 20 1;MOVE 14 1 1;MOVE 15 13 1;MOVE 15 30 1;MOVE 15 42 1;MOVE 18 0 1;MOVE 18 2 1;MOVE 18 25 1;MOVE 20 4 1;MOVE 20 11 1;MOVE 22 32 1;MOVE 23 39 1;MOVE 24 18 2;MOVE 26 13 1;MOVE 31 12 1;MOVE 35 19 1;MOVE 38 7 1;MOVE 39 31 1;MOVE 40 9 1;MOVE 41 22 1
+frame 179 agent 1
+  stderr: turn=50 units=9 search=2049 value=93.9171
+  stdout: MOVE 0 15 1;MOVE 15 30 1;MOVE 15 42 1;MOVE 18 24 1;MOVE 18 25 1
+frame 180 agent 0
+  summary: $0 captured 1 triangle
+frame 181 agent 0
+  stderr: turn=51 units=38 search=2689 value=94.14
+  stdout: MOVE 0 5 1;MOVE 4 25 1;MOVE 6 31 1;MOVE 7 30 1;MOVE 11 20 1;MOVE 12 27 1;MOVE 13 30 1;MOVE 16 8 1;MOVE 16 21 1;MOVE 18 24 1;MOVE 20 4 1;MOVE 22 32 1;MOVE 27 12 1;MOVE 30 13 1;MOVE 31 39 1;MOVE 32 16 1;MOVE 34 11 1;MOVE 35 10 1;MOVE 39 6 1;MOVE 40 23 1;MOVE 42 37 1
+frame 182 agent 1
+  stderr: turn=51 units=9 search=2049 value=53.584
+  stdout: MOVE 2 0 1;MOVE 2 37 1;MOVE 13 30 1;MOVE 15 30 1;MOVE 16 5 1;MOVE 25 24 1;MOVE 30 15 1
+frame 183 agent 0
+  summary: $0 captured 1 triangle
+frame 184 agent 0
+  stderr: turn=52 units=38 search=2817 value=31.02
+  stdout: MOVE 2 18 1;MOVE 2 37 1;MOVE 3 36 1;MOVE 4 25 1;MOVE 5 24 1;MOVE 8 41 1;MOVE 9 40 1;MOVE 10 35 1;MOVE 11 20 1;MOVE 12 14 1;MOVE 13 30 1;MOVE 14 12 1;MOVE 16 5 1;MOVE 18 0 1;MOVE 19 24 1;MOVE 20 11 1;MOVE 21 10 1;MOVE 24 5 1;MOVE 25 4 1;MOVE 25 19 1;MOVE 31 39 1;MOVE 32 8 1;MOVE 36 3 1;MOVE 39 31 1
+frame 185 agent 1
+  stderr: turn=52 units=9 search=2049 value=57.3443
+  stdout: MOVE 0 5 1;MOVE 5 0 1;MOVE 15 0 1;MOVE 24 5 1;MOVE 24 19 1;MOVE 30 7 1;MOVE 30 38 1;MOVE 37 42 1;MOVE 42 15 1
+frame 186 agent 0
+  summary: $0 surrounded 1 unit
+frame 187 agent 0
+  stderr: turn=53 units=38 search=2689 value=71.46
+  stdout: MOVE 0 15 1;MOVE 1 4 1;MOVE 3 36 1;MOVE 4 17 1;MOVE 5 0 1;MOVE 6 39 1;MOVE 11 34 1;MOVE 12 27 1;MOVE 13 42 1;MOVE 14 12 1;MOVE 17 9 1;MOVE 18 24 1;MOVE 19 3 1;MOVE 23 40 1;MOVE 24 5 2;MOVE 24 18 1;MOVE 25 1 1;MOVE 27 6 1;MOVE 30 13 1;MOVE 30 15 1;MOVE 30 38 1;MOVE 31 14 1;MOVE 36 43 1;MOVE 37 42 1;MOVE 39 31 1;MOVE 40 23 1;MOVE 41 22 1
+frame 188 agent 1
+  stderr: turn=53 units=8 search=2049 value=54.046
+  stdout: MOVE 0 18 2;MOVE 5 16 1;MOVE 5 21 1
+frame 189 agent 0
+  summary: $0 surrounded 1 unit
+frame 190 agent 0
+  summary: $0 captured 1 triangle
+frame 191 agent 0
+  summary: $1: is dominated
+  stderr: turn=54 units=38 search=2817
+  stdout: MOVE 0 5 1;MOVE 0 18 1;MOVE 1 3 1;MOVE 2 18 1;MOVE 3 36 1;MOVE 4 20 1;MOVE 5 16 2;MOVE 5 21 1;MOVE 9 33 1;MOVE 10 21 1;MOVE 12 31 1;MOVE 14 1 1;MOVE 15 30 1;MOVE 18 0 1;MOVE 20 11 1;MOVE 22 32 1;MOVE 24 18 1;MOVE 31 14 1;MOVE 33 9 1;MOVE 35 10 1;MOVE 36 43 1;MOVE 38 7 1;MOVE 42 15 1;MOVE 43 12 1
+result
+  scores: 0=144 1=-1
+  ranking (agent indexes, winner first): 0 1
+  tooltips: frame 191: $1 is dominated!

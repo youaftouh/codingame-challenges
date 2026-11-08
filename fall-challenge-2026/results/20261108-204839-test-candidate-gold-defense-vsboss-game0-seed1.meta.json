@@ -1,0 +1,8 @@
+﻿{
+    "action":  "test",
+    "seed":  1,
+    "source":  "candidate-gold-defense.cpp",
+    "opponent":  "boss",
+    "replay_game_id":  0,
+    "source_sha256":  "AC2881B277523BB75022A67D0DBCEC907AA33C5FF68206A2E06930515246C5B9"
+}

@@ -1,0 +1,298 @@
+﻿{
+    "submission_id":  41669889,
+    "battles":  [
+                    {
+                        "game_id":  918701266,
+                        "done":  false,
+                        "players":  [
+                                        {
+                                            "nickname":  "Yasseruvski",
+                                            "agent_id":  6864895,
+                                            "me":  true
+                                        },
+                                        {
+                                            "nickname":  "Captainseb",
+                                            "agent_id":  6844184
+                                        }
+                                    ]
+                    },
+                    {
+                        "game_id":  918701172,
+                        "done":  true,
+                        "ended_at":  "2026-11-08T18:51:27.717Z",
+                        "my_position":  0,
+                        "players":  [
+                                        {
+                                            "position":  0,
+                                            "nickname":  "Yasseruvski",
+                                            "agent_id":  6864895,
+                                            "me":  true
+                                        },
+                                        {
+                                            "position":  1,
+                                            "nickname":  "soul-Idriss",
+                                            "agent_id":  6843972
+                                        }
+                                    ]
+                    },
+                    {
+                        "game_id":  918701047,
+                        "done":  true,
+                        "ended_at":  "2026-11-08T18:51:20.251Z",
+                        "my_position":  0,
+                        "players":  [
+                                        {
+                                            "position":  0,
+                                            "nickname":  "Yasseruvski",
+                                            "agent_id":  6864895,
+                                            "me":  true
+                                        },
+                                        {
+                                            "position":  1,
+                                            "nickname":  "[joshua]",
+                                            "agent_id":  6852745
+                                        }
+                                    ]
+                    },
+                    {
+                        "game_id":  918701003,
+                        "done":  true,
+                        "ended_at":  "2026-11-08T18:50:58.543Z",
+                        "my_position":  0,
+                        "players":  [
+                                        {
+                                            "position":  0,
+                                            "nickname":  "Yasseruvski",
+                                            "agent_id":  6864895,
+                                            "me":  true
+                                        },
+                                        {
+                                            "position":  1,
+                                            "nickname":  "codeebee",
+                                            "agent_id":  6843031
+                                        }
+                                    ]
+                    },
+                    {
+                        "game_id":  918700928,
+                        "done":  true,
+                        "ended_at":  "2026-11-08T18:50:48.148Z",
+                        "my_position":  0,
+                        "players":  [
+                                        {
+                                            "position":  0,
+                                            "nickname":  "Yasseruvski",
+                                            "agent_id":  6864895,
+                                            "me":  true
+                                        },
+                                        {
+                                            "position":  1,
+                                            "nickname":  "NTKING",
+                                            "agent_id":  6856105
+                                        }
+                                    ]
+                    },
+                    {
+                        "game_id":  918700799,
+                        "done":  true,
+                        "ended_at":  "2026-11-08T18:50:23.739Z",
+                        "my_position":  0,
+                        "players":  [
+                                        {
+                                            "position":  0,
+                                            "nickname":  "Yasseruvski",
+                                            "agent_id":  6864895,
+                                            "me":  true
+                                        },
+                                        {
+                                            "position":  1,
+                                            "nickname":  "giganoide",
+                                            "agent_id":  6852165
+                                        }
+                                    ]
+                    },
+                    {
+                        "game_id":  918700798,
+                        "done":  true,
+                        "ended_at":  "2026-11-08T18:50:24.642Z",
+                        "my_position":  0,
+                        "players":  [
+                                        {
+                                            "position":  0,
+                                            "nickname":  "Yasseruvski",
+                                            "agent_id":  6864895,
+                                            "me":  true
+                                        },
+                                        {
+                                            "position":  1,
+                                            "nickname":  "cupcake_o_O_",
+                                            "agent_id":  6841633
+                                        }
+                                    ]
+                    },
+                    {
+                        "game_id":  918700797,
+                        "done":  true,
+                        "ended_at":  "2026-11-08T18:50:36.495Z",
+                        "my_position":  0,
+                        "players":  [
+                                        {
+                                            "position":  0,
+                                            "nickname":  "TheSunbwng",
+                                            "agent_id":  6841082
+                                        },
+                                        {
+                                            "position":  0,
+                                            "nickname":  "Yasseruvski",
+                                            "agent_id":  6864895,
+                                            "me":  true
+                                        }
+                                    ]
+                    },
+                    {
+                        "game_id":  918700795,
+                        "done":  true,
+                        "ended_at":  "2026-11-08T18:50:27.288Z",
+                        "my_position":  0,
+                        "players":  [
+                                        {
+                                            "position":  0,
+                                            "nickname":  "Yasseruvski",
+                                            "agent_id":  6864895,
+                                            "me":  true
+                                        },
+                                        {
+                                            "position":  1,
+                                            "nickname":  "kurazor",
+                                            "agent_id":  6849181
+                                        }
+                                    ]
+                    },
+                    {
+                        "game_id":  918700794,
+                        "done":  true,
+                        "ended_at":  "2026-11-08T18:50:24.293Z",
+                        "my_position":  0,
+                        "players":  [
+                                        {
+                                            "position":  0,
+                                            "nickname":  "Yasseruvski",
+                                            "agent_id":  6864895,
+                                            "me":  true
+                                        },
+                                        {
+                                            "position":  1,
+                                            "nickname":  "Jeremie_",
+                                            "agent_id":  6849851
+                                        }
+                                    ]
+                    },
+                    {
+                        "game_id":  918700793,
+                        "done":  true,
+                        "ended_at":  "2026-11-08T18:50:25.239Z",
+                        "my_position":  0,
+                        "players":  [
+                                        {
+                                            "position":  0,
+                                            "nickname":  "Yasseruvski",
+                                            "agent_id":  6864895,
+                                            "me":  true
+                                        },
+                                        {
+                                            "position":  1,
+                                            "nickname":  "BFI",
+                                            "agent_id":  6862018
+                                        }
+                                    ]
+                    },
+                    {
+                        "game_id":  918700792,
+                        "done":  true,
+                        "ended_at":  "2026-11-08T18:50:24.759Z",
+                        "my_position":  0,
+                        "players":  [
+                                        {
+                                            "position":  0,
+                                            "nickname":  "Yasseruvski",
+                                            "agent_id":  6864895,
+                                            "me":  true
+                                        },
+                                        {
+                                            "position":  1,
+                                            "nickname":  "Manlidi",
+                                            "agent_id":  6841134
+                                        }
+                                    ]
+                    },
+                    {
+                        "game_id":  918700790,
+                        "done":  true,
+                        "ended_at":  "2026-11-08T18:50:30.333Z",
+                        "my_position":  0,
+                        "players":  [
+                                        {
+                                            "position":  0,
+                                            "nickname":  "Yasseruvski",
+                                            "agent_id":  6864895,
+                                            "me":  true
+                                        },
+                                        {
+                                            "position":  1,
+                                            "nickname":  "BlanCap",
+                                            "agent_id":  6838682
+                                        }
+                                    ]
+                    },
+                    {
+                        "game_id":  918700789,
+                        "done":  true,
+                        "ended_at":  "2026-11-08T18:50:22.668Z",
+                        "my_position":  0,
+                        "players":  [
+                                        {
+                                            "position":  0,
+                                            "nickname":  "Yasseruvski",
+                                            "agent_id":  6864895,
+                                            "me":  true
+                                        },
+                                        {
+                                            "position":  1,
+                                            "nickname":  "[joshua]",
+                                            "agent_id":  6852745
+                                        }
+                                    ]
+                    },
+                    {
+                        "game_id":  918700787,
+                        "done":  true,
+                        "ended_at":  "2026-11-08T18:50:23.660Z",
+                        "my_position":  0,
+                        "players":  [
+                                        {
+                                            "position":  0,
+                                            "nickname":  "Yasseruvski",
+                                            "agent_id":  6864895,
+                                            "me":  true
+                                        },
+                                        {
+                                            "position":  1,
+                                            "nickname":  "Bronze boss",
+                                            "agent_id":  6838062,
+                                            "boss":  true,
+                                            "league":  "Bronze"
+                                        }
+                                    ]
+                    }
+                ],
+    "limits":  {
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  2,
+                                    "remaining":  118,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  49
+                                }
+               }
+}

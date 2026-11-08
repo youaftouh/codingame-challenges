@@ -1,0 +1,8 @@
+﻿{
+    "action":  "test",
+    "seed":  1,
+    "source":  "candidate-gold-mobility.cpp",
+    "opponent":  "boss",
+    "replay_game_id":  0,
+    "source_sha256":  "B425B1BFB67BCA0C4998F38807FD3BD62298D46EA9A0A8AAB1FA27B5B367335B"
+}

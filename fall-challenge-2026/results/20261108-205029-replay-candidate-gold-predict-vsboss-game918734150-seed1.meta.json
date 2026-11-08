@@ -1,0 +1,8 @@
+﻿{
+    "action":  "replay",
+    "seed":  1,
+    "source":  "candidate-gold-predict.cpp",
+    "opponent":  "boss",
+    "replay_game_id":  918734150,
+    "source_sha256":  "62A6563ECD4F4126E43092FDC97A20DF2A79206B88E81FC33F1D0CD47CB06EFD"
+}

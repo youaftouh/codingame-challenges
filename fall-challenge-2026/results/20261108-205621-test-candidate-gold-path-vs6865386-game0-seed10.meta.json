@@ -1,0 +1,8 @@
+﻿{
+    "action":  "test",
+    "seed":  10,
+    "source":  "candidate-gold-path.cpp",
+    "opponent":  "6865386",
+    "replay_game_id":  0,
+    "source_sha256":  "A2BEE13DFD4EB6CEC2EAC2E2672B89C1E4CDD4D6666111DF5F237D186DCB6F3E"
+}

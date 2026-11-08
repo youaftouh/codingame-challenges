@@ -1,0 +1,37 @@
+﻿[
+    {
+        "file":  "20261108-203934-replay-candidate-gold-predict-vsboss-game918734774-seed1.log",
+        "failures":  0,
+        "rejected":  0
+    },
+    {
+        "file":  "20261108-204010-test-candidate-gold-predict-vsboss-game0-seed1.log",
+        "failures":  0,
+        "rejected":  0
+    },
+    {
+        "file":  "20261108-204902-test-candidate-gold-predict-vs6865148-game0-seed10.log",
+        "failures":  0,
+        "rejected":  0
+    },
+    {
+        "file":  "20261108-204932-test-candidate-gold-predict-vs6865148-game0-seed11.log",
+        "failures":  0,
+        "rejected":  0
+    },
+    {
+        "file":  "20261108-204955-test-candidate-gold-predict-vs6865148-game0-seed12.log",
+        "failures":  0,
+        "rejected":  0
+    },
+    {
+        "file":  "20261108-205029-replay-candidate-gold-predict-vsboss-game918734150-seed1.log",
+        "failures":  0,
+        "rejected":  0
+    },
+    {
+        "file":  "20261108-205110-replay-candidate-gold-predict-vsboss-game918734741-seed1.log",
+        "failures":  0,
+        "rejected":  0
+    }
+]

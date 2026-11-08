@@ -1,0 +1,8 @@
+﻿{
+    "action":  "test",
+    "seed":  10,
+    "source":  "candidate-gold-predict.cpp",
+    "opponent":  "6865148",
+    "replay_game_id":  0,
+    "source_sha256":  "62A6563ECD4F4126E43092FDC97A20DF2A79206B88E81FC33F1D0CD47CB06EFD"
+}

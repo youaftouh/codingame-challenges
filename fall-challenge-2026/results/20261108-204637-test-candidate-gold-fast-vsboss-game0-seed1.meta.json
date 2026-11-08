@@ -1,0 +1,8 @@
+﻿{
+    "action":  "test",
+    "seed":  1,
+    "source":  "candidate-gold-fast.cpp",
+    "opponent":  "boss",
+    "replay_game_id":  0,
+    "source_sha256":  "1672245B53BD0B24D39619E23A33D1E69312011CE1D7DCEEC8006E7F9F7EF1EC"
+}
