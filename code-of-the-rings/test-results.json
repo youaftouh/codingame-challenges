@@ -1,0 +1,842 @@
+[
+    {
+        "result":  {
+                       "test_game_id":  918781111,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781111",
+                       "log":  "game 918781111\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: AZ\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: +.--.\nresult\n  scores: 0=1\n  metadata: character_count=5\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  2,
+                                                         "remaining":  28,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  44
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  1,
+                                                       "remaining":  119,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  60
+                                                   }
+                                  }
+                   },
+        "testcase":  1
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781142,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781142",
+                       "log":  "game 918781142\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: MINAS\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: +++++++++++++.----.+++++.\u003e+.\u003c+++++.\nresult\n  scores: 0=1\n  metadata: character_count=35\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  3,
+                                                         "remaining":  27,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  39
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  2,
+                                                       "remaining":  118,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  55
+                                                   }
+                                  }
+                   },
+        "testcase":  2
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781166,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781166",
+                       "log":  "game 918781166\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: UMNE TALMAR RAHTAINE NIXENEN UMIR\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: ------.--------.+.\u003e+++++.\u003e.-------.\u003e+.\u003c\u003c\u003c--.+.\u003c+.\u003e\u003e\u003e--.\u003e-.\u003c.\u003e+.\u003c\u003c+++.\u003e++.\u003e.\u003c\u003c+.\u003c+.\u003e----.\u003e\u003e-.\u003c\u003c\u003c.-----.\u003c\u003c---.\u003e\u003e\u003e.\u003c+++++.\u003e.\u003c.\u003c-.\u003e\u003e\u003e+.\u003c\u003c-.----.\u003e\u003e---.\nresult\n  scores: 0=1\n  metadata: character_count=146\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  4,
+                                                         "remaining":  26,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  35
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  3,
+                                                       "remaining":  117,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  51
+                                                   }
+                                  }
+                   },
+        "testcase":  3
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781215,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781215",
+                       "log":  "game 918781215\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: OOOOOOOOOOOOOOO\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: ------------...............\nresult\n  scores: 0=1\n  metadata: character_count=27\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  5,
+                                                         "remaining":  25,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  31
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  4,
+                                                       "remaining":  116,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  47
+                                                   }
+                                  }
+                   },
+        "testcase":  4
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781245,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781245",
+                       "log":  "game 918781245\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: BABCDEDCBABCDCB\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: ++.-.+.+.+.+.-.-.-.-.+.+.+.-.-.\nresult\n  scores: 0=1\n  metadata: character_count=31\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  6,
+                                                         "remaining":  24,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  27
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  5,
+                                                       "remaining":  115,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  43
+                                                   }
+                                  }
+                   },
+        "testcase":  5
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781277,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781277",
+                       "log":  "game 918781277\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: ZAZYA YAZ\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: -.++.--.-.\u003e+.-.\u003c.\u003e+.\u003c+.\nresult\n  scores: 0=1\n  metadata: character_count=23\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  7,
+                                                         "remaining":  23,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  24
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  6,
+                                                       "remaining":  114,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  40
+                                                   }
+                                  }
+                   },
+        "testcase":  6
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781293,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781293",
+                       "log":  "game 918781293\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: -\u003e+\u003c[\u003e.\u003c-]+.....\nresult\n  scores: 0=1\n  metadata: character_count=16\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  8,
+                                                         "remaining":  22,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  20
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  7,
+                                                       "remaining":  113,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  36
+                                                   }
+                                  }
+                   },
+        "testcase":  7
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781325,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781325",
+                       "log":  "game 918781325\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: NONONONONONONONONONONONONONONONONONONONO\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: -------\u003e-------------\u003e------------\u003c\u003c[\u003e.\u003e.\u003c\u003c-]\nresult\n  scores: 0=1\n  metadata: character_count=45\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  9,
+                                                         "remaining":  21,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  15
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  8,
+                                                       "remaining":  112,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  31
+                                                   }
+                                  }
+                   },
+        "testcase":  8
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781350,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781350",
+                       "log":  "game 918781350\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: GUZ MUG ZOG GUMMOG ZUMGUM ZUM MOZMOZ MOG ZOGMOG GUZMUGGUM\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: +++++++.\u003e------.\u003e-.+.\u003c\u003c++++++.\u003e.\u003c------.\u003c.-.\u003e\u003e------.\u003c.\u003e\u003e.\u003c\u003c.\u003c-----.\u003e\u003e--..++.\u003c.\u003e\u003e.-.\u003c\u003c\u003c.\u003e\u003e--.\u003c.\u003c.\u003e\u003e.\u003e+.-.\u003c\u003c\u003c.\u003e\u003e.\u003e+.\u003c.++.\u003e-.\u003c--.++.\u003e.+.\u003c--.++.\u003c.\u003e\u003e.-.\u003c.\u003c.\u003e--.++.\u003c.\u003c\u003c.\u003e\u003e.\u003c.\u003c-.\u003e\u003e\u003e--.\u003c\u003c.\u003e..\u003c.\u003e\u003e.\nresult\n  scores: 0=1\n  metadata: character_count=189\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  10,
+                                                         "remaining":  20,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  11
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  9,
+                                                       "remaining":  111,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  27
+                                                   }
+                                  }
+                   },
+        "testcase":  9
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781393,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781393",
+                       "log":  "game 918781393\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: -\u003e--------\u003e--------\u003c\u003c[\u003e.\u003e.\u003c\u003c-]\u003e.\u003e+++++++++++++\u003e+++++\u003c\u003c[\u003e.\u003e.\u003c\u003c-]\nresult\n  scores: 0=1\n  metadata: character_count=63\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  11,
+                                                         "remaining":  19,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  7
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  10,
+                                                       "remaining":  110,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  23
+                                                   }
+                                  }
+                   },
+        "testcase":  10
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781418,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781418",
+                       "log":  "game 918781418\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: ----\u003e++\u003e++\u003e++\u003c\u003c\u003c[\u003e.\u003e.\u003e.\u003c\u003c\u003c-]\u003e.\nresult\n  scores: 0=1\n  metadata: character_count=30\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  12,
+                                                         "remaining":  18,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  3
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  11,
+                                                       "remaining":  109,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  19
+                                                   }
+                                  }
+                   },
+        "testcase":  11
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781454,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781454",
+                       "log":  "game 918781454\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: GAAVOOOLLUGAAVOOOLLUGAAVOOOLLUGAAVOOOLLUGAAVOOOLLUGAAVOOOLLUGAAVOOOLLUGAAVOOOLLU\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: ++++++++\u003e+++++++\u003e+\u003e+\u003e-----\u003e------------\u003e------------\u003e------------\u003e++++++++++++\u003e++++++++++++\u003e------\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c[\u003e.\u003e.\u003e.\u003e.\u003e.\u003e.\u003e.\u003e.\u003e.\u003e.\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c-]\nresult\n  scores: 0=1\n  metadata: character_count=141\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  12,
+                                                         "remaining":  18,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  15
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  12,
+                                                       "remaining":  108,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  14
+                                                   }
+                                  }
+                   },
+        "testcase":  12
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781464,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781464",
+                       "log":  "game 918781464\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: O OROFARNE LASSEMISTA CARNIMIRIE O ROWAN FAIR UPON YOUR HAIR HOW WHITE THE BLOSSOM LAY\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: ------------.\u003e.\u003c.+++.---.\u003e++++++.\u003e+.\u003c\u003c+++.----.\u003e-.\u003e-.\u003c\u003c--.\u003c+.\u003e+++++++..\u003e.\u003c------.----.++++++++++.+.\u003c.\u003c.+++.\u003e.\u003e--.----.-----.++++.----.+++++++++.\u003e++++.----.\u003e.\u003c\u003c---.\u003e\u003e.\u003c\u003c+++.---.\u003e\u003e----.\u003e+.\u003c\u003c\u003c-.\u003c-.\u003e\u003e+.\u003e\u003e.\u003c\u003c+++.\u003c++++.\u003c.\u003e+++.-----.-.-.\u003c.--.\u003e+.\u003e\u003e--.---.\u003e-.\u003c\u003c-.\u003e\u003e+.\u003c\u003c+.\u003e.\u003e-.\u003c\u003c-.\u003c.\u003c--.\u003c\u003c.\u003e\u003e.\u003e\u003e.+.\u003e++.\u003c----.\u003e\u003e.\u003c.\u003c+++.---.\u003e\u003e.++.\u003c\u003c\u003c---.+++.\u003e\u003e-..\u003c\u003c.--.\u003c\u003c\u003c.\u003e\u003e\u003e-.\u003e\u003e\u003e-.---.\nresult\n  scores: 0=1\n  metadata: character_count=358\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  13,
+                                                         "remaining":  17,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  13
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  13,
+                                                       "remaining":  107,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  13
+                                                   }
+                                  }
+                   },
+        "testcase":  13
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781494,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781494",
+                       "log":  "game 918781494\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: ALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG BALROG B\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: -\u003e+\u003e++++++++++++\u003e---------\u003e------------\u003e+++++++\u003e\u003e++\u003c\u003c\u003c\u003c\u003c\u003c\u003c[\u003e.\u003e.\u003e.\u003e.\u003e.\u003e.\u003e.\u003c\u003c\u003c\u003c\u003c\u003c\u003c-]\nresult\n  scores: 0=1\n  metadata: character_count=82\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  14,
+                                                         "remaining":  16,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  10
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  14,
+                                                       "remaining":  106,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  9
+                                                   }
+                                  }
+                   },
+        "testcase":  14
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781535,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781535",
+                       "log":  "game 918781535\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: OYLO Y OOOYYY LLLYOOYY O YO YLOO O OLY YL OY L YY L YOO LYL YYYOOYLOL L Y O YYYLLOY O L YYYOOYLOL YOLOLOY\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: ------------.\u003e--.\u003c---.+++.\u003c.\u003e\u003e.\u003e.\u003c\u003c...\u003e...\u003e.\u003c\u003c---...\u003e.\u003c+++..\u003e..\u003e.\u003c\u003c.\u003c.\u003e\u003e.\u003c.\u003c.\u003e\u003e.\u003c---.+++..\u003c.\u003e.\u003c.\u003e.---.\u003e.\u003e.\u003c.\u003c.\u003c.\u003e+++.\u003e.\u003e.\u003c\u003c---.\u003c.\u003e\u003e..\u003e.\u003c\u003c.\u003c.\u003e\u003e.\u003c+++..\u003c.\u003e---.\u003e.\u003c.\u003c.\u003e\u003e...\u003c+++..\u003e.\u003c---.+++.---.\u003c.\u003e.\u003c.\u003e\u003e.\u003e.\u003c\u003c+++.\u003c.\u003e\u003e...\u003c---..+++.\u003e.\u003e.\u003c\u003c.\u003c.\u003e---.\u003c.\u003e\u003e...\u003c+++..\u003e.\u003c---.+++.---.\u003c.\u003e\u003e.\u003c+++.---.+++.---.+++.\u003e.\nresult\n  scores: 0=1\n  metadata: character_count=292\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  15,
+                                                         "remaining":  15,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  5
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  15,
+                                                       "remaining":  105,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  5
+                                                   }
+                                  }
+                   },
+        "testcase":  15
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781546,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781546",
+                       "log":  "game 918781546\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: TUVWXYZ ABCDEFGHIJ\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: -------.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.\nresult\n  scores: 0=1\n  metadata: character_count=42\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  16,
+                                                         "remaining":  14,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  3
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  16,
+                                                       "remaining":  104,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  3
+                                                   }
+                                  }
+                   },
+        "testcase":  16
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781551,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781551",
+                       "log":  "game 918781551\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: ABCDEFGHIJKLMNOPQRSTUVWXYZAABCDEFGHIJKLMNOPQRSTUVWXYZAABCDEFGHIJKLMNOPQRSTUVWXYZAABCDEFGHIJKLMNOPQRSTUVWXYZAABCDEFGHIJKLMNOPQRSTUVWXYZAABCDEFGHIJKLMNOPQRSTUVWXYZAABCDEFGHIJKLMNOPQRSTUVWXYZAABCDEFGHIJKLMNOPQRSTUVWXYZAABCDEFGHIJKLMNOPQRSTUVWXYZAABCDEFGHIJKLMNOPQRSTUVWXYZAABCDEFGHIJKLMNOPQRSTUVWXYZA\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: +.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.++..+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.++..+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.++..+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.++..+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.++..+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.++..+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.++..+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.++..+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.++..+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.++..+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.++.\nresult\n  scores: 0=1\n  metadata: character_count=595\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  17,
+                                                         "remaining":  13,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  2
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  17,
+                                                       "remaining":  103,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  1
+                                                   }
+                                  }
+                   },
+        "testcase":  17
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781575,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781575",
+                       "log":  "game 918781575\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: OROZOLOKOTONOFOGOMOJOHOFOTOLOPO ODOYOWOAOZO OPOJOTO OROXOVOXO OC\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: ------------.+++.---.\u003e-.\u003c.---.+++.----.++++.+++++.-----.-.+.\u003c++++++.\u003e.\u003c+.\u003e.--.++.\u003c+++.\u003e.\u003c--.\u003e.\u003c--.\u003e.+++++.-----.---.+++.+.-.\u003e+.\u003c.\u003c--.\u003e.\u003e--.\u003c.\u003e--.\u003c.\u003e\u003e+.\u003c\u003c.\u003c\u003c-.\u003e\u003e.\u003e\u003e-.\u003c\u003c.+.-.-----.+++++.\u003e---.\u003c.\u003e\u003e.\u003c\u003c.+++.---.\u003c\u003c--.\u003e\u003e.\u003e++.\u003c.\u003c\u003c.\u003e\u003e.\u003e\u003e.\u003c\u003c.\u003c-.\nresult\n  scores: 0=1\n  metadata: character_count=234\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  17,
+                                                         "remaining":  13,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  3
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  1,
+                                                       "remaining":  119,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  60
+                                                   }
+                                  }
+                   },
+        "testcase":  18
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781618,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781618",
+                       "log":  "game 918781618\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: +.-.++.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.\u003c+.\u003e.-.\nresult\n  scores: 0=1\n  metadata: character_count=126\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  17,
+                                                         "remaining":  13,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  3
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  2,
+                                                       "remaining":  118,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  56
+                                                   }
+                                  }
+                   },
+        "testcase":  19
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781621,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781621",
+                       "log":  "game 918781621\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: FIFOFIFOFIFOFIFOFIFOFIFOFIFOFIFOFIFOFIFOFIFOFIFO FUM FUM FUM FUM FUM FUM FUM FUM FUM FUM FUM FUM FUM FUM FUM\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: ++++++++++++\u003e++++++\u003e+++++++++\u003e++++++\u003e------------\u003c\u003c\u003c\u003c[\u003e.\u003e.\u003e.\u003e.\u003c\u003c\u003c\u003c-]------------\u003e------\u003e---\u003e------------\u003e--\u003c\u003c\u003c\u003c[\u003e.\u003e.\u003e.\u003e.\u003c\u003c\u003c\u003c-]\nresult\n  scores: 0=1\n  metadata: character_count=126\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  18,
+                                                         "remaining":  12,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  1
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  3,
+                                                       "remaining":  117,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  54
+                                                   }
+                                  }
+                   },
+        "testcase":  20
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781648,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781648",
+                       "log":  "game 918781648\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: GY GY GY GY GY GY GY GY GY GY GY GY GY GY GY GY GY GY GY GY GY GY GY GY GY GY GY GY HIJIHIJIJIJIHIHIHIJIHIJIHIJIJIJIHHHIJIJHIHH\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: -\u003e+++++++\u003e--\u003e\u003c\u003c\u003c[\u003e.\u003e.\u003e.\u003c\u003c\u003c-]\u003e.\u003e.\u003e.\u003c\u003c.\u003e.\u003e.\u003c\u003c+.+.+.-.-.+.+.-.+.-.+.-.-.+.-.+.-.+.+.-.-.+.+.-.-.+.+.-.+.-.+.-.-...+.+.-.+.--.+.-..\nresult\n  scores: 0=1\n  metadata: character_count=127\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  18,
+                                                         "remaining":  12,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  1
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  4,
+                                                       "remaining":  116,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  50
+                                                   }
+                                  }
+                   },
+        "testcase":  21
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781658,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781658",
+                       "log":  "game 918781658\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: MELLON MORIAMELLON MORIAMORIAMORIAMELLON MELLON MELLON MORIAMORIAMELLON MELLON MORIA\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: +++++++++++++.\u003e+++++.\u003c-..+++.-.\u003c.\u003e-.++.+++.\u003e++++.\u003e+.\u003c++++.\u003e++++.\u003c-..+++.-.\u003e\u003e.\u003c\u003c-.++.\u003c.\u003e\u003e++++.\u003e+.\u003c\u003c--.++.\u003c.\u003e\u003e.\u003e.\u003c\u003c--.++.\u003c.\u003e\u003e.\u003e.\u003c\u003c--.\u003e----.\u003c-..+++.-.\u003c\u003c.\u003e\u003e-.\u003e.\u003c-..+++.-.\u003c\u003c.\u003e\u003e-.\u003e.\u003c-..+++.-.\u003c\u003c.\u003e\u003e-.++.\u003c.\u003e\u003e++++.\u003e.\u003c\u003c--.++.\u003c.\u003e\u003e.\u003e.\u003c\u003c--.\u003e----.\u003c-..+++.-.\u003c\u003c.\u003e\u003e-.\u003e.\u003c-..+++.-.\u003c\u003c.\u003e\u003e-.++.\u003c.\u003e\u003e++++.\u003e.\nresult\n  scores: 0=1\n  metadata: character_count=282\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  18,
+                                                         "remaining":  12,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  4
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  5,
+                                                       "remaining":  115,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  49
+                                                   }
+                                  }
+                   },
+        "testcase":  22
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781665,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781665",
+                       "log":  "game 918781665\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: ZAZAZAZAZAZAZAZAZAZAZAZAZAZAZAZAZAZAZAZACEGIKMOQSUWY BDFHJLNPRTVXZACEGIKMOQSUWY BDFHJLNPRTVXZA\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: -------\u003e-\u003e+\u003c\u003c[\u003e.\u003e.\u003c\u003c-]+++.++.++.++.++.++.++.++.++.++.++.++.\u003c.++.++.++.++.++.++.++.++.++.++.++.\u003e-.\u003e.\u003e.++.++.++.++.++.++.++.++.++.++.++.\u003c-.++.++.++.++.++.++.++.++.++.++.++.++.\u003c.++.++.\nresult\n  scores: 0=1\n  metadata: character_count=181\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  19,
+                                                         "remaining":  11,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  2
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  6,
+                                                       "remaining":  114,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  48
+                                                   }
+                                  }
+                   },
+        "testcase":  23
+    },
+    {
+        "result":  {
+                       "test_game_id":  918781690,
+                       "status":  "done",
+                       "poll_url":  "/api/v1/test-games/918781690",
+                       "log":  "game 918781690\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: The magic phrase is: THREE RINGS FOR THE ELVEN KINGS UNDER THE SKY SEVEN FOR THE DWARF LORDS IN THEIR HALLS OF STONE NINE FOR MORTAL MEN DOOMED TO DIE ONE FOR THE DARK LORD ON HIS DARK THRONEIN THE LAND OF MORDOR WHERE THE SHADOWS LIE ONE RING TO RULE THEM ALL ONE RING TO FIND THEM ONE RING TO BRING THEM ALL AND IN THE DARKNESS BIND THEM IN THE LAND OF MORDOR WHERE THE SHADOWS LIE\nframe 1\n  referee: ¤GREEN¤Success: Your instructions enabled Bilbo to produce the right phrase!§GREEN§\n  stdout: -------.\u003e++++++++.\u003c--.\u003e---..\u003e.\u003c\u003c.\u003e++++.\u003c----.\u003e--.\u003c+++++.\u003c.\u003e\u003e-.\u003c----.+++.\u003c.\u003e++.\u003e++.---.\u003e.\u003c.+++++++.\u003c++.\u003c+++++.\u003e\u003e++.\u003e.\u003c---.--.+++++.\u003c\u003c++.\u003e---.\u003e\u003e.\u003c\u003c++.\u003e.\u003e++++.+.\u003c\u003c---.\u003c\u003c.\u003e\u003e++.\u003c+.\u003e\u003e\u003e.\u003e.\u003c\u003c\u003c-.\u003e---.\u003e\u003e--.\u003e.\u003c\u003c\u003c\u003c.\u003e\u003e.\u003e---.\u003c.\u003c+++.\u003e\u003e\u003e.\u003c\u003c+.\u003c+.\u003c-.\u003c\u003c.\u003e\u003e++.\u003c.---.\u003c.\u003e-.\u003e+++.\u003c\u003c+.\u003e\u003e\u003e+++.\u003e.\u003e\u003e.\u003c\u003c++++++.+++.\u003c.\u003c\u003c.\u003e\u003e+.\u003e\u003e\u003e.\u003c\u003c------.+++++.\u003e\u003e.\u003c--.\u003c------.---.++++.\u003c-.\u003e\u003e\u003e.\u003c\u003c-.\u003e\u003e+.\u003c\u003c++++..\u003c+.\u003e\u003e\u003e-.\u003c\u003c+++.\u003c\u003c\u003c++.\u003c\u003c.\u003e\u003e\u003e\u003e.+.\u003e.-.\u003c\u003c\u003c-.\u003c\u003c.\u003e\u003e\u003e\u003e\u003e.-----.+++++.\u003c\u003c\u003c.\u003c\u003c.\u003e\u003e+.\u003e\u003e\u003e+.\u003c--.\u003e\u003e\u003e.\u003c\u003c--.++.\u003c.++.\u003c\u003c\u003c.\u003e\u003e\u003e\u003e---.\u003e\u003e.\u003c\u003c+.\u003c\u003c\u003c-.\u003e\u003e\u003e+.\u003e\u003e.++++.\u003c\u003c+..--.\u003e\u003e+.-.\u003e.\u003c\u003c.\u003c++.\u003e\u003e\u003e.\u003c.+++++.----.\u003e.\u003c\u003c\u003c.-.\u003e\u003e.\u003e.\u003c+.\u003c\u003c+.\u003c--.\u003e\u003e\u003e\u003e.\u003c\u003c.\u003e++.---.\u003e.\u003c-.\u003e+.\u003c\u003c\u003c\u003c.\u003e----.\u003e\u003e\u003e-.\u003c\u003c\u003c+.+++.\u003c.\u003e\u003e\u003e.\u003e.\u003c\u003c\u003c.-.\u003e\u003e\u003e.\u003c++++.+.\u003c-.\u003e\u003e.++++.\u003e+.\u003c\u003c\u003c-.\u003e++.\u003e\u003e-.\u003c\u003c\u003c++.\u003e---.\u003c\u003c\u003c.\u003e+.-.\u003c\u003c\u003c.++++.\u003e\u003e\u003e.\u003e\u003e\u003e\u003e.\u003c\u003c\u003c.\u003e.\u003e+.\u003e.\u003c\u003c\u003c\u003c--.\u003c\u003c\u003c\u003c.\u003e\u003e\u003e\u003e++.\u003e\u003e\u003e-.\u003e.\u003c\u003c\u003c\u003c+.\u003e\u003e--.\u003e\u003e.\u003c\u003c\u003c\u003c--.++.\u003c.\u003e\u003e\u003e\u003e.\u003c\u003c\u003c.\u003c.\u003c\u003c\u003c\u003c.\u003e\u003e\u003e.\u003c-.---.\u003e\u003e.\u003c\u003c.\u003c\u003c.\u003e\u003e\u003e---.\u003c+++.---.\u003c\u003c.\u003e\u003e\u003e-.\u003c+++.\u003c.+++.\u003e\u003e\u003e\u003e.\u003e+++.\u003c\u003c\u003c.\u003c\u003c\u003c.\u003e\u003e++++.---.\u003c+.\u003c.\u003e\u003e\u003e\u003e\u003e.-.\u003e\u003e-.\u003e\u003e.\u003c\u003c\u003c\u003c\u003c.\u003c\u003c.\u003e\u003e\u003e.\u003e\u003e++.\u003e\u003e.\u003c\u003c\u003c---.\u003c+.\u003e\u003e\u003e\u003e.\u003c\u003c\u003c\u003c\u003c.\u003c++.\u003c+++.\u003c.\u003c.\u003e\u003e\u003e-.\u003e\u003e\u003e\u003e+.\u003e+.\u003c\u003c\u003c--.\u003e\u003e\u003e\u003e.+.\u003c\u003c\u003c\u003c-..\u003e\u003e\u003e\u003e-.\u003c\u003c\u003c\u003c+++.-.\u003e\u003e\u003e.\u003e.\u003c\u003c\u003c\u003c\u003c.\u003e\u003e\u003e+.\u003c\u003c.\u003e\u003e--.\u003e\u003e.\u003c\u003c\u003c.\u003c+.\u003e\u003e\u003e\u003e.\u003c+.\u003c++.\u003c\u003c-.\u003e\u003e\u003e--.\u003e.\u003c\u003c\u003c.\u003e-.\u003e+.\u003c\u003c\u003c-.\u003e\u003e\u003e\u003e.\u003c\u003c\u003c\u003c++.-.\u003e\u003e\u003e.\u003e.\u003c\u003c\u003c\u003c\u003c.\u003e\u003e\u003e+.\u003c\u003c.\u003e\u003e--.\u003e\u003e.\u003c\u003c\u003c.\u003c+.\u003e\u003e\u003e\u003e.++.\u003c\u003c\u003c\u003c\u003c.\u003e\u003e\u003e++.\u003c\u003c-.\u003e\u003e--.\u003e\u003e\u003e.\u003c\u003c\u003c\u003c.\u003e+.\u003e.\u003c\u003c\u003c-.\u003e\u003e\u003e\u003e\u003e.+.\u003c\u003c\u003c\u003c\u003c-..\u003c\u003c\u003c\u003c\u003c.+.\u003e\u003e++.\u003c-.\u003c\u003c.\u003e\u003e+++++.\u003e.\u003c\u003c\u003c.\u003e\u003e\u003e\u003e.\u003c\u003c-.---.\u003c\u003c.\u003e\u003e-.\u003c.\u003e\u003e\u003e\u003e.\u003e-.+++.\u003e\u003e\u003e.\u003c\u003c-..\u003e\u003e\u003e--.++.\u003c\u003c+.\u003c\u003c.\u003e\u003e\u003e-.\u003e--.\u003c\u003c\u003c+.\u003e-.\u003e+.\u003c\u003c\u003c-.\u003e\u003e\u003e\u003e.\u003c\u003c+.\u003c\u003c+.\u003e\u003e\u003e\u003e.\u003c\u003c\u003c.\u003e-.\u003e.\u003e.\u003c\u003c\u003c\u003c--.\u003e\u003e\u003e\u003e+.\u003c\u003c\u003c\u003c++.\u003e\u003e\u003e-.\u003e-.\u003c\u003c\u003c\u003c+.\u003e\u003e--.\u003e\u003e.\u003c\u003c\u003c\u003c--.++.\u003c.\u003c\u003c\u003c.\u003e+.\u003e\u003e.\u003e\u003e\u003e\u003e\u003e.----.\u003c\u003c++.\u003e+.\u003c\u003c\u003c\u003c.\u003e\u003e\u003e\u003e.\u003e\u003e-.\u003c\u003c\u003c\u003c.\u003e.\u003e.\u003e\u003e.\u003c\u003c\u003c\u003c-.\u003e.\u003e\u003e\u003e+.\u003c\u003c-.\u003c\u003c\u003c.\u003e\u003e\u003e\u003e.\u003c\u003c\u003c.\u003e\u003e\u003e\u003e-.\u003c\u003c\u003c++++.---.\u003e+.\nresult\n  scores: 0=1\n  metadata: character_count=1479\n",
+                       "limits":  {
+                                      "submits":  {
+                                                      "name":  "submits_5m",
+                                                      "limit":  5,
+                                                      "used":  0,
+                                                      "remaining":  5,
+                                                      "window_seconds":  300,
+                                                      "resets_in_seconds":  0
+                                                  },
+                                      "test_games":  {
+                                                         "name":  "test_games_1m",
+                                                         "limit":  30,
+                                                         "used":  20,
+                                                         "remaining":  10,
+                                                         "window_seconds":  60,
+                                                         "resets_in_seconds":  1
+                                                     },
+                                      "requests":  {
+                                                       "name":  "requests_1m",
+                                                       "limit":  120,
+                                                       "used":  7,
+                                                       "remaining":  113,
+                                                       "window_seconds":  60,
+                                                       "resets_in_seconds":  46
+                                                   }
+                                  }
+                   },
+        "testcase":  24
+    }
+]
