@@ -1,0 +1,14 @@
+{
+    "stub_generator":  "loop 10 read line:string(19)\nread robotCount:int\nloop robotCount read x:int y:int direction:word(1)\nwrite 0 0 U 1 1 R 2 2 D 3 3 L",
+    "syntax_doc":  "https://www.codingame.com/api/v1/docs/stub-generator",
+    "limits":  {
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  2,
+                                    "remaining":  118,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  48
+                                }
+               }
+}

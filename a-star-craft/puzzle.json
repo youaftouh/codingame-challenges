@@ -1,0 +1,255 @@
+{
+    "pretty_id":  "a-star-craft",
+    "title":  "A*Craft",
+    "category":  "optimization",
+    "arcade":  false,
+    "url":  "https://www.codingame.com/multiplayer/optimization/a-star-craft",
+    "solved_count":  2442,
+    "rating":  4.56,
+    "rating_count":  372,
+    "played":  false,
+    "submitted":  false,
+    "languages":  [
+                      {
+                          "id":  "Bash",
+                          "name":  "Bash"
+                      },
+                      {
+                          "id":  "C",
+                          "name":  "C"
+                      },
+                      {
+                          "id":  "C#",
+                          "name":  "C#"
+                      },
+                      {
+                          "id":  "C++",
+                          "name":  "C++"
+                      },
+                      {
+                          "id":  "Clojure",
+                          "name":  "Clojure"
+                      },
+                      {
+                          "id":  "D",
+                          "name":  "D"
+                      },
+                      {
+                          "id":  "Dart",
+                          "name":  "Dart"
+                      },
+                      {
+                          "id":  "F#",
+                          "name":  "F#"
+                      },
+                      {
+                          "id":  "Go",
+                          "name":  "Go"
+                      },
+                      {
+                          "id":  "Groovy",
+                          "name":  "Groovy"
+                      },
+                      {
+                          "id":  "Haskell",
+                          "name":  "Haskell"
+                      },
+                      {
+                          "id":  "Java",
+                          "name":  "Java"
+                      },
+                      {
+                          "id":  "Javascript",
+                          "name":  "JavaScript"
+                      },
+                      {
+                          "id":  "Kotlin",
+                          "name":  "Kotlin"
+                      },
+                      {
+                          "id":  "Lua",
+                          "name":  "Lua"
+                      },
+                      {
+                          "id":  "ObjectiveC",
+                          "name":  "Objective-C"
+                      },
+                      {
+                          "id":  "OCaml",
+                          "name":  "OCaml"
+                      },
+                      {
+                          "id":  "Pascal",
+                          "name":  "Pascal"
+                      },
+                      {
+                          "id":  "Perl",
+                          "name":  "Perl"
+                      },
+                      {
+                          "id":  "PHP",
+                          "name":  "PHP"
+                      },
+                      {
+                          "id":  "Python3",
+                          "name":  "Python 3"
+                      },
+                      {
+                          "id":  "Ruby",
+                          "name":  "Ruby"
+                      },
+                      {
+                          "id":  "Rust",
+                          "name":  "Rust"
+                      },
+                      {
+                          "id":  "Scala",
+                          "name":  "Scala"
+                      },
+                      {
+                          "id":  "Swift",
+                          "name":  "Swift"
+                      },
+                      {
+                          "id":  "TypeScript",
+                          "name":  "TypeScript"
+                      },
+                      {
+                          "id":  "VB.NET",
+                          "name":  "VB.NET"
+                      }
+                  ],
+    "testcases":  [
+                      {
+                          "index":  1,
+                          "title":  "Simple"
+                      },
+                      {
+                          "index":  2,
+                          "title":  "Dual Simple"
+                      },
+                      {
+                          "index":  3,
+                          "title":  "Buggy Robot"
+                      },
+                      {
+                          "index":  4,
+                          "title":  "Dual Buggy Robots"
+                      },
+                      {
+                          "index":  5,
+                          "title":  "3x3 Platform"
+                      },
+                      {
+                          "index":  6,
+                          "title":  "Roundabout"
+                      },
+                      {
+                          "index":  7,
+                          "title":  "Don\u0027t Fall"
+                      },
+                      {
+                          "index":  8,
+                          "title":  "Portal"
+                      },
+                      {
+                          "index":  9,
+                          "title":  "CodinGame"
+                      },
+                      {
+                          "index":  10,
+                          "title":  "Multiple 3x3 Platforms"
+                      },
+                      {
+                          "index":  11,
+                          "title":  "9x9 Quantic Platform"
+                      },
+                      {
+                          "index":  12,
+                          "title":  "One Long Road"
+                      },
+                      {
+                          "index":  13,
+                          "title":  "Hard Choice"
+                      },
+                      {
+                          "index":  14,
+                          "title":  "The Best Way"
+                      },
+                      {
+                          "index":  15,
+                          "title":  "Hypersonic"
+                      },
+                      {
+                          "index":  16,
+                          "title":  "Hypersonic Deluxe"
+                      },
+                      {
+                          "index":  17,
+                          "title":  "Saturn Rings"
+                      },
+                      {
+                          "index":  18,
+                          "title":  "GL HF"
+                      },
+                      {
+                          "index":  19,
+                          "title":  "Cross"
+                      },
+                      {
+                          "index":  20,
+                          "title":  "To the Right"
+                      },
+                      {
+                          "index":  21,
+                          "title":  "Wings of Liberty"
+                      },
+                      {
+                          "index":  22,
+                          "title":  "Round the Clock"
+                      },
+                      {
+                          "index":  23,
+                          "title":  "Cells"
+                      },
+                      {
+                          "index":  24,
+                          "title":  "Shield"
+                      },
+                      {
+                          "index":  25,
+                          "title":  "StarCraft"
+                      },
+                      {
+                          "index":  26,
+                          "title":  "Xel"
+                      },
+                      {
+                          "index":  27,
+                          "title":  "4 Gates"
+                      },
+                      {
+                          "index":  28,
+                          "title":  "Confusion"
+                      },
+                      {
+                          "index":  29,
+                          "title":  "Bunker"
+                      },
+                      {
+                          "index":  30,
+                          "title":  "Split"
+                      }
+                  ],
+    "statement":  "# The Goal\n\nScore as many points as possible by guiding your robots on the platforms.\n\n# Rules\n\nYou must guide multiple `Automaton2000` robots by placing arrows on your first turn. Every turn, you score as many points as the number of Automaton2000 robots still functioning.\n\n**The map**\n\n- The game is played on a grid `19` units wide and `10` units high.\n- The grid is **torus-shaped**, meaning exiting the grid from one side will wrap you round to the other side.\n- The coordinate `X=0, Y=0` is the top left cell.\n- Each cell can be of 1 of 3 different types: platform, arrow and void.\n\n**Automaton2000**\n\n- Automaton2000 moves in a straight line by 1 cell every turn.\n- Automaton2000 only changes direction when stepping on an arrow.\n- Automaton2000 will stop functioning if it revisits a state (position + direction) it\u0027s been in.\n- Automaton2000 will stop functioning if it steps off the platform.\n\n**Arrows**\n\n- Arrows point to one of the 4 directions: `U` (Up), `R` (Right), `D` (Down) and `L` (Left).\n- Arrows should be placed on empty platform cells only. Any other action will be ignored.\n\n**Output**\n\n- Place an arrow by outputting the command `X Y d` where `d` is the direction (`U`, `R`, `D` or `L`) and `X`, `Y` are the coordinates of the cell.\n- Place multiple arrows by separating your commands with a space.\n\n# Details\n\n**Order of events in a turn:**\n\n- Score is incremented by the number of robots in function.\n- Automaton2000 robots move by 1 cell in the direction they\u0027re facing.\n- Automaton2000 robots change their direction if they\u0027re located on an arrow.\n- Automaton2000 robots stop functioning if they\u0027re located on a void cell or if they\u0027ve entered a state (position,direction) they\u0027ve been in before. (Automaton2000 robots don\u0027t share their state history)\n\nDuring the first turn, Automaton2000 changes its direction if it\u0027s standing on an arrow (i.e: You can change the initial direction of a robot by placing an arrow under it).\n\nThe referee code of the game is accessible on GitHub: https://github.com/CodinGameCommunity/A-Star-Craft\n\n# Note\n\n**Don‚??t forget to run the tests by launching them from the ‚??Test cases‚?ù window**. You can submit at any time to receive a score against the training validators. There are some limitations on submits per unit time.\n\nDon\u0027t hesitate to change the viewer\u0027s options to help debug your code (![](https://www.codingame.com/servlet/fileservlet?id=3463235186409)).\n\n# Game Protocol\n\n### Game Input\n\nFirst `10` lines:  a String `line` of `19` characters. Each character represents a cell:\n\n- `#`: void cell\n- `.`: empty platform cell\n- `U`: platform cell with an Up arrow\n- `R`: platform cell with an Right arrow\n- `D`: platform cell with an Down arrow\n- `L`: platform cell with an Left arrow\n\nNext line: an Integer `robotCount`, the total number of Automaton2000 robots,\n\nNext `robotCount` lines: for each Automaton2000 robot,\n\n- 2 integers `x` and `y`, its coordinates,\n- 1 character `direction`, the direction if faces (`U`, `R`, `D` or `L`).\n\n### Game Output\n\nA single line containing triplets of the form `X Y DIR` with `X Y` two integers and `DIR` a character, either `U`, `R`, `D` or `L`.\n\n### Constraints\n\n1 ‚?§ `robotCount` ‚?§ 10.\n\nMaximum characters allowed for one output: `10 000`.\n\nAllotted response time to output is ‚?§ `1s`.",
+    "limits":  {
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  1,
+                                    "remaining":  119,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  60
+                                }
+               }
+}

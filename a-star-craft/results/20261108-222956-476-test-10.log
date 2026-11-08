@@ -1,0 +1,39 @@
+game 918793133
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+frame 1 agent 0
+  stderr: baseline=22 score=82 iterations=716878 ms=820
+  stdout: 1 1 R 3 1 D 5 1 D 7 1 L 9 1 D 13 1 D 15 1 L 1 2 R 2 2 R 5 2 R 11 2 L 14 2 R 15 2 U 1 3 U 2 3 L 3 3 L 6 3 R 7 3 U 9 3 R 11 3 U 13 3 R 15 3 L 1 5 R 2 5 R 3 5 D 5 5 R 6 5 R 7 5 D 9 5 R 10 5 R 11 5 D 13 5 R 14 5 R 15 5 D 2 6 R 5 6 U 6 6 L 7 6 D 11 6 L 13 6 R 1 7 U 2 7 U 3 7 L 5 7 R 7 7 L 9 7 U 11 7 L 13 7 U 14 7 L 15 7 L
+frame 2
+frame 3
+frame 4
+frame 5
+frame 6
+frame 7
+frame 8
+frame 9
+frame 10
+frame 11
+  referee: Automaton2000 (id=2) drifted off into deep space.
+      Automaton2000 (id=3) is starting an infinite loop.
+      Automaton2000 (id=4) drifted off into deep space.
+      Automaton2000 (id=5) drifted off into deep space.
+      Automaton2000 (id=7) drifted off into deep space.
+      Automaton2000 (id=0) drifted off into deep space.
+frame 12
+  referee: Automaton2000 (id=1) drifted off into deep space.
+      Automaton2000 (id=6) is starting an infinite loop.
+      ¤GREEN¤Score: 82§GREEN§
+result
+  scores: 0=1
+  tooltips: frame 11: Automaton2000 (id=2) drifted off into deep space.
+      frame 11: Automaton2000 (id=3) is starting an infinite loop.
+      frame 11: Automaton2000 (id=4) drifted off into deep space.
+      frame 11: Automaton2000 (id=5) drifted off into deep space.
+      frame 11: Automaton2000 (id=7) drifted off into deep space.
+      frame 11: Automaton2000 (id=0) drifted off into deep space.
+      frame 12: Automaton2000 (id=1) drifted off into deep space.
+      frame 12: Automaton2000 (id=6) is starting an infinite loop.
+  metadata: Points=82
+

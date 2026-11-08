@@ -1,0 +1,138 @@
+game 918793255
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+frame 1 agent 0
+  stderr: baseline=52 score=462 iterations=783724 ms=820
+  stdout: 1 0 D 2 0 U 3 0 L 4 0 D 5 0 L 10 0 L 11 0 L 12 0 L 13 0 D 14 0 L 15 0 L 16 0 L 1 1 R 3 1 D 4 1 R 5 1 D 6 1 R 7 1 R 8 1 R 10 1 R 11 1 D 12 1 U 13 1 D 14 1 R 15 1 D 17 1 L 1 2 U 4 2 L 10 2 L 12 2 U 17 2 L 1 3 D 2 3 L 3 3 L 4 3 R 6 3 U 10 3 U 12 3 R 17 3 U 1 5 R 3 5 R 7 5 R 14 5 U 15 5 R 16 5 U 1 6 L 2 6 R 3 6 L 6 6 D 7 6 R 8 6 R 10 6 U 11 6 L 12 6 U 13 6 L 14 6 U 15 6 L 16 6 L 17 6 L 1 7 R 3 7 R 4 7 U 5 7 L 12 7 L 14 7 D 16 7 D 3 8 L 4 8 U 5 8 R 6 8 R 10 8 L 11 8 D 12 8 L 13 8 U 14 8 U 15 8 U 16 8 R 17 8 U
+frame 2
+frame 3
+frame 4
+frame 5
+frame 6
+frame 7
+frame 8
+frame 9
+frame 10
+frame 11
+frame 12
+frame 13
+frame 14
+frame 15
+frame 16
+frame 17
+frame 18
+frame 19
+frame 20
+frame 21
+frame 22
+frame 23
+frame 24
+frame 25
+frame 26
+frame 27
+frame 28
+frame 29
+frame 30
+frame 31
+frame 32
+frame 33
+frame 34
+frame 35
+frame 36
+frame 37
+frame 38
+frame 39
+frame 40
+frame 41
+frame 42
+frame 43
+frame 44
+frame 45
+frame 46
+frame 47
+frame 48
+frame 49
+frame 50
+frame 51
+frame 52
+frame 53
+frame 54
+frame 55
+frame 56
+frame 57
+frame 58
+frame 59
+frame 60
+frame 61
+frame 62
+frame 63
+frame 64
+frame 65
+frame 66
+frame 67
+frame 68
+frame 69
+frame 70
+frame 71
+frame 72
+frame 73
+frame 74
+frame 75
+frame 76
+frame 77
+frame 78
+frame 79
+frame 80
+frame 81
+frame 82
+frame 83
+frame 84
+frame 85
+frame 86
+frame 87
+frame 88
+frame 89
+frame 90
+frame 91
+frame 92
+frame 93
+frame 94
+frame 95
+frame 96
+frame 97
+frame 98
+frame 99
+frame 100
+frame 101
+frame 102
+frame 103
+frame 104
+frame 105
+frame 106
+frame 107
+frame 108
+frame 109
+frame 110
+frame 111
+frame 112
+frame 113
+frame 114
+  referee: Automaton2000 (id=0) is starting an infinite loop.
+frame 115
+frame 116
+  referee: Automaton2000 (id=1) is starting an infinite loop.
+frame 117
+  referee: Automaton2000 (id=2) is starting an infinite loop.
+frame 118
+frame 119
+  referee: Automaton2000 (id=3) is starting an infinite loop.
+      ¤GREEN¤Score: 462§GREEN§
+result
+  scores: 0=1
+  tooltips: frame 114: Automaton2000 (id=0) is starting an infinite loop.
+      frame 116: Automaton2000 (id=1) is starting an infinite loop.
+      frame 117: Automaton2000 (id=2) is starting an infinite loop.
+      frame 119: Automaton2000 (id=3) is starting an infinite loop.
+  metadata: Points=462
+

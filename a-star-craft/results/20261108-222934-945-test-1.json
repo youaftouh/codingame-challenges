@@ -1,0 +1,32 @@
+{
+    "test_game_id":  918792986,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918792986",
+    "log":  "game 918792986\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\nframe 1 agent 0\n  stderr: baseline=12 score=23 iterations=1251465 ms=820\n  stdout: 14 4 L\nframe 2\nframe 3\nframe 4\nframe 5\nframe 6\nframe 7\nframe 8\nframe 9\nframe 10\nframe 11\nframe 12\nframe 13\nframe 14\nframe 15\nframe 16\nframe 17\nframe 18\nframe 19\nframe 20\nframe 21\nframe 22\nframe 23\nframe 24\n  referee: Automaton2000 (id=0) drifted off into deep space.\n      ¤GREEN¤Score: 23§GREEN§\nresult\n  scores: 0=1\n  tooltips: frame 24: Automaton2000 (id=0) drifted off into deep space.\n  metadata: Points=23\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  0,
+                                   "remaining":  5,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  0
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  2,
+                                      "remaining":  28,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  42
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  3,
+                                    "remaining":  117,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  31
+                                }
+               }
+}
