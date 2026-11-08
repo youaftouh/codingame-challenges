@@ -1,0 +1,14 @@
+{
+    "language":  "Groovy",
+    "code":  "input = new Scanner(System.in);\nN = input.nextInt() // the number of points used to draw the surface of Mars.\nfor (i = 0; i \u003c N; ++i) {\n    input.nextInt()\n    input.nextInt()\n}\nwhile (true) {\n    fuel = 0\n    X = input.nextInt()\n    Y = input.nextInt()\n    HS = input.nextInt()\n    VS = input.nextInt()\n    F = input.nextInt()\n    R = input.nextInt()\n    P = input.nextInt()\n    if(VS.abs()\u003e=40) println \"0 4\"\n    else println \"0 0\"\n}",
+    "limits":  {
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  3,
+                                    "remaining":  117,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  38
+                                }
+               }
+}

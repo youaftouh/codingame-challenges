@@ -1,0 +1,37 @@
+﻿[
+    {
+        "Case":  1,
+        "Landed":  true,
+        "FuelRemaining":  290,
+        "MaxMs":  78,
+        "Errors":  0
+    },
+    {
+        "Case":  2,
+        "Landed":  true,
+        "FuelRemaining":  297,
+        "MaxMs":  78,
+        "Errors":  0
+    },
+    {
+        "Case":  3,
+        "Landed":  true,
+        "FuelRemaining":  464,
+        "MaxMs":  78,
+        "Errors":  0
+    },
+    {
+        "Case":  4,
+        "Landed":  true,
+        "FuelRemaining":  511,
+        "MaxMs":  78,
+        "Errors":  0
+    },
+    {
+        "Case":  5,
+        "Landed":  true,
+        "FuelRemaining":  689,
+        "MaxMs":  78,
+        "Errors":  0
+    }
+]

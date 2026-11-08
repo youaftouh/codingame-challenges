@@ -1,0 +1,156 @@
+{
+    "pretty_id":  "mars-lander",
+    "title":  "Mars Lander",
+    "category":  "optimization",
+    "arcade":  false,
+    "url":  "https://www.codingame.com/multiplayer/optimization/mars-lander",
+    "solved_count":  7488,
+    "rating":  4.62,
+    "rating_count":  1429,
+    "played":  true,
+    "submitted":  false,
+    "last_played_at":  "2025-08-07T16:08:30.987Z",
+    "languages":  [
+                      {
+                          "id":  "Bash",
+                          "name":  "Bash"
+                      },
+                      {
+                          "id":  "C",
+                          "name":  "C"
+                      },
+                      {
+                          "id":  "C#",
+                          "name":  "C#"
+                      },
+                      {
+                          "id":  "C++",
+                          "name":  "C++"
+                      },
+                      {
+                          "id":  "Clojure",
+                          "name":  "Clojure"
+                      },
+                      {
+                          "id":  "D",
+                          "name":  "D"
+                      },
+                      {
+                          "id":  "Dart",
+                          "name":  "Dart"
+                      },
+                      {
+                          "id":  "F#",
+                          "name":  "F#"
+                      },
+                      {
+                          "id":  "Go",
+                          "name":  "Go"
+                      },
+                      {
+                          "id":  "Groovy",
+                          "name":  "Groovy"
+                      },
+                      {
+                          "id":  "Haskell",
+                          "name":  "Haskell"
+                      },
+                      {
+                          "id":  "Java",
+                          "name":  "Java"
+                      },
+                      {
+                          "id":  "Javascript",
+                          "name":  "JavaScript"
+                      },
+                      {
+                          "id":  "Kotlin",
+                          "name":  "Kotlin"
+                      },
+                      {
+                          "id":  "Lua",
+                          "name":  "Lua"
+                      },
+                      {
+                          "id":  "ObjectiveC",
+                          "name":  "Objective-C"
+                      },
+                      {
+                          "id":  "OCaml",
+                          "name":  "OCaml"
+                      },
+                      {
+                          "id":  "Pascal",
+                          "name":  "Pascal"
+                      },
+                      {
+                          "id":  "Perl",
+                          "name":  "Perl"
+                      },
+                      {
+                          "id":  "PHP",
+                          "name":  "PHP"
+                      },
+                      {
+                          "id":  "Python3",
+                          "name":  "Python 3"
+                      },
+                      {
+                          "id":  "Ruby",
+                          "name":  "Ruby"
+                      },
+                      {
+                          "id":  "Rust",
+                          "name":  "Rust"
+                      },
+                      {
+                          "id":  "Scala",
+                          "name":  "Scala"
+                      },
+                      {
+                          "id":  "Swift",
+                          "name":  "Swift"
+                      },
+                      {
+                          "id":  "TypeScript",
+                          "name":  "TypeScript"
+                      },
+                      {
+                          "id":  "VB.NET",
+                          "name":  "VB.NET"
+                      }
+                  ],
+    "testcases":  [
+                      {
+                          "index":  1,
+                          "title":  "Easy on the right"
+                      },
+                      {
+                          "index":  2,
+                          "title":  "Initial speed, correct side"
+                      },
+                      {
+                          "index":  3,
+                          "title":  "Initial speed, wrong side"
+                      },
+                      {
+                          "index":  4,
+                          "title":  "Deep canyon"
+                      },
+                      {
+                          "index":  5,
+                          "title":  "High ground"
+                      }
+                  ],
+    "statement":  "## The Goal\n\nThe goal for your program is to safely land the \"Mars Lander\" shuttle, the landing ship which contains the Opportunity rover. Mars Lander is guided by a program, and right now the failure rate for landing on the NASA simulator is unacceptable.\n\n**This puzzle is the second level of the \"Mars Lander\" trilogy. In this special puzzle, you need to minimize the quantity of fuel used.**\n\n## Rules\n\nBuilt as a game, the simulator puts Mars Lander on a limited zone of Mars sky.\n\n![](https://www.codingame.com/fileservlet?id=2635325710601)\n\nThe zone is `7000m` wide and `3000m` high.\n\nThere is a **unique area of flat ground** on the surface of Mars, which is at least `1000` meters wide.\n\n**Every second**, depending on the current flight parameters (location, speed, fuel ...), the program must provide the new desired tilt angle and thrust power of Mars Lander:\n\n![](https://www.codingame.com/fileservlet?id=957023678862)\n\nAngle goes from `-90Â°` to `90Â°` . Thrust power goes from `0` to `4` .\n\nThe game simulates **a free fall** without atmosphere. Gravity on Mars is `3.711 m/sÂ²` . For a **thrust power of X**, a push force equivalent to **X m/sÂ²** is generated and **X liters of fuel** are consumed. As such, a thrust power of `4` in an almost vertical position is needed to compensate for the gravity on Mars.\n\nFor a landing to be successful, the ship must:\n\n- land on flat ground\n- land in a vertical position (tilt angle = 0Â°)\n- vertical speed must be limited ( â¤ 40m/s in absolute value)\n- horizontal speed must be limited ( â¤ 20m/s in absolute value)\n\n## Note\n\nTests and validators are only slightly different. **A program that passes a given test will pass the corresponding validator** without any problem.\n\n## Game Input\n\nThe program must first read the initialization data from standard input. Then, **within an infinite loop**, the program must read the data from the standard input related to Mars Lander\u0027s current state and provide to the standard output the instructions to move Mars Lander.\n\n### Initialization input\n\nLine 1:  the number `surfaceN` of points used to draw the surface of Mars.\nNext `surfaceN` lines: a couple of integers `landX` `landY` providing the coordinates of a ground point. By linking all the points together in a sequential fashion, you form the surface of Mars which is composed of several segments. For the first point, `landX` = `0` and for the last point, `landX` = `6999`\n\n### Input for one game turn\n\nA single line with 7 integers: `X` `Y` `hSpeed` `vSpeed` `fuel` `rotate` `power`\n\n- `X`,`Y` are the coordinates of Mars Lander (in meters).\n- `hSpeed` and `vSpeed` are the horizontal and vertical speed of Mars Lander (in m/s). These can be negative depending on the direction of Mars Lander.\n- `fuel` is the remaining quantity of fuel in liters. When there is no more fuel, the power of thrusters falls to zero.\n- `rotate` is the angle of rotation of Mars Lander expressed in degrees.\n- `power` is the thrust power of the landing ship.\n\n### Output for one game turn\n\nA single line with 2 integers: `rotate` `power` :\n\n- `rotate` is the desired rotation angle for Mars Lander. Please note that for each turn the actual value of the angle is limited to the value of the previous turn `+/- 15Â°`.\n- `power` is the desired thrust power. `0` = off. `4` = maximum power. Please note that for each turn the value of the actual power is limited to the value of the previous turn `+/- 1`.\n\n### Constraints\n\n2 â¤ `surfaceN` \u003c 30\n0 â¤ `X` \u003c 7000\n0 â¤ `Y` \u003c 3000\n-500 \u003c `hSpeed`, `vSpeed` \u003c 500\n0 â¤ `fuel` â¤ 2000\n-90 â¤ `rotate` â¤ 90\n0 â¤ `power` â¤ 4\nResponse time per turn â¤ 100ms\n\n### Example\n\nInitialization input\n\n```\n6         \t(surfaceN) Surface made of 6 points\n0 1500      \t(landX landY)\n1000 2000\t(landX landY)\n2000 500\t(landX landY) Start of flat ground\n3500 500\t(landX landY) End of flat ground\n5000 1500\t(landX landY)\n6999 1000\t(landX landY)\n```\n\nNo output expected\n\nYou can ignore this but you need to read the values.\n\nInput for turn 1\n\n```\n5000 2500 -50 0 1000 90 0\t(X Y hSpeed vSpeed fuel rotate power)\n```\n\nOutput for turn 1\n\n```\n-45 4 (rotate power)\n```\n\nRequested rotation to the right, maximum thrust power\n\nInput for turn 2\n\n```\n4950 2498 -51 -3 999 75 1\t(X Y hSpeed vSpeed fuel rotate power)\n```\n\nTilt angle changed only by 15Â° and thrust power only by 1\n\nOutput for turn 2\n\n```\n-45 4 (rotate power)\n```\n\nSame request as previous turn\n\nInput for turn 3\n\n```\n4898 2493 -53 -6 997 60 2\t(X Y hSpeed vSpeed fuel rotate power)\n```\n\nOutput for turn 3\n\n```\n-45 4 (rotate power)\n```\n\nSame request as previous turn\n\n## Synopsis\n\n**Same place, the next day. You have joined Jeff and Mike in the crisis meeting room of the Kennedy Space Center.**\n\nâ*OK, I see you got the general idea. Mike, what do you think of our new recruit so far?* â\n\nâ*There\u0027s still a long way to go...* â\n\nâ*Oh c\u0027mon Mike, you\u0027re always so skeptical!* â\n\nJeff turns and glares at you with his steel-blue eyes.\n\nâ *But he IS right! This first test was just a warm-up. Now you\u0027ll need to deal with more challenging situations. You see, we must be prepared to face anything, the success of the mission depends upon it!* â",
+    "limits":  {
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  1,
+                                    "remaining":  119,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  60
+                                }
+               }
+}

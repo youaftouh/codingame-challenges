@@ -1,0 +1,508 @@
+game 918776187
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+  referee: Landing phase starting
+      X=6500m, Y=2800m, HSpeed=-100m/s VSpeed=0m/s
+      Fuel=600l, Angle=90Â°, Power=0 (0.0m/s2)
+frame 1 agent 0
+  referee: Landing in progress...
+      X=6400m, Y=2798m, HSpeed=-101m/s VSpeed=-3m/s
+      Fuel=599l, Angle=75Â°, Power=1 (1.0m/s2)
+  stderr: search=6728 fitness=1002959918 horizon=83 ms=78
+  stdout: -49 4
+frame 2 agent 0
+  referee: Landing in progress...
+      X=6298m, Y=2793m, HSpeed=-103m/s VSpeed=-6m/s
+      Fuel=597l, Angle=60Â°, Power=2 (2.0m/s2)
+  stderr: search=6765 fitness=1002959919 horizon=82 ms=78
+  stdout: -49 4
+frame 3 agent 0
+  referee: Landing in progress...
+      X=6194m, Y=2787m, HSpeed=-105m/s VSpeed=-8m/s
+      Fuel=594l, Angle=45Â°, Power=3 (3.0m/s2)
+  stderr: search=6766 fitness=1002959920 horizon=81 ms=78
+  stdout: -49 4
+frame 4 agent 0
+  referee: Landing in progress...
+      X=6088m, Y=2779m, HSpeed=-107m/s VSpeed=-8m/s
+      Fuel=590l, Angle=30Â°, Power=4 (4.0m/s2)
+  stderr: search=6714 fitness=1002959921 horizon=80 ms=78
+  stdout: -49 4
+frame 5 agent 0
+  referee: Landing in progress...
+      X=5981m, Y=2771m, HSpeed=-108m/s VSpeed=-8m/s
+      Fuel=586l, Angle=15Â°, Power=4 (4.0m/s2)
+  stderr: search=6973 fitness=1002959922 horizon=79 ms=78
+  stdout: -49 4
+frame 6 agent 0
+  referee: Landing in progress...
+      X=5873m, Y=2763m, HSpeed=-108m/s VSpeed=-8m/s
+      Fuel=582l, Angle=0Â°, Power=4 (4.0m/s2)
+  stderr: search=6970 fitness=1002959923 horizon=78 ms=78
+  stdout: -49 4
+frame 7 agent 0
+  referee: Landing in progress...
+      X=5766m, Y=2756m, HSpeed=-107m/s VSpeed=-7m/s
+      Fuel=578l, Angle=-15Â°, Power=4 (4.0m/s2)
+  stderr: search=7130 fitness=1002959924 horizon=77 ms=78
+  stdout: -49 4
+frame 8 agent 0
+  referee: Landing in progress...
+      X=5660m, Y=2748m, HSpeed=-105m/s VSpeed=-8m/s
+      Fuel=574l, Angle=-30Â°, Power=4 (4.0m/s2)
+  stderr: search=7227 fitness=1002959925 horizon=76 ms=78
+  stdout: -49 4
+frame 9 agent 0
+  referee: Landing in progress...
+      X=5556m, Y=2740m, HSpeed=-102m/s VSpeed=-8m/s
+      Fuel=570l, Angle=-44Â°, Power=4 (4.0m/s2)
+  stderr: search=7051 fitness=1002959926 horizon=75 ms=78
+  stdout: -44 4
+frame 10 agent 0
+  referee: Landing in progress...
+      X=5456m, Y=2731m, HSpeed=-99m/s VSpeed=-9m/s
+      Fuel=566l, Angle=-44Â°, Power=4 (4.0m/s2)
+  stderr: search=7498 fitness=1002959927 horizon=74 ms=78
+  stdout: -44 4
+frame 11 agent 0
+  referee: Landing in progress...
+      X=5358m, Y=2721m, HSpeed=-96m/s VSpeed=-10m/s
+      Fuel=562l, Angle=-44Â°, Power=4 (4.0m/s2)
+  stderr: search=7959 fitness=1002959928 horizon=73 ms=78
+  stdout: -44 4
+frame 12 agent 0
+  referee: Landing in progress...
+      X=5262m, Y=2710m, HSpeed=-94m/s VSpeed=-12m/s
+      Fuel=559l, Angle=-44Â°, Power=3 (3.0m/s2)
+  stderr: search=7213 fitness=1002959929 horizon=72 ms=78
+  stdout: -44 3
+frame 13 agent 0
+  referee: Landing in progress...
+      X=5169m, Y=2698m, HSpeed=-92m/s VSpeed=-13m/s
+      Fuel=555l, Angle=-44Â°, Power=4 (4.0m/s2)
+  stderr: search=7352 fitness=1002959930 horizon=71 ms=78
+  stdout: -44 4
+frame 14 agent 0
+  referee: Landing in progress...
+      X=5079m, Y=2685m, HSpeed=-89m/s VSpeed=-14m/s
+      Fuel=551l, Angle=-49Â°, Power=4 (4.0m/s2)
+  stderr: search=7371 fitness=1002959931 horizon=70 ms=78
+  stdout: -49 4
+frame 15 agent 0
+  referee: Landing in progress...
+      X=4992m, Y=2671m, HSpeed=-86m/s VSpeed=-15m/s
+      Fuel=547l, Angle=-49Â°, Power=4 (4.0m/s2)
+  stderr: search=8020 fitness=1002959932 horizon=69 ms=78
+  stdout: -49 4
+frame 16 agent 0
+  referee: Landing in progress...
+      X=4908m, Y=2656m, HSpeed=-83m/s VSpeed=-16m/s
+      Fuel=543l, Angle=-49Â°, Power=4 (4.0m/s2)
+  stderr: search=8106 fitness=1002959933 horizon=68 ms=78
+  stdout: -49 4
+frame 17 agent 0
+  referee: Landing in progress...
+      X=4827m, Y=2639m, HSpeed=-80m/s VSpeed=-17m/s
+      Fuel=539l, Angle=-49Â°, Power=4 (4.0m/s2)
+  stderr: search=7994 fitness=1002959934 horizon=67 ms=78
+  stdout: -49 4
+frame 18 agent 0
+  referee: Landing in progress...
+      X=4749m, Y=2622m, HSpeed=-77m/s VSpeed=-18m/s
+      Fuel=535l, Angle=-49Â°, Power=4 (4.0m/s2)
+  stderr: search=8211 fitness=1002959935 horizon=66 ms=78
+  stdout: -49 4
+frame 19 agent 0
+  referee: Landing in progress...
+      X=4674m, Y=2603m, HSpeed=-74m/s VSpeed=-19m/s
+      Fuel=531l, Angle=-49Â°, Power=4 (4.0m/s2)
+  stderr: search=8289 fitness=1002959936 horizon=65 ms=78
+  stdout: -49 4
+frame 20 agent 0
+  referee: Landing in progress...
+      X=4602m, Y=2584m, HSpeed=-70m/s VSpeed=-20m/s
+      Fuel=527l, Angle=-49Â°, Power=4 (4.0m/s2)
+  stderr: search=8067 fitness=1002969937 horizon=64 ms=78
+  stdout: -49 4
+frame 21 agent 0
+  referee: Landing in progress...
+      X=4533m, Y=2563m, HSpeed=-67m/s VSpeed=-21m/s
+      Fuel=523l, Angle=-49Â°, Power=4 (4.0m/s2)
+  stderr: search=8497 fitness=1002969938 horizon=63 ms=78
+  stdout: -49 4
+frame 22 agent 0
+  referee: Landing in progress...
+      X=4467m, Y=2541m, HSpeed=-64m/s VSpeed=-22m/s
+      Fuel=519l, Angle=-49Â°, Power=4 (4.0m/s2)
+  stderr: search=8529 fitness=1002969939 horizon=62 ms=78
+  stdout: -49 4
+frame 23 agent 0
+  referee: Landing in progress...
+      X=4404m, Y=2518m, HSpeed=-61m/s VSpeed=-23m/s
+      Fuel=515l, Angle=-49Â°, Power=4 (4.0m/s2)
+  stderr: search=8674 fitness=1002969940 horizon=61 ms=78
+  stdout: -49 4
+frame 24 agent 0
+  referee: Landing in progress...
+      X=4344m, Y=2495m, HSpeed=-58m/s VSpeed=-24m/s
+      Fuel=511l, Angle=-49Â°, Power=4 (4.0m/s2)
+  stderr: search=8904 fitness=1002969941 horizon=60 ms=78
+  stdout: -49 4
+frame 25 agent 0
+  referee: Landing in progress...
+      X=4287m, Y=2469m, HSpeed=-56m/s VSpeed=-26m/s
+      Fuel=508l, Angle=-49Â°, Power=3 (3.0m/s2)
+  stderr: search=8869 fitness=1002969942 horizon=59 ms=78
+  stdout: -49 3
+frame 26 agent 0
+  referee: Landing in progress...
+      X=4232m, Y=2442m, HSpeed=-53m/s VSpeed=-27m/s
+      Fuel=504l, Angle=-49Â°, Power=4 (4.0m/s2)
+  stderr: search=9342 fitness=1002969943 horizon=58 ms=78
+  stdout: -49 4
+frame 27 agent 0
+  referee: Landing in progress...
+      X=4181m, Y=2415m, HSpeed=-50m/s VSpeed=-28m/s
+      Fuel=500l, Angle=-49Â°, Power=4 (4.0m/s2)
+  stderr: search=9457 fitness=1002969944 horizon=57 ms=78
+  stdout: -49 4
+frame 28 agent 0
+  referee: Landing in progress...
+      X=4132m, Y=2386m, HSpeed=-47m/s VSpeed=-29m/s
+      Fuel=496l, Angle=-49Â°, Power=4 (4.0m/s2)
+  stderr: search=9747 fitness=1002969945 horizon=56 ms=78
+  stdout: -49 4
+frame 29 agent 0
+  referee: Landing in progress...
+      X=4086m, Y=2356m, HSpeed=-44m/s VSpeed=-31m/s
+      Fuel=492l, Angle=-49Â°, Power=4 (4.0m/s2)
+  stderr: search=9834 fitness=1002969946 horizon=55 ms=78
+  stdout: -49 4
+frame 30 agent 0
+  referee: Landing in progress...
+      X=4043m, Y=2325m, HSpeed=-42m/s VSpeed=-31m/s
+      Fuel=488l, Angle=-34Â°, Power=4 (4.0m/s2)
+  stderr: search=10001 fitness=1002969947 horizon=54 ms=78
+  stdout: 0 4
+frame 31 agent 0
+  referee: Landing in progress...
+      X=4002m, Y=2294m, HSpeed=-41m/s VSpeed=-31m/s
+      Fuel=484l, Angle=-19Â°, Power=4 (4.0m/s2)
+  stderr: search=10457 fitness=1002969948 horizon=53 ms=78
+  stdout: 0 4
+frame 32 agent 0
+  referee: Landing in progress...
+      X=3963m, Y=2263m, HSpeed=-39m/s VSpeed=-31m/s
+      Fuel=480l, Angle=-28Â°, Power=4 (4.0m/s2)
+  stderr: search=10338 fitness=1002969949 horizon=52 ms=78
+  stdout: -28 4
+frame 33 agent 0
+  referee: Landing in progress...
+      X=3925m, Y=2232m, HSpeed=-37m/s VSpeed=-31m/s
+      Fuel=476l, Angle=-23Â°, Power=4 (4.0m/s2)
+  stderr: search=10763 fitness=1002969950 horizon=51 ms=78
+  stdout: -23 4
+frame 34 agent 0
+  referee: Landing in progress...
+      X=3888m, Y=2201m, HSpeed=-36m/s VSpeed=-31m/s
+      Fuel=472l, Angle=-19Â°, Power=4 (4.0m/s2)
+  stderr: search=10795 fitness=1002969951 horizon=50 ms=78
+  stdout: -19 4
+frame 35 agent 0
+  referee: Landing in progress...
+      X=3853m, Y=2170m, HSpeed=-35m/s VSpeed=-31m/s
+      Fuel=468l, Angle=-16Â°, Power=4 (4.0m/s2)
+  stderr: search=10949 fitness=1002969952 horizon=49 ms=78
+  stdout: -16 4
+frame 36 agent 0
+  referee: Landing in progress...
+      X=3819m, Y=2139m, HSpeed=-33m/s VSpeed=-31m/s
+      Fuel=464l, Angle=-19Â°, Power=4 (4.0m/s2)
+  stderr: search=10932 fitness=1002969953 horizon=48 ms=78
+  stdout: -19 4
+frame 37 agent 0
+  referee: Landing in progress...
+      X=3786m, Y=2108m, HSpeed=-33m/s VSpeed=-32m/s
+      Fuel=461l, Angle=-16Â°, Power=3 (3.0m/s2)
+  stderr: search=11854 fitness=1002969954 horizon=47 ms=78
+  stdout: -16 0
+frame 38 agent 0
+  referee: Landing in progress...
+      X=3754m, Y=2075m, HSpeed=-32m/s VSpeed=-33m/s
+      Fuel=459l, Angle=-15Â°, Power=2 (2.0m/s2)
+  stderr: search=12010 fitness=1002969955 horizon=46 ms=78
+  stdout: -15 0
+frame 39 agent 0
+  referee: Landing in progress...
+      X=3722m, Y=2040m, HSpeed=-32m/s VSpeed=-36m/s
+      Fuel=458l, Angle=-14Â°, Power=1 (1.0m/s2)
+  stderr: search=12019 fitness=1002969956 horizon=45 ms=78
+  stdout: -14 0
+frame 40 agent 0
+  referee: Landing in progress...
+      X=3690m, Y=2002m, HSpeed=-32m/s VSpeed=-40m/s
+      Fuel=458l, Angle=-14Â°, Power=0 (0.0m/s2)
+  stderr: search=12347 fitness=1002969957 horizon=44 ms=78
+  stdout: -14 0
+frame 41 agent 0
+  referee: Landing in progress...
+      X=3658m, Y=1960m, HSpeed=-32m/s VSpeed=-44m/s
+      Fuel=458l, Angle=-14Â°, Power=0 (0.0m/s2)
+  stderr: search=12668 fitness=1002969958 horizon=43 ms=78
+  stdout: -14 0
+frame 42 agent 0
+  referee: Landing in progress...
+      X=3627m, Y=1915m, HSpeed=-32m/s VSpeed=-46m/s
+      Fuel=457l, Angle=-14Â°, Power=1 (1.0m/s2)
+  stderr: search=12858 fitness=1002969959 horizon=42 ms=78
+  stdout: -14 4
+frame 43 agent 0
+  referee: Landing in progress...
+      X=3595m, Y=1868m, HSpeed=-31m/s VSpeed=-48m/s
+      Fuel=455l, Angle=-8Â°, Power=2 (2.0m/s2)
+  stderr: search=13520 fitness=1002969960 horizon=41 ms=78
+  stdout: -8 4
+frame 44 agent 0
+  referee: Landing in progress...
+      X=3564m, Y=1820m, HSpeed=-31m/s VSpeed=-49m/s
+      Fuel=452l, Angle=-8Â°, Power=3 (3.0m/s2)
+  stderr: search=13434 fitness=1002969961 horizon=40 ms=78
+  stdout: -8 4
+frame 45 agent 0
+  referee: Landing in progress...
+      X=3534m, Y=1771m, HSpeed=-30m/s VSpeed=-49m/s
+      Fuel=448l, Angle=-7Â°, Power=4 (4.0m/s2)
+  stderr: search=13855 fitness=1002969962 horizon=39 ms=78
+  stdout: -7 4
+frame 46 agent 0
+  referee: Landing in progress...
+      X=3503m, Y=1723m, HSpeed=-30m/s VSpeed=-48m/s
+      Fuel=444l, Angle=-6Â°, Power=4 (4.0m/s2)
+  stderr: search=14179 fitness=1002969963 horizon=38 ms=78
+  stdout: -6 4
+frame 47 agent 0
+  referee: Landing in progress...
+      X=3474m, Y=1674m, HSpeed=-30m/s VSpeed=-48m/s
+      Fuel=440l, Angle=-5Â°, Power=4 (4.0m/s2)
+  stderr: search=13179 fitness=1002969964 horizon=37 ms=78
+  stdout: -5 4
+frame 48 agent 0
+  referee: Landing in progress...
+      X=3444m, Y=1627m, HSpeed=-29m/s VSpeed=-48m/s
+      Fuel=436l, Angle=-4Â°, Power=4 (4.0m/s2)
+  stderr: search=14817 fitness=1002969965 horizon=36 ms=78
+  stdout: -4 4
+frame 49 agent 0
+  referee: Landing in progress...
+      X=3415m, Y=1578m, HSpeed=-29m/s VSpeed=-48m/s
+      Fuel=433l, Angle=-3Â°, Power=3 (3.0m/s2)
+  stderr: search=15511 fitness=1002969966 horizon=35 ms=78
+  stdout: -3 3
+frame 50 agent 0
+  referee: Landing in progress...
+      X=3386m, Y=1530m, HSpeed=-29m/s VSpeed=-48m/s
+      Fuel=429l, Angle=-3Â°, Power=4 (4.0m/s2)
+  stderr: search=16619 fitness=1002969967 horizon=34 ms=78
+  stdout: -3 4
+frame 51 agent 0
+  referee: Landing in progress...
+      X=3357m, Y=1482m, HSpeed=-29m/s VSpeed=-48m/s
+      Fuel=425l, Angle=-2Â°, Power=4 (4.0m/s2)
+  stderr: search=17012 fitness=1002969968 horizon=33 ms=78
+  stdout: -2 4
+frame 52 agent 0
+  referee: Landing in progress...
+      X=3328m, Y=1434m, HSpeed=-29m/s VSpeed=-48m/s
+      Fuel=421l, Angle=-2Â°, Power=4 (4.0m/s2)
+  stderr: search=16416 fitness=1002969969 horizon=32 ms=78
+  stdout: -2 4
+frame 53 agent 0
+  referee: Landing in progress...
+      X=3300m, Y=1387m, HSpeed=-29m/s VSpeed=-47m/s
+      Fuel=417l, Angle=-2Â°, Power=4 (4.0m/s2)
+  stderr: search=17108 fitness=1002969970 horizon=31 ms=78
+  stdout: -2 4
+frame 54 agent 0
+  referee: Landing in progress...
+      X=3271m, Y=1340m, HSpeed=-28m/s VSpeed=-47m/s
+      Fuel=413l, Angle=-1Â°, Power=4 (4.0m/s2)
+  stderr: search=17835 fitness=1002969971 horizon=30 ms=78
+  stdout: -1 4
+frame 55 agent 0
+  referee: Landing in progress...
+      X=3243m, Y=1293m, HSpeed=-28m/s VSpeed=-47m/s
+      Fuel=409l, Angle=-1Â°, Power=4 (4.0m/s2)
+  stderr: search=17830 fitness=1002969972 horizon=29 ms=78
+  stdout: -1 4
+frame 56 agent 0
+  referee: Landing in progress...
+      X=3214m, Y=1246m, HSpeed=-28m/s VSpeed=-46m/s
+      Fuel=405l, Angle=-1Â°, Power=4 (4.0m/s2)
+  stderr: search=18580 fitness=1002969973 horizon=28 ms=78
+  stdout: -1 4
+frame 57 agent 0
+  referee: Landing in progress...
+      X=3186m, Y=1200m, HSpeed=-28m/s VSpeed=-46m/s
+      Fuel=401l, Angle=-1Â°, Power=4 (4.0m/s2)
+  stderr: search=19068 fitness=1002969974 horizon=27 ms=78
+  stdout: -1 4
+frame 58 agent 0
+  referee: Landing in progress...
+      X=3158m, Y=1154m, HSpeed=-28m/s VSpeed=-46m/s
+      Fuel=397l, Angle=-1Â°, Power=4 (4.0m/s2)
+  stderr: search=19674 fitness=1002969975 horizon=26 ms=78
+  stdout: -1 4
+frame 59 agent 0
+  referee: Landing in progress...
+      X=3130m, Y=1108m, HSpeed=-28m/s VSpeed=-46m/s
+      Fuel=393l, Angle=-1Â°, Power=4 (4.0m/s2)
+  stderr: search=19722 fitness=1002969976 horizon=25 ms=78
+  stdout: -1 4
+frame 60 agent 0
+  referee: Landing in progress...
+      X=3101m, Y=1063m, HSpeed=-28m/s VSpeed=-45m/s
+      Fuel=389l, Angle=0Â°, Power=4 (4.0m/s2)
+  stderr: search=22864 fitness=1002969977 horizon=24 ms=78
+  stdout: 0 4
+frame 61 agent 0
+  referee: Landing in progress...
+      X=3073m, Y=1018m, HSpeed=-28m/s VSpeed=-45m/s
+      Fuel=385l, Angle=0Â°, Power=4 (4.0m/s2)
+  stderr: search=24007 fitness=1002969978 horizon=23 ms=78
+  stdout: 0 4
+frame 62 agent 0
+  referee: Landing in progress...
+      X=3045m, Y=973m, HSpeed=-28m/s VSpeed=-45m/s
+      Fuel=381l, Angle=0Â°, Power=4 (4.0m/s2)
+  stderr: search=24636 fitness=1002969979 horizon=22 ms=78
+  stdout: 0 4
+frame 63 agent 0
+  referee: Landing in progress...
+      X=3017m, Y=928m, HSpeed=-28m/s VSpeed=-44m/s
+      Fuel=377l, Angle=0Â°, Power=4 (4.0m/s2)
+  stderr: search=26243 fitness=1002969980 horizon=21 ms=78
+  stdout: 0 4
+frame 64 agent 0
+  referee: Landing in progress...
+      X=2989m, Y=884m, HSpeed=-28m/s VSpeed=-44m/s
+      Fuel=373l, Angle=0Â°, Power=4 (4.0m/s2)
+  stderr: search=27894 fitness=1002969981 horizon=20 ms=78
+  stdout: 0 4
+frame 65 agent 0
+  referee: Landing in progress...
+      X=2961m, Y=840m, HSpeed=-28m/s VSpeed=-44m/s
+      Fuel=369l, Angle=-5Â°, Power=4 (4.0m/s2)
+  stderr: search=29068 fitness=1002969982 horizon=19 ms=78
+  stdout: -5 4
+frame 66 agent 0
+  referee: Landing in progress...
+      X=2933m, Y=796m, HSpeed=-27m/s VSpeed=-44m/s
+      Fuel=365l, Angle=-5Â°, Power=4 (4.0m/s2)
+  stderr: search=30597 fitness=1002969983 horizon=18 ms=78
+  stdout: -5 4
+frame 67 agent 0
+  referee: Landing in progress...
+      X=2906m, Y=753m, HSpeed=-27m/s VSpeed=-43m/s
+      Fuel=361l, Angle=-5Â°, Power=4 (4.0m/s2)
+  stderr: search=32517 fitness=1002969984 horizon=17 ms=78
+  stdout: -5 4
+frame 68 agent 0
+  referee: Landing in progress...
+      X=2879m, Y=710m, HSpeed=-27m/s VSpeed=-43m/s
+      Fuel=357l, Angle=-5Â°, Power=4 (4.0m/s2)
+  stderr: search=33810 fitness=1002969985 horizon=16 ms=78
+  stdout: -5 4
+frame 69 agent 0
+  referee: Landing in progress...
+      X=2853m, Y=667m, HSpeed=-26m/s VSpeed=-43m/s
+      Fuel=353l, Angle=-5Â°, Power=4 (4.0m/s2)
+  stderr: search=35201 fitness=1002969986 horizon=15 ms=78
+  stdout: -5 4
+frame 70 agent 0
+  referee: Landing in progress...
+      X=2826m, Y=624m, HSpeed=-26m/s VSpeed=-42m/s
+      Fuel=349l, Angle=-5Â°, Power=4 (4.0m/s2)
+  stderr: search=31824 fitness=1002969987 horizon=14 ms=78
+  stdout: -5 4
+frame 71 agent 0
+  referee: Landing in progress...
+      X=2801m, Y=582m, HSpeed=-26m/s VSpeed=-42m/s
+      Fuel=345l, Angle=-5Â°, Power=4 (4.0m/s2)
+  stderr: search=38177 fitness=1002969988 horizon=13 ms=78
+  stdout: -5 4
+frame 72 agent 0
+  referee: Landing in progress...
+      X=2775m, Y=540m, HSpeed=-25m/s VSpeed=-42m/s
+      Fuel=341l, Angle=-5Â°, Power=4 (4.0m/s2)
+  stderr: search=42386 fitness=1002969989 horizon=12 ms=78
+  stdout: -5 4
+frame 73 agent 0
+  referee: Landing in progress...
+      X=2750m, Y=498m, HSpeed=-25m/s VSpeed=-42m/s
+      Fuel=337l, Angle=-5Â°, Power=4 (4.0m/s2)
+  stderr: search=44955 fitness=1002969990 horizon=11 ms=78
+  stdout: -5 4
+frame 74 agent 0
+  referee: Landing in progress...
+      X=2725m, Y=456m, HSpeed=-25m/s VSpeed=-41m/s
+      Fuel=333l, Angle=0Â°, Power=4 (4.0m/s2)
+  stderr: search=49314 fitness=1002969991 horizon=10 ms=78
+  stdout: 0 4
+frame 75 agent 0
+  referee: Landing in progress...
+      X=2700m, Y=415m, HSpeed=-25m/s VSpeed=-41m/s
+      Fuel=329l, Angle=0Â°, Power=4 (4.0m/s2)
+  stderr: search=49927 fitness=1002969992 horizon=9 ms=78
+  stdout: 0 4
+frame 76 agent 0
+  referee: Landing in progress...
+      X=2675m, Y=374m, HSpeed=-25m/s VSpeed=-41m/s
+      Fuel=325l, Angle=0Â°, Power=4 (4.0m/s2)
+  stderr: search=55094 fitness=1002969993 horizon=8 ms=78
+  stdout: 0 4
+frame 77 agent 0
+  referee: Landing in progress...
+      X=2650m, Y=333m, HSpeed=-24m/s VSpeed=-41m/s
+      Fuel=321l, Angle=-15Â°, Power=4 (4.0m/s2)
+  stderr: search=64286 fitness=1002969994 horizon=7 ms=78
+  stdout: -15 4
+frame 78 agent 0
+  referee: Landing in progress...
+      X=2627m, Y=293m, HSpeed=-23m/s VSpeed=-41m/s
+      Fuel=317l, Angle=-15Â°, Power=4 (4.0m/s2)
+  stderr: search=63434 fitness=1002969995 horizon=6 ms=78
+  stdout: -15 4
+frame 79 agent 0
+  referee: Landing in progress...
+      X=2605m, Y=252m, HSpeed=-22m/s VSpeed=-40m/s
+      Fuel=313l, Angle=-15Â°, Power=4 (4.0m/s2)
+  stderr: search=69344 fitness=1002969996 horizon=5 ms=78
+  stdout: -15 4
+frame 80 agent 0
+  referee: Landing in progress...
+      X=2583m, Y=212m, HSpeed=-21m/s VSpeed=-40m/s
+      Fuel=309l, Angle=-15Â°, Power=4 (4.0m/s2)
+  stderr: search=81604 fitness=1002969997 horizon=4 ms=78
+  stdout: -15 4
+frame 81 agent 0
+  referee: Landing in progress...
+      X=2563m, Y=172m, HSpeed=-20m/s VSpeed=-40m/s
+      Fuel=305l, Angle=-15Â°, Power=4 (4.0m/s2)
+  stderr: search=97214 fitness=1002969998 horizon=3 ms=78
+  stdout: -15 4
+frame 82 agent 0
+  referee: Landing in progress...
+      X=2544m, Y=132m, HSpeed=-19m/s VSpeed=-40m/s
+      Fuel=301l, Angle=-15Â°, Power=4 (4.0m/s2)
+  stderr: search=126612 fitness=1002969999 horizon=2 ms=78
+  stdout: -15 4
+frame 83 agent 0
+  referee: Â¤GREENÂ¤Success: Mars Lander landed hard but Opportunity is ok!Â§GREENÂ§
+      X=2528m, Y=100m, HSpeed=-19m/s VSpeed=-40m/s
+      Fuel=297l, Angle=0Â°, Power=4 (4.0m/s2)
+  stderr: search=171545 fitness=1002970000 horizon=1 ms=78
+  stdout: 0 4
+result
+  scores: 0=1
+  metadata: fuel=297

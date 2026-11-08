@@ -1,0 +1,14 @@
+{
+    "stub_generator":  "read N:int\nloop N read landX:int landY:int\ngameloop\nread X:int Y:int HS:int VS:int F:int R:int P:int\nwrite -20 3\n\nSTATEMENT\nSave the Planet.\nUse less Fossil Fuel.\n\nINPUT\nN: the number of points used to draw the surface of Mars.\nlandX: X coordinate of a surface point. (0 to 6999)\nlandY: Y coordinate of a surface point. By linking all the points together in a sequential fashion, you form the surface of Mars.\nHS: the horizontal speed (in m/s), can be negative.\nVS: the vertical speed (in m/s), can be negative.\nF: the quantity of remaining fuel in liters.\nR: the rotation angle in degrees (-90 to 90).\nP: the thrust power (0 to 4).\n\nOUTPUT\nR P. R is the desired rotation angle. P is the desired thrust power.",
+    "syntax_doc":  "https://www.codingame.com/api/v1/docs/stub-generator",
+    "limits":  {
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  2,
+                                    "remaining":  118,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  39
+                                }
+               }
+}

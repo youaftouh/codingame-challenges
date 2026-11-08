@@ -1,0 +1,36 @@
+﻿{
+    "submission_id":  41671239,
+    "language":  "Go",
+    "in_progress":  false,
+    "score":  100.0,
+    "rank":  390,
+    "total":  8789,
+    "criteria":  "Fuel left",
+    "criteria_score":  2265.0,
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  1,
+                                   "remaining":  4,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  222
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  1,
+                                      "remaining":  29,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  29
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  1,
+                                    "remaining":  119,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  60
+                                }
+               }
+}
