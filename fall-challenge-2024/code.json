@@ -1,0 +1,14 @@
+{
+    "language":  "Ruby",
+    "code":  "STDOUT.sync = true # DO NOT REMOVE\n# Auto-generated code below aims at helping you parse\n# the standard input according to the problem statement.\n\n\n# game loop\nloop do\n  resources = gets.to_i\n  num_travel_routes = gets.to_i\n  num_travel_routes.times do\n    building_id_1, building_id_2, capacity = gets.split.map { |x| x.to_i }\n  end\n  num_pods = gets.to_i\n  num_pods.times do\n    pod_properties = gets.chomp\n  end\n  num_new_buildings = gets.to_i\n  num_new_buildings.times do\n    building_properties = gets.chomp\n  end\n\n  # Write an action using puts\n  # To debug: STDERR.puts \"Debug messages...\"\n\n  puts \"TUBE 0 1;TUBE 0 2;POD 42 0 1 0 2 0 1 0 2\" # TUBE | UPGRADE | TELEPORT | POD | DESTROY | WAIT\nend\n",
+    "limits":  {
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  3,
+                                    "remaining":  117,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  39
+                                }
+               }
+}

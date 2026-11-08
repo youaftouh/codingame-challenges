@@ -1,0 +1,86 @@
+﻿[
+    {
+        "Case":  1,
+        "Points":  53705,
+        "PredictionError":  0,
+        "MaxMs":  0.704812,
+        "Warnings":  0
+    },
+    {
+        "Case":  2,
+        "Points":  126250,
+        "PredictionError":  0,
+        "MaxMs":  1.09438,
+        "Warnings":  0
+    },
+    {
+        "Case":  3,
+        "Points":  248325,
+        "PredictionError":  0,
+        "MaxMs":  9.91979,
+        "Warnings":  0
+    },
+    {
+        "Case":  4,
+        "Points":  246600,
+        "PredictionError":  0,
+        "MaxMs":  14.3553,
+        "Warnings":  0
+    },
+    {
+        "Case":  5,
+        "Points":  319558,
+        "PredictionError":  0,
+        "MaxMs":  70.465,
+        "Warnings":  0
+    },
+    {
+        "Case":  6,
+        "Points":  244620,
+        "PredictionError":  0,
+        "MaxMs":  230.026,
+        "Warnings":  0
+    },
+    {
+        "Case":  7,
+        "Points":  684738,
+        "PredictionError":  0,
+        "MaxMs":  104.508,
+        "Warnings":  0
+    },
+    {
+        "Case":  8,
+        "Points":  478091,
+        "PredictionError":  0,
+        "MaxMs":  401.831,
+        "Warnings":  0
+    },
+    {
+        "Case":  9,
+        "Points":  723728,
+        "PredictionError":  0,
+        "MaxMs":  116.556,
+        "Warnings":  0
+    },
+    {
+        "Case":  10,
+        "Points":  614094,
+        "PredictionError":  0,
+        "MaxMs":  156.604,
+        "Warnings":  0
+    },
+    {
+        "Case":  11,
+        "Points":  612826,
+        "PredictionError":  0,
+        "MaxMs":  409,
+        "Warnings":  0
+    },
+    {
+        "Case":  12,
+        "Points":  624460,
+        "PredictionError":  0,
+        "MaxMs":  96.3548,
+        "Warnings":  0
+    }
+]

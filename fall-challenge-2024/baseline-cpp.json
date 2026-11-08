@@ -1,0 +1,7 @@
+﻿{
+    "source":  "bot.cpp",
+    "sha256":  "983E68A2F1E3DCCB793302A178C0BD99F7C3A3FCD1E2F6BC3639E6E08FF46D10",
+    "language":  "C++",
+    "description":  "Greedy monthly simulation with landing-pad tube shuttles and teleporters",
+    "date":  "2026-11-08"
+}

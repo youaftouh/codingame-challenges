@@ -1,0 +1,352 @@
+game 918770677
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+frame 1 agent 0
+  stderr: month=1 predicted=2135 resources=1000 ms=0.61461
+  stdout: TUBE 0 1;POD 1 0 1 0
+frame 2
+frame 3
+frame 4
+frame 5
+frame 6
+frame 7
+frame 8
+frame 9
+frame 10
+frame 11
+frame 12
+frame 13
+frame 14
+frame 15
+frame 16
+frame 17
+frame 18
+frame 19
+frame 20
+frame 21 agent 0
+  stderr: month=2 predicted=2135 resources=2100 ms=0.331364
+  stdout: WAIT
+frame 22
+frame 23
+frame 24
+frame 25
+frame 26
+frame 27
+frame 28
+frame 29
+frame 30
+frame 31
+frame 32
+frame 33
+frame 34
+frame 35
+frame 36
+frame 37
+frame 38
+frame 39
+frame 40
+frame 41 agent 0
+  stderr: month=3 predicted=4270 resources=1192 ms=0.470636
+  stdout: TUBE 0 2;POD 2 0 2 0
+frame 42
+frame 43
+frame 44
+frame 45
+frame 46
+frame 47 agent 0
+  stderr: month=4 predicted=6830 resources=1811 ms=1.08487
+  stdout: TUBE 3 0;POD 3 3 0 3
+frame 48
+frame 49
+frame 50
+frame 51
+frame 52
+frame 53
+frame 54
+frame 55
+frame 56
+frame 57
+frame 58
+frame 59
+frame 60
+frame 61 agent 0
+  stderr: month=5 predicted=6930 resources=992 ms=0.890676
+  stdout: TUBE 3 2;POD 4 3 2 3
+frame 62
+frame 63
+frame 64
+frame 65
+frame 66
+frame 67
+frame 68
+frame 69
+frame 70
+frame 71
+frame 72
+frame 73
+frame 74
+frame 75 agent 0
+  stderr: month=6 predicted=6930 resources=1091 ms=0.249585
+  stdout: WAIT
+frame 76
+frame 77
+frame 78
+frame 79
+frame 80
+frame 81
+frame 82
+frame 83
+frame 84
+frame 85
+frame 86
+frame 87
+frame 88
+frame 89 agent 0
+  stderr: month=7 predicted=6930 resources=1200 ms=0.24532
+  stdout: WAIT
+frame 90
+frame 91
+frame 92
+frame 93
+frame 94
+frame 95
+frame 96
+frame 97
+frame 98
+frame 99
+frame 100
+frame 101
+frame 102
+frame 103 agent 0
+  stderr: month=8 predicted=6930 resources=1320 ms=0.23346
+  stdout: WAIT
+frame 104
+frame 105
+frame 106
+frame 107
+frame 108
+frame 109
+frame 110
+frame 111
+frame 112
+frame 113
+frame 114
+frame 115
+frame 116
+frame 117 agent 0
+  stderr: month=9 predicted=6930 resources=1452 ms=0.236265
+  stdout: WAIT
+frame 118
+frame 119
+frame 120
+frame 121
+frame 122
+frame 123
+frame 124
+frame 125
+frame 126
+frame 127
+frame 128
+frame 129
+frame 130
+frame 131 agent 0
+  stderr: month=10 predicted=6930 resources=1597 ms=0.423104
+  stdout: WAIT
+frame 132
+frame 133
+frame 134
+frame 135
+frame 136
+frame 137
+frame 138
+frame 139
+frame 140
+frame 141
+frame 142
+frame 143
+frame 144
+frame 145 agent 0
+  stderr: month=11 predicted=6930 resources=1756 ms=0.393341
+  stdout: WAIT
+frame 146
+frame 147
+frame 148
+frame 149
+frame 150
+frame 151
+frame 152
+frame 153
+frame 154
+frame 155
+frame 156
+frame 157
+frame 158
+frame 159 agent 0
+  stderr: month=12 predicted=6930 resources=1931 ms=0.414214
+  stdout: WAIT
+frame 160
+frame 161
+frame 162
+frame 163
+frame 164
+frame 165
+frame 166
+frame 167
+frame 168
+frame 169
+frame 170
+frame 171
+frame 172
+frame 173 agent 0
+  stderr: month=13 predicted=6930 resources=2124 ms=0.852638
+  stdout: WAIT
+frame 174
+frame 175
+frame 176
+frame 177
+frame 178
+frame 179
+frame 180
+frame 181
+frame 182
+frame 183
+frame 184
+frame 185
+frame 186
+frame 187 agent 0
+  stderr: month=14 predicted=6930 resources=2336 ms=0.894854
+  stdout: WAIT
+frame 188
+frame 189
+frame 190
+frame 191
+frame 192
+frame 193
+frame 194
+frame 195
+frame 196
+frame 197
+frame 198
+frame 199
+frame 200
+frame 201 agent 0
+  stderr: month=15 predicted=6930 resources=2569 ms=0.881898
+  stdout: WAIT
+frame 202
+frame 203
+frame 204
+frame 205
+frame 206
+frame 207
+frame 208
+frame 209
+frame 210
+frame 211
+frame 212
+frame 213
+frame 214
+frame 215 agent 0
+  stderr: month=16 predicted=6930 resources=2825 ms=0.859377
+  stdout: WAIT
+frame 216
+frame 217
+frame 218
+frame 219
+frame 220
+frame 221
+frame 222
+frame 223
+frame 224
+frame 225
+frame 226
+frame 227
+frame 228
+frame 229 agent 0
+  stderr: month=17 predicted=6930 resources=3107 ms=0.856567
+  stdout: WAIT
+frame 230
+frame 231
+frame 232
+frame 233
+frame 234
+frame 235
+frame 236
+frame 237
+frame 238
+frame 239
+frame 240
+frame 241
+frame 242
+frame 243 agent 0
+  stderr: month=18 predicted=6930 resources=3417 ms=0.867799
+  stdout: WAIT
+frame 244
+frame 245
+frame 246
+frame 247
+frame 248
+frame 249
+frame 250
+frame 251
+frame 252
+frame 253
+frame 254
+frame 255
+frame 256
+frame 257 agent 0
+  stderr: month=19 predicted=6930 resources=3758 ms=1.09438
+  stdout: WAIT
+frame 258
+frame 259
+frame 260
+frame 261
+frame 262
+frame 263
+frame 264
+frame 265
+frame 266
+frame 267
+frame 268
+frame 269
+frame 270
+frame 271 agent 0
+  stderr: month=20 predicted=6930 resources=4133 ms=0.871382
+  stdout: WAIT
+frame 272
+frame 273
+frame 274
+frame 275
+frame 276
+frame 277
+frame 278
+frame 279
+frame 280
+frame 281
+frame 282
+frame 283
+frame 284
+  referee: Â¤GREENÂ¤Congratulations! Your final score is 126250Â§GREENÂ§
+result
+  scores: 0=1
+  tooltips: frame 1: Month 1
+      frame 21: Month 2
+      frame 41: Month 3
+      frame 47: Month 4
+      frame 61: Month 5
+      frame 75: Month 6
+      frame 89: Month 7
+      frame 103: Month 8
+      frame 117: Month 9
+      frame 131: Month 10
+      frame 145: Month 11
+      frame 159: Month 12
+      frame 173: Month 13
+      frame 187: Month 14
+      frame 201: Month 15
+      frame 215: Month 16
+      frame 229: Month 17
+      frame 243: Month 18
+      frame 257: Month 19
+      frame 271: Month 20
+  metadata: points=126250

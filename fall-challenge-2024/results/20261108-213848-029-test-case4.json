@@ -1,0 +1,32 @@
+﻿{
+    "test_game_id":  918770802,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918770802",
+    "log":  "game 918770802\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\nframe 1 agent 0\n  stderr: month=1 predicted=3525 resources=3400 ms=1.34033\n  stdout: TUBE 1 0;POD 1 1 0 1\nframe 2\nframe 3\nframe 4\nframe 5\nframe 6\nframe 7\nframe 8\nframe 9\nframe 10\nframe 11\nframe 12\nframe 13\nframe 14\nframe 15\nframe 16\nframe 17\nframe 18\nframe 19\nframe 20\nframe 21 agent 0\n  stderr: month=2 predicted=3525 resources=3740 ms=0.442228\n  stdout: WAIT\nframe 22\nframe 23\nframe 24\nframe 25\nframe 26\nframe 27\nframe 28\nframe 29\nframe 30\nframe 31\nframe 32\nframe 33\nframe 34\nframe 35\nframe 36\nframe 37\nframe 38\nframe 39\nframe 40\nframe 41 agent 0\n  stderr: month=3 predicted=3525 resources=4114 ms=0.444582\n  stdout: WAIT\nframe 42\nframe 43\nframe 44\nframe 45\nframe 46\nframe 47\nframe 48\nframe 49\nframe 50\nframe 51\nframe 52\nframe 53\nframe 54\nframe 55\nframe 56\nframe 57\nframe 58\nframe 59\nframe 60\nframe 61 agent 0\n  stderr: month=4 predicted=3525 resources=4525 ms=0.451297\n  stdout: WAIT\nframe 62\nframe 63\nframe 64\nframe 65\nframe 66\nframe 67\nframe 68\nframe 69\nframe 70\nframe 71\nframe 72\nframe 73\nframe 74\nframe 75\nframe 76\nframe 77\nframe 78\nframe 79\nframe 80\nframe 81 agent 0\n  stderr: month=5 predicted=3525 resources=4977 ms=0.473931\n  stdout: WAIT\nframe 82\nframe 83\nframe 84\nframe 85\nframe 86\nframe 87\nframe 88\nframe 89\nframe 90\nframe 91\nframe 92\nframe 93\nframe 94\nframe 95\nframe 96\nframe 97\nframe 98\nframe 99\nframe 100\nframe 101 agent 0\n  stderr: month=6 predicted=11075 resources=474 ms=1.78154\n  stdout: TELEPORT 2 3;TELEPORT 4 5\nframe 102\nframe 103\nframe 104\nframe 105\nframe 106\nframe 107\nframe 108\nframe 109\nframe 110\nframe 111 agent 0\n  stderr: month=7 predicted=11075 resources=521 ms=0.246655\n  stdout: WAIT\nframe 112\nframe 113\nframe 114\nframe 115\nframe 116\nframe 117\nframe 118\nframe 119\nframe 120\nframe 121 agent 0\n  stderr: month=8 predicted=11075 resources=573 ms=0.248308\n  stdout: WAIT\nframe 122\nframe 123\nframe 124\nframe 125\nframe 126\nframe 127\nframe 128\nframe 129\nframe 130\nframe 131 agent 0\n  stderr: month=9 predicted=11075 resources=630 ms=0.270171\n  stdout: WAIT\nframe 132\nframe 133\nframe 134\nframe 135\nframe 136\nframe 137\nframe 138\nframe 139\nframe 140\nframe 141 agent 0\n  stderr: month=10 predicted=11075 resources=693 ms=0.247801\n  stdout: WAIT\nframe 142\nframe 143\nframe 144\nframe 145\nframe 146\nframe 147\nframe 148\nframe 149\nframe 150\nframe 151 agent 0\n  stderr: month=11 predicted=14850 resources=762 ms=0.970048\n  stdout: TELEPORT 7 6\nframe 152\nframe 153\nframe 154\nframe 155\nframe 156\nframe 157\nframe 158\nframe 159\nframe 160\nframe 161 agent 0\n  stderr: month=12 predicted=14850 resources=838 ms=0.286807\n  stdout: WAIT\nframe 162\nframe 163\nframe 164\nframe 165\nframe 166\nframe 167\nframe 168\nframe 169\nframe 170\nframe 171 agent 0\n  stderr: month=13 predicted=14850 resources=921 ms=0.29385\n  stdout: WAIT\nframe 172\nframe 173\nframe 174\nframe 175\nframe 176\nframe 177\nframe 178\nframe 179\nframe 180\nframe 181 agent 0\n  stderr: month=14 predicted=14850 resources=1013 ms=0.270077\n  stdout: WAIT\nframe 182\nframe 183\nframe 184\nframe 185\nframe 186\nframe 187\nframe 188\nframe 189\nframe 190\nframe 191 agent 0\n  stderr: month=15 predicted=14850 resources=1114 ms=0.273836\n  stdout: WAIT\nframe 192\nframe 193\nframe 194\nframe 195\nframe 196\nframe 197\nframe 198\nframe 199\nframe 200\nframe 201 agent 0\n  stderr: month=16 predicted=19870 resources=39854 ms=14.3553\n  stdout: TUBE 8 5;POD 2 8 5 8;TUBE 8 2;POD 3 8 2 8;TUBE 8 6;POD 4 8 6 8;TUBE 8 0;POD 5 8 0 8;TELEPORT 1 0;TUBE 8 1;POD 6 8 1 8\nframe 202\nframe 203\nframe 204\nframe 205\nframe 206\nframe 207\nframe 208 agent 0\n  stderr: month=17 predicted=19870 resources=43839 ms=1.54824\n  stdout: WAIT\nframe 209\nframe 210\nframe 211\nframe 212\nframe 213\nframe 214\nframe 215 agent 0\n  stderr: month=18 predicted=19870 resources=48222 ms=1.53447\n  stdout: WAIT\nframe 216\nframe 217\nframe 218\nframe 219\nframe 220\nframe 221\nframe 222 agent 0\n  stderr: month=19 predicted=19870 resources=53044 ms=1.54889\n  stdout: WAIT\nframe 223\nframe 224\nframe 225\nframe 226\nframe 227\nframe 228\nframe 229 agent 0\n  stderr: month=20 predicted=19870 resources=58348 ms=1.49808\n  stdout: WAIT\nframe 230\nframe 231\nframe 232\nframe 233\nframe 234\nframe 235\n  referee: Â¤GREENÂ¤Congratulations! Your final score is 246600Â§GREENÂ§\nresult\n  scores: 0=1\n  tooltips: frame 1: Month 1\n      frame 21: Month 2\n      frame 41: Month 3\n      frame 61: Month 4\n      frame 81: Month 5\n      frame 101: Month 6\n      frame 111: Month 7\n      frame 121: Month 8\n      frame 131: Month 9\n      frame 141: Month 10\n      frame 151: Month 11\n      frame 161: Month 12\n      frame 171: Month 13\n      frame 181: Month 14\n      frame 191: Month 15\n      frame 201: Month 16\n      frame 208: Month 17\n      frame 215: Month 18\n      frame 222: Month 19\n      frame 229: Month 20\n  metadata: points=246600\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  0,
+                                   "remaining":  5,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  0
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  4,
+                                      "remaining":  26,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  22
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  4,
+                                    "remaining":  116,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  21
+                                }
+               }
+}

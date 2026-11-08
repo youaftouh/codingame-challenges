@@ -1,0 +1,303 @@
+game 918770802
+agents:
+  0 Yasseruvski (me, agent_id -1)
+frame 0
+frame 1 agent 0
+  stderr: month=1 predicted=3525 resources=3400 ms=1.34033
+  stdout: TUBE 1 0;POD 1 1 0 1
+frame 2
+frame 3
+frame 4
+frame 5
+frame 6
+frame 7
+frame 8
+frame 9
+frame 10
+frame 11
+frame 12
+frame 13
+frame 14
+frame 15
+frame 16
+frame 17
+frame 18
+frame 19
+frame 20
+frame 21 agent 0
+  stderr: month=2 predicted=3525 resources=3740 ms=0.442228
+  stdout: WAIT
+frame 22
+frame 23
+frame 24
+frame 25
+frame 26
+frame 27
+frame 28
+frame 29
+frame 30
+frame 31
+frame 32
+frame 33
+frame 34
+frame 35
+frame 36
+frame 37
+frame 38
+frame 39
+frame 40
+frame 41 agent 0
+  stderr: month=3 predicted=3525 resources=4114 ms=0.444582
+  stdout: WAIT
+frame 42
+frame 43
+frame 44
+frame 45
+frame 46
+frame 47
+frame 48
+frame 49
+frame 50
+frame 51
+frame 52
+frame 53
+frame 54
+frame 55
+frame 56
+frame 57
+frame 58
+frame 59
+frame 60
+frame 61 agent 0
+  stderr: month=4 predicted=3525 resources=4525 ms=0.451297
+  stdout: WAIT
+frame 62
+frame 63
+frame 64
+frame 65
+frame 66
+frame 67
+frame 68
+frame 69
+frame 70
+frame 71
+frame 72
+frame 73
+frame 74
+frame 75
+frame 76
+frame 77
+frame 78
+frame 79
+frame 80
+frame 81 agent 0
+  stderr: month=5 predicted=3525 resources=4977 ms=0.473931
+  stdout: WAIT
+frame 82
+frame 83
+frame 84
+frame 85
+frame 86
+frame 87
+frame 88
+frame 89
+frame 90
+frame 91
+frame 92
+frame 93
+frame 94
+frame 95
+frame 96
+frame 97
+frame 98
+frame 99
+frame 100
+frame 101 agent 0
+  stderr: month=6 predicted=11075 resources=474 ms=1.78154
+  stdout: TELEPORT 2 3;TELEPORT 4 5
+frame 102
+frame 103
+frame 104
+frame 105
+frame 106
+frame 107
+frame 108
+frame 109
+frame 110
+frame 111 agent 0
+  stderr: month=7 predicted=11075 resources=521 ms=0.246655
+  stdout: WAIT
+frame 112
+frame 113
+frame 114
+frame 115
+frame 116
+frame 117
+frame 118
+frame 119
+frame 120
+frame 121 agent 0
+  stderr: month=8 predicted=11075 resources=573 ms=0.248308
+  stdout: WAIT
+frame 122
+frame 123
+frame 124
+frame 125
+frame 126
+frame 127
+frame 128
+frame 129
+frame 130
+frame 131 agent 0
+  stderr: month=9 predicted=11075 resources=630 ms=0.270171
+  stdout: WAIT
+frame 132
+frame 133
+frame 134
+frame 135
+frame 136
+frame 137
+frame 138
+frame 139
+frame 140
+frame 141 agent 0
+  stderr: month=10 predicted=11075 resources=693 ms=0.247801
+  stdout: WAIT
+frame 142
+frame 143
+frame 144
+frame 145
+frame 146
+frame 147
+frame 148
+frame 149
+frame 150
+frame 151 agent 0
+  stderr: month=11 predicted=14850 resources=762 ms=0.970048
+  stdout: TELEPORT 7 6
+frame 152
+frame 153
+frame 154
+frame 155
+frame 156
+frame 157
+frame 158
+frame 159
+frame 160
+frame 161 agent 0
+  stderr: month=12 predicted=14850 resources=838 ms=0.286807
+  stdout: WAIT
+frame 162
+frame 163
+frame 164
+frame 165
+frame 166
+frame 167
+frame 168
+frame 169
+frame 170
+frame 171 agent 0
+  stderr: month=13 predicted=14850 resources=921 ms=0.29385
+  stdout: WAIT
+frame 172
+frame 173
+frame 174
+frame 175
+frame 176
+frame 177
+frame 178
+frame 179
+frame 180
+frame 181 agent 0
+  stderr: month=14 predicted=14850 resources=1013 ms=0.270077
+  stdout: WAIT
+frame 182
+frame 183
+frame 184
+frame 185
+frame 186
+frame 187
+frame 188
+frame 189
+frame 190
+frame 191 agent 0
+  stderr: month=15 predicted=14850 resources=1114 ms=0.273836
+  stdout: WAIT
+frame 192
+frame 193
+frame 194
+frame 195
+frame 196
+frame 197
+frame 198
+frame 199
+frame 200
+frame 201 agent 0
+  stderr: month=16 predicted=19870 resources=39854 ms=14.3553
+  stdout: TUBE 8 5;POD 2 8 5 8;TUBE 8 2;POD 3 8 2 8;TUBE 8 6;POD 4 8 6 8;TUBE 8 0;POD 5 8 0 8;TELEPORT 1 0;TUBE 8 1;POD 6 8 1 8
+frame 202
+frame 203
+frame 204
+frame 205
+frame 206
+frame 207
+frame 208 agent 0
+  stderr: month=17 predicted=19870 resources=43839 ms=1.54824
+  stdout: WAIT
+frame 209
+frame 210
+frame 211
+frame 212
+frame 213
+frame 214
+frame 215 agent 0
+  stderr: month=18 predicted=19870 resources=48222 ms=1.53447
+  stdout: WAIT
+frame 216
+frame 217
+frame 218
+frame 219
+frame 220
+frame 221
+frame 222 agent 0
+  stderr: month=19 predicted=19870 resources=53044 ms=1.54889
+  stdout: WAIT
+frame 223
+frame 224
+frame 225
+frame 226
+frame 227
+frame 228
+frame 229 agent 0
+  stderr: month=20 predicted=19870 resources=58348 ms=1.49808
+  stdout: WAIT
+frame 230
+frame 231
+frame 232
+frame 233
+frame 234
+frame 235
+  referee: Â¤GREENÂ¤Congratulations! Your final score is 246600Â§GREENÂ§
+result
+  scores: 0=1
+  tooltips: frame 1: Month 1
+      frame 21: Month 2
+      frame 41: Month 3
+      frame 61: Month 4
+      frame 81: Month 5
+      frame 101: Month 6
+      frame 111: Month 7
+      frame 121: Month 8
+      frame 131: Month 9
+      frame 141: Month 10
+      frame 151: Month 11
+      frame 161: Month 12
+      frame 171: Month 13
+      frame 181: Month 14
+      frame 191: Month 15
+      frame 201: Month 16
+      frame 208: Month 17
+      frame 215: Month 18
+      frame 222: Month 19
+      frame 229: Month 20
+  metadata: points=246600
