@@ -1,0 +1,33 @@
+﻿{
+    "submission_id":  41671966,
+    "progress_url":  "/api/v1/puzzles/don\u0027t-panic/progress",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  5,
+                                   "remaining":  0,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  18
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_15m",
+                                      "limit":  100,
+                                      "used":  98,
+                                      "remaining":  2,
+                                      "window_seconds":  900,
+                                      "resets_in_seconds":  141
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  1,
+                                    "remaining":  119,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  60
+                                }
+               },
+    "local_source":  "golf.m",
+    "local_characters":  199,
+    "local_code":  "#include\u003cstdio.h\u003e\nchar s[99],d[9];int t[99],f,p,a,b,n;int main(){while(fgets(s,99,stdin)){n=sscanf(s,\"%d%d%s%d%d\",\u0026f,\u0026p,d,\u0026a,\u0026b);n\u003e3?t[a]=b:n\u003c3?t[f]=p:puts(f\u003e=0\u0026\u0026(t[f]-p)*(79-*d)\u003e0?\"BLOCK\":\"WAIT\");}}"
+}

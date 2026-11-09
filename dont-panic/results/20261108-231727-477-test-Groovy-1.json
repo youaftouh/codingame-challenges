@@ -1,0 +1,32 @@
+﻿{
+    "test_game_id":  918812493,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918812493",
+    "log":  "game 918812493\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0 agent 0\n  referee: Share and enjoy...\n  error: line 1: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:\n      /tmp/Answer.groovy: 1: The LHS of an assignment should be a variable or a field accessing expression @ line 1, column 88.\n         okenize();f=a[0];p=a[1]as int;a[7]?t[a[3\n                                       ^\n      \n      1 error\nframe 1\n  referee: Â¤REDÂ¤Timeout: the program did not provide 1 input lines in due time...Â§REDÂ§\nresult\n  scores: 0=0\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  4,
+                                   "remaining":  1,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  93
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_5m",
+                                      "limit":  60,
+                                      "used":  47,
+                                      "remaining":  13,
+                                      "window_seconds":  300,
+                                      "resets_in_seconds":  14
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  11,
+                                    "remaining":  109,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  3
+                                }
+               }
+}

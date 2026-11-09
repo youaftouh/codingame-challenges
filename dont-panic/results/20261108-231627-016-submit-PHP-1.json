@@ -1,0 +1,30 @@
+﻿{
+    "submission_id":  41671925,
+    "progress_url":  "/api/v1/puzzles/don\u0027t-panic/progress",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  4,
+                                   "remaining":  1,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  49
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_5m",
+                                      "limit":  60,
+                                      "used":  45,
+                                      "remaining":  15,
+                                      "window_seconds":  300,
+                                      "resets_in_seconds":  1
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  1,
+                                    "remaining":  119,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  60
+                                }
+               }
+}

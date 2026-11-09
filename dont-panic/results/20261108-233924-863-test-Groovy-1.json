@@ -1,0 +1,35 @@
+﻿{
+    "test_game_id":  918820823,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918820823",
+    "log":  "game 918820823\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0 agent 0\n  referee: Share and enjoy...\n  error: Error: Could not find or load main class Answer\nframe 1\n  referee: Â¤REDÂ¤Timeout: the program did not provide 1 input lines in due time...Â§REDÂ§\nresult\n  scores: 0=0\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  2,
+                                   "remaining":  3,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  6
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  1,
+                                      "remaining":  29,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  60
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  1,
+                                    "remaining":  119,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  60
+                                }
+               },
+    "local_source":  "static.groovy",
+    "local_characters":  627,
+    "local_code":  "@groovy.transform.CompileStatic\nclass Player {\n static void main(String[] args) {\n  Scanner s=new Scanner(System.in)\n  int[] a=new int[8]\n  int[] target=new int[15]\n  for(int j=0;j\u003c8;j++) a[j]=s.nextInt()\n  for(int j=0;j\u003ca[7];j++) {\n   int floor=s.nextInt()\n   target[floor]=s.nextInt()\n  }\n  target[a[3]]=a[4]\n  while(s.hasNextInt()) {\n   int floor=s.nextInt(),position=s.nextInt()\n   String direction=s.next()\n   boolean block=floor\u003e=0 \u0026\u0026 ((direction.equals(\u0027LEFT\u0027) \u0026\u0026 position\u003ctarget[floor]) || (direction.equals(\u0027RIGHT\u0027) \u0026\u0026 position\u003etarget[floor]))\n   System.out.println(block?\u0027BLOCK\u0027:\u0027WAIT\u0027)\n   System.out.flush()\n  }\n }\n}"
+}

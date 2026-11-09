@@ -1,0 +1,33 @@
+﻿{
+    "submission_id":  41672051,
+    "progress_url":  "/api/v1/puzzles/don\u0027t-panic/progress",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  1,
+                                   "remaining":  4,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  300
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  7,
+                                      "remaining":  23,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  17
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  7,
+                                    "remaining":  113,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  21
+                                }
+               },
+    "local_source":  "direct.groovy",
+    "local_characters":  195,
+    "local_code":  "i=new Scanner(System.in)\nr={i.nextInt()}\nq=[];f=[:]\n8.times{q+=r()}\nq[7].times{f\u003c\u003c[(r()):r()]}\nfor(;;){p=r();c=r();d=i.next()\nt=p\u003c0?c:p==q[3]?q[4]:f[p]\nprintln d\u003c\u0027R\u0027\u0026c\u003ct|d\u003e\u0027Q\u0027\u0026t\u003cc?\"BLOCK\":\"WAIT\"}"
+}

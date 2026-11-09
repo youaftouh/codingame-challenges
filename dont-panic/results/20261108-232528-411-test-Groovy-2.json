@@ -1,0 +1,35 @@
+﻿{
+    "test_game_id":  918815555,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918815555",
+    "log":  "game 918815555\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: Share and enjoy...\nframe 1\n  referee: Â¤REDÂ¤Timeout: the program did not provide 1 input lines in due time...Â§REDÂ§\nresult\n  scores: 0=0\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  3,
+                                   "remaining":  2,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  20
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_15m",
+                                      "limit":  100,
+                                      "used":  99,
+                                      "remaining":  1,
+                                      "window_seconds":  900,
+                                      "resets_in_seconds":  1
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  4,
+                                    "remaining":  116,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  24
+                                }
+               },
+    "local_source":  "safe.groovy",
+    "local_characters":  197,
+    "local_code":  "r=System.in.newReader();t=[:];while(l=r.readLine()){a=l.tokenize();f=a[0];p=a[1]as int;a[7]?(t[a[3]]=a[4]as int):a[2]?println(f!=\u0027-1\u0027\u0026\u0026(t[f]-p)*(a[2]\u003c\u0027R\u0027?1:-1)\u003e0?\u0027BLOCK\u0027:\u0027WAIT\u0027):t.putIfAbsent(f,p)}"
+}

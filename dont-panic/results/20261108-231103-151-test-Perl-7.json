@@ -1,0 +1,32 @@
+﻿{
+    "test_game_id":  918809348,
+    "status":  "done",
+    "poll_url":  "/api/v1/test-games/918809348",
+    "log":  "game 918809348\nagents:\n  0 Yasseruvski (me, agent_id -1)\nframe 0\n  referee: Share and enjoy...\nframe 1\n  referee: You do nothing.\n  stdout: WAIT\nframe 2\n  referee: You do nothing.\n  stdout: WAIT\nframe 3\n  referee: You do nothing.\n  stdout: WAIT\nframe 4\n  referee: You do nothing.\n  stdout: WAIT\nframe 5\n  referee: You do nothing.\n  stdout: WAIT\nframe 6\n  referee: You do nothing.\n  stdout: WAIT\nframe 7\n  referee: You do nothing.\n  stdout: WAIT\nframe 8\n  referee: You do nothing.\n  stdout: WAIT\nframe 9\n  referee: You block one clone.\n  stdout: BLOCK\nframe 10\n  referee: You do nothing.\n  stdout: WAIT\nframe 11\n  referee: You do nothing.\n  stdout: WAIT\nframe 12\n  referee: You do nothing.\n  stdout: WAIT\nframe 13\n  referee: You do nothing.\n  stdout: WAIT\nframe 14\n  referee: You do nothing.\n  stdout: WAIT\nframe 15\n  referee: You do nothing.\n  stdout: WAIT\nframe 16\n  referee: You do nothing.\n  stdout: WAIT\nframe 17\n  referee: You do nothing.\n  stdout: WAIT\nframe 18\n  referee: You do nothing.\n  stdout: WAIT\nframe 19\n  referee: You do nothing.\n  stdout: WAIT\nframe 20\n  referee: You do nothing.\n  stdout: WAIT\nframe 21\n  referee: You do nothing.\n  stdout: WAIT\nframe 22\n  referee: You do nothing.\n  stdout: WAIT\nframe 23\n  referee: You block one clone.\n  stdout: BLOCK\nframe 24\n  referee: You do nothing.\n  stdout: WAIT\nframe 25\n  referee: You do nothing.\n  stdout: WAIT\nframe 26\n  referee: You do nothing.\n  stdout: WAIT\nframe 27\n  referee: You do nothing.\n  stdout: WAIT\nframe 28\n  referee: You do nothing.\n  stdout: WAIT\nframe 29\n  referee: You block one clone.\n  stdout: BLOCK\nframe 30\n  referee: You do nothing.\n  stdout: WAIT\nframe 31\n  referee: You do nothing.\n  stdout: WAIT\nframe 32\n  referee: You do nothing.\n  stdout: WAIT\nframe 33\n  referee: You do nothing.\n  stdout: WAIT\nframe 34\n  referee: You do nothing.\n  stdout: WAIT\nframe 35\n  referee: You do nothing.\n  stdout: WAIT\nframe 36\n  referee: You do nothing.\n  stdout: WAIT\nframe 37\n  referee: You do nothing.\n  stdout: WAIT\nframe 38\n  referee: You do nothing.\n  stdout: WAIT\nframe 39\n  referee: You do nothing.\n  stdout: WAIT\nframe 40\n  referee: You do nothing.\n  stdout: WAIT\nframe 41\n  referee: You block one clone.\n  stdout: BLOCK\nframe 42\n  referee: You do nothing.\n  stdout: WAIT\nframe 43\n  referee: You do nothing.\n  stdout: WAIT\nframe 44\n  referee: You do nothing.\n  stdout: WAIT\nframe 45\n  referee: You do nothing.\n  stdout: WAIT\nframe 46\n  referee: You do nothing.\n  stdout: WAIT\nframe 47\n  referee: You do nothing.\n  stdout: WAIT\nframe 48\n  referee: You do nothing.\n  stdout: WAIT\nframe 49\n  referee: You do nothing.\n  stdout: WAIT\nframe 50\n  referee: You do nothing.\n  stdout: WAIT\nframe 51\n  referee: You do nothing.\n  stdout: WAIT\nframe 52\n  referee: You do nothing.\n  stdout: WAIT\nframe 53\n  referee: You do nothing.\n  stdout: WAIT\nframe 54\n  referee: Â¤GREENÂ¤Success: You win!Â§GREENÂ§\n      You do nothing.\n  stdout: WAIT\nresult\n  scores: 0=1\n",
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  1,
+                                   "remaining":  4,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  285
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_1m",
+                                      "limit":  30,
+                                      "used":  13,
+                                      "remaining":  17,
+                                      "window_seconds":  60,
+                                      "resets_in_seconds":  8
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  8,
+                                    "remaining":  112,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  45
+                                }
+               }
+}

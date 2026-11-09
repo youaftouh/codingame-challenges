@@ -1,0 +1,36 @@
+﻿{
+    "submission_id":  41671954,
+    "language":  "Javascript",
+    "in_progress":  false,
+    "score":  100.0,
+    "rank":  738,
+    "total":  16202,
+    "criteria":  "Code size",
+    "criteria_score":  127.0,
+    "limits":  {
+                   "submits":  {
+                                   "name":  "submits_5m",
+                                   "limit":  5,
+                                   "used":  4,
+                                   "remaining":  1,
+                                   "window_seconds":  300,
+                                   "resets_in_seconds":  23
+                               },
+                   "test_games":  {
+                                      "name":  "test_games_15m",
+                                      "limit":  100,
+                                      "used":  98,
+                                      "remaining":  2,
+                                      "window_seconds":  900,
+                                      "resets_in_seconds":  185
+                                  },
+                   "requests":  {
+                                    "name":  "requests_1m",
+                                    "limit":  120,
+                                    "used":  2,
+                                    "remaining":  118,
+                                    "window_seconds":  60,
+                                    "resets_in_seconds":  16
+                                }
+               }
+}
