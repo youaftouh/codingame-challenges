@@ -1,0 +1,57 @@
+{
+  "submission_id": 40178235,
+  "language": "Javascript",
+  "in_progress": false,
+  "percentage": 100,
+  "score": 11.45,
+  "rank": 1646,
+  "total": 2481,
+  "league": "Silver",
+  "league_rank": 891,
+  "league_total": 1221,
+  "eligible_for_promotion": false,
+  "next_promotion_in_seconds": 18,
+  "league_boss": {
+    "name": "Boss 2",
+    "rank": 1,
+    "score": 22.71,
+    "agent_id": 6354435
+  },
+  "league_history": [
+    {
+      "league": "Bronze",
+      "entered_at": "2026-03-25T10:34:11.690Z"
+    },
+    {
+      "league": "Silver",
+      "entered_at": "2026-03-25T10:34:11.690Z"
+    }
+  ],
+  "promotion_mode": "rank_above_boss",
+  "limits": {
+    "submits": {
+      "name": "submits_5m",
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "window_seconds": 300,
+      "resets_in_seconds": 0
+    },
+    "test_games": {
+      "name": "test_games_1m",
+      "limit": 10,
+      "used": 3,
+      "remaining": 7,
+      "window_seconds": 60,
+      "resets_in_seconds": 12
+    },
+    "requests": {
+      "name": "requests_1m",
+      "limit": 120,
+      "used": 3,
+      "remaining": 117,
+      "window_seconds": 60,
+      "resets_in_seconds": 47
+    }
+  }
+}

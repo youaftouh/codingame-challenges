@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-12",
+  "code_sha256": "c2ed8617387f3833dba2730e364e00ce1cc1a90253e171fb54d426d4493a78bc",
+  "games": [
+    {
+      "test_game_id": 920602247,
+      "opponent_agent_id": 6356674,
+      "our_score": 20,
+      "opponent_score": 4
+    },
+    {
+      "test_game_id": 920602355,
+      "opponent_agent_id": 6356674,
+      "our_score": 39,
+      "opponent_score": 21
+    },
+    {
+      "test_game_id": 920602385,
+      "opponent_agent_id": 6356674,
+      "our_score": 28,
+      "opponent_score": 21
+    },
+    {
+      "test_game_id": 920602466,
+      "opponent_agent_id": 6356674,
+      "our_score": 29,
+      "opponent_score": 6
+    }
+  ]
+}

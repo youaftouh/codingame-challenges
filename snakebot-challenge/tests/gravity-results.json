@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-12",
+  "opponent": "me (self-play; not a fixed arena submission)",
+  "results": [
+    {
+      "test_game_id": 920597890,
+      "scores": "0=19 1=19",
+      "runtime_error": false
+    },
+    {
+      "test_game_id": 920597932,
+      "scores": "0=14 1=14",
+      "runtime_error": false
+    },
+    {
+      "test_game_id": 920597958,
+      "scores": "0=5 1=5",
+      "runtime_error": false
+    },
+    {
+      "test_game_id": 920597999,
+      "scores": "0=16 1=16",
+      "runtime_error": false
+    },
+    {
+      "test_game_id": 920598048,
+      "scores": "0=14 1=14",
+      "runtime_error": false
+    }
+  ],
+  "decision": "Not submitted. These self-play games do not measure improvement against the ranked bot."
+}
