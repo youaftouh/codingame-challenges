@@ -1,0 +1,65 @@
+{
+  "submission_id": 41702840,
+  "language": "C++",
+  "in_progress": true,
+  "percentage": 96,
+  "score": 35.39,
+  "rank": 485,
+  "total": 10148,
+  "league": "Gold",
+  "league_rank": 1,
+  "league_total": 1546,
+  "eligible_for_promotion": false,
+  "next_promotion_in_seconds": 733,
+  "league_boss": {
+    "name": "MightyCarlo",
+    "rank": 2,
+    "score": 32.79,
+    "agent_id": 1757691
+  },
+  "league_history": [
+    {
+      "league": "Wood",
+      "entered_at": "2018-04-04T16:54:19.820Z"
+    },
+    {
+      "league": "Bronze",
+      "entered_at": "2025-08-08T10:16:15.794Z"
+    },
+    {
+      "league": "Silver",
+      "entered_at": "2026-11-12T21:58:32.023Z"
+    },
+    {
+      "league": "Gold",
+      "entered_at": "2026-11-12T22:53:32.019Z"
+    }
+  ],
+  "promotion_mode": "rank_above_boss",
+  "limits": {
+    "submits": {
+      "name": "submits_5m",
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "window_seconds": 300,
+      "resets_in_seconds": 0
+    },
+    "test_games": {
+      "name": "test_games_1m",
+      "limit": 10,
+      "used": 0,
+      "remaining": 10,
+      "window_seconds": 60,
+      "resets_in_seconds": 0
+    },
+    "requests": {
+      "name": "requests_1m",
+      "limit": 120,
+      "used": 1,
+      "remaining": 119,
+      "window_seconds": 60,
+      "resets_in_seconds": 60
+    }
+  }
+}

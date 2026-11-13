@@ -1,0 +1,1916 @@
+{
+  "submission_id": 41702840,
+  "battles": [
+    {
+      "game_id": 920751324,
+      "done": false,
+      "players": [
+        {
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "nickname": "Nfsaavedra",
+          "agent_id": 5581856
+        }
+      ]
+    },
+    {
+      "game_id": 920751323,
+      "done": false,
+      "players": [
+        {
+          "nickname": "Nfsaavedra",
+          "agent_id": 5581856
+        },
+        {
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        }
+      ]
+    },
+    {
+      "game_id": 920751045,
+      "done": true,
+      "ended_at": "2026-11-12T23:46:20.045Z",
+      "my_position": 1,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Duaner",
+          "agent_id": 3833231
+        },
+        {
+          "position": 1,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        }
+      ]
+    },
+    {
+      "game_id": 920751044,
+      "done": true,
+      "ended_at": "2026-11-12T23:46:21.244Z",
+      "my_position": 1,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Duaner",
+          "agent_id": 3833231
+        },
+        {
+          "position": 1,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        }
+      ]
+    },
+    {
+      "game_id": 920750851,
+      "done": true,
+      "ended_at": "2026-11-12T23:46:04.403Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "IlmarsKuht",
+          "agent_id": 6565389
+        }
+      ]
+    },
+    {
+      "game_id": 920750850,
+      "done": true,
+      "ended_at": "2026-11-12T23:46:03.867Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "IlmarsKuht",
+          "agent_id": 6565389
+        }
+      ]
+    },
+    {
+      "game_id": 920750651,
+      "done": true,
+      "ended_at": "2026-11-12T23:45:51.120Z",
+      "my_position": 1,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "IlmarsKuht",
+          "agent_id": 6565389
+        },
+        {
+          "position": 1,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        }
+      ]
+    },
+    {
+      "game_id": 920750650,
+      "done": true,
+      "ended_at": "2026-11-12T23:45:51.722Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "IlmarsKuht",
+          "agent_id": 6565389
+        },
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        }
+      ]
+    },
+    {
+      "game_id": 920750453,
+      "done": true,
+      "ended_at": "2026-11-12T23:45:37.950Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Nfsaavedra",
+          "agent_id": 5581856
+        }
+      ]
+    },
+    {
+      "game_id": 920750452,
+      "done": true,
+      "ended_at": "2026-11-12T23:45:35.052Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Nfsaavedra",
+          "agent_id": 5581856
+        }
+      ]
+    },
+    {
+      "game_id": 920750292,
+      "done": true,
+      "ended_at": "2026-11-12T23:45:23.102Z",
+      "my_position": 1,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        },
+        {
+          "position": 1,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        }
+      ]
+    },
+    {
+      "game_id": 920750291,
+      "done": true,
+      "ended_at": "2026-11-12T23:45:24.471Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        }
+      ]
+    },
+    {
+      "game_id": 920750067,
+      "done": true,
+      "ended_at": "2026-11-12T23:45:14.045Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Duaner",
+          "agent_id": 3833231
+        }
+      ]
+    },
+    {
+      "game_id": 920750066,
+      "done": true,
+      "ended_at": "2026-11-12T23:45:10.865Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Duaner",
+          "agent_id": 3833231
+        }
+      ]
+    },
+    {
+      "game_id": 920749966,
+      "done": true,
+      "ended_at": "2026-11-12T23:44:58.035Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        }
+      ]
+    },
+    {
+      "game_id": 920749965,
+      "done": true,
+      "ended_at": "2026-11-12T23:44:58.127Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        }
+      ]
+    },
+    {
+      "game_id": 920749724,
+      "done": true,
+      "ended_at": "2026-11-12T23:44:44.506Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Nfsaavedra",
+          "agent_id": 5581856
+        }
+      ]
+    },
+    {
+      "game_id": 920749723,
+      "done": true,
+      "ended_at": "2026-11-12T23:44:49.080Z",
+      "my_position": 1,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Nfsaavedra",
+          "agent_id": 5581856
+        },
+        {
+          "position": 1,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        }
+      ]
+    },
+    {
+      "game_id": 920749541,
+      "done": true,
+      "ended_at": "2026-11-12T23:44:33.604Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "believerboy",
+          "agent_id": 6817023
+        }
+      ]
+    },
+    {
+      "game_id": 920749540,
+      "done": true,
+      "ended_at": "2026-11-12T23:44:34.483Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "believerboy",
+          "agent_id": 6817023
+        },
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        }
+      ]
+    },
+    {
+      "game_id": 920749381,
+      "done": true,
+      "ended_at": "2026-11-12T23:44:21.575Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Nfsaavedra",
+          "agent_id": 5581856
+        }
+      ]
+    },
+    {
+      "game_id": 920749380,
+      "done": true,
+      "ended_at": "2026-11-12T23:44:22.245Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Nfsaavedra",
+          "agent_id": 5581856
+        }
+      ]
+    },
+    {
+      "game_id": 920749210,
+      "done": true,
+      "ended_at": "2026-11-12T23:44:08.107Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "IlmarsKuht",
+          "agent_id": 6565389
+        }
+      ]
+    },
+    {
+      "game_id": 920749209,
+      "done": true,
+      "ended_at": "2026-11-12T23:44:11.848Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "IlmarsKuht",
+          "agent_id": 6565389
+        }
+      ]
+    },
+    {
+      "game_id": 920749081,
+      "done": true,
+      "ended_at": "2026-11-12T23:43:58.173Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        }
+      ]
+    },
+    {
+      "game_id": 920749080,
+      "done": true,
+      "ended_at": "2026-11-12T23:43:57.245Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        }
+      ]
+    },
+    {
+      "game_id": 920748942,
+      "done": true,
+      "ended_at": "2026-11-12T23:43:49.644Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        }
+      ]
+    },
+    {
+      "game_id": 920748941,
+      "done": true,
+      "ended_at": "2026-11-12T23:43:50.557Z",
+      "my_position": 1,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        },
+        {
+          "position": 1,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        }
+      ]
+    },
+    {
+      "game_id": 920748814,
+      "done": true,
+      "ended_at": "2026-11-12T23:43:38.565Z",
+      "my_position": 1,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Gold boss",
+          "agent_id": 1757691,
+          "boss": true,
+          "league": "Gold"
+        },
+        {
+          "position": 1,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        }
+      ]
+    },
+    {
+      "game_id": 920748813,
+      "done": true,
+      "ended_at": "2026-11-12T23:43:38.298Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Gold boss",
+          "agent_id": 1757691,
+          "boss": true,
+          "league": "Gold"
+        }
+      ]
+    },
+    {
+      "game_id": 920748640,
+      "done": true,
+      "ended_at": "2026-11-12T23:43:29.229Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Nfsaavedra",
+          "agent_id": 5581856
+        }
+      ]
+    },
+    {
+      "game_id": 920748639,
+      "done": true,
+      "ended_at": "2026-11-12T23:43:26.944Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Nfsaavedra",
+          "agent_id": 5581856
+        }
+      ]
+    },
+    {
+      "game_id": 920748487,
+      "done": true,
+      "ended_at": "2026-11-12T23:43:15.981Z",
+      "my_position": 1,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Gold boss",
+          "agent_id": 1757691,
+          "boss": true,
+          "league": "Gold"
+        },
+        {
+          "position": 1,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        }
+      ]
+    },
+    {
+      "game_id": 920748486,
+      "done": true,
+      "ended_at": "2026-11-12T23:43:14.722Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Gold boss",
+          "agent_id": 1757691,
+          "boss": true,
+          "league": "Gold"
+        }
+      ]
+    },
+    {
+      "game_id": 920748323,
+      "done": true,
+      "ended_at": "2026-11-12T23:43:06.971Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Nfsaavedra",
+          "agent_id": 5581856
+        }
+      ]
+    },
+    {
+      "game_id": 920748322,
+      "done": true,
+      "ended_at": "2026-11-12T23:43:06.811Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Nfsaavedra",
+          "agent_id": 5581856
+        }
+      ]
+    },
+    {
+      "game_id": 920748224,
+      "done": true,
+      "ended_at": "2026-11-12T23:42:55.893Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        }
+      ]
+    },
+    {
+      "game_id": 920748223,
+      "done": true,
+      "ended_at": "2026-11-12T23:42:56.317Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 0,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        }
+      ]
+    },
+    {
+      "game_id": 920748023,
+      "done": true,
+      "ended_at": "2026-11-12T23:42:48.198Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Duaner",
+          "agent_id": 3833231
+        }
+      ]
+    },
+    {
+      "game_id": 920748022,
+      "done": true,
+      "ended_at": "2026-11-12T23:42:45.275Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Duaner",
+          "agent_id": 3833231
+        }
+      ]
+    },
+    {
+      "game_id": 920747855,
+      "done": true,
+      "ended_at": "2026-11-12T23:42:32.161Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "IlmarsKuht",
+          "agent_id": 6565389
+        }
+      ]
+    },
+    {
+      "game_id": 920747854,
+      "done": true,
+      "ended_at": "2026-11-12T23:42:32.439Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "IlmarsKuht",
+          "agent_id": 6565389
+        }
+      ]
+    },
+    {
+      "game_id": 920747643,
+      "done": true,
+      "ended_at": "2026-11-12T23:42:16.529Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Nfsaavedra",
+          "agent_id": 5581856
+        }
+      ]
+    },
+    {
+      "game_id": 920747642,
+      "done": true,
+      "ended_at": "2026-11-12T23:42:18.004Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Nfsaavedra",
+          "agent_id": 5581856
+        }
+      ]
+    },
+    {
+      "game_id": 920747440,
+      "done": true,
+      "ended_at": "2026-11-12T23:42:01.185Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        }
+      ]
+    },
+    {
+      "game_id": 920747439,
+      "done": true,
+      "ended_at": "2026-11-12T23:42:05.826Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        }
+      ]
+    },
+    {
+      "game_id": 920747302,
+      "done": true,
+      "ended_at": "2026-11-12T23:41:52.356Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        }
+      ]
+    },
+    {
+      "game_id": 920747301,
+      "done": true,
+      "ended_at": "2026-11-12T23:41:52.484Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        }
+      ]
+    },
+    {
+      "game_id": 920747156,
+      "done": true,
+      "ended_at": "2026-11-12T23:41:45.432Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        }
+      ]
+    },
+    {
+      "game_id": 920747155,
+      "done": true,
+      "ended_at": "2026-11-12T23:41:45.173Z",
+      "my_position": 1,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        },
+        {
+          "position": 1,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        }
+      ]
+    },
+    {
+      "game_id": 920746969,
+      "done": true,
+      "ended_at": "2026-11-12T23:41:33.822Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Nfsaavedra",
+          "agent_id": 5581856
+        }
+      ]
+    },
+    {
+      "game_id": 920746968,
+      "done": true,
+      "ended_at": "2026-11-12T23:41:34.019Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Nfsaavedra",
+          "agent_id": 5581856
+        }
+      ]
+    },
+    {
+      "game_id": 920746760,
+      "done": true,
+      "ended_at": "2026-11-12T23:41:19.317Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "believerboy",
+          "agent_id": 6817023
+        }
+      ]
+    },
+    {
+      "game_id": 920746759,
+      "done": true,
+      "ended_at": "2026-11-12T23:41:21.092Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "believerboy",
+          "agent_id": 6817023
+        }
+      ]
+    },
+    {
+      "game_id": 920746598,
+      "done": true,
+      "ended_at": "2026-11-12T23:41:10.041Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        }
+      ]
+    },
+    {
+      "game_id": 920746597,
+      "done": true,
+      "ended_at": "2026-11-12T23:41:08.477Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        }
+      ]
+    },
+    {
+      "game_id": 920746461,
+      "done": true,
+      "ended_at": "2026-11-12T23:40:59.580Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        }
+      ]
+    },
+    {
+      "game_id": 920746460,
+      "done": true,
+      "ended_at": "2026-11-12T23:40:58.864Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Teerapat",
+          "agent_id": 4034972
+        }
+      ]
+    },
+    {
+      "game_id": 920746252,
+      "done": true,
+      "ended_at": "2026-11-12T23:40:47.542Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "IlmarsKuht",
+          "agent_id": 6565389
+        }
+      ]
+    },
+    {
+      "game_id": 920746251,
+      "done": true,
+      "ended_at": "2026-11-12T23:40:50.027Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "IlmarsKuht",
+          "agent_id": 6565389
+        }
+      ]
+    },
+    {
+      "game_id": 920745886,
+      "done": true,
+      "ended_at": "2026-11-12T23:40:18.537Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Queuebee",
+          "agent_id": 6801016
+        }
+      ]
+    },
+    {
+      "game_id": 920745885,
+      "done": true,
+      "ended_at": "2026-11-12T23:40:19.720Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Queuebee",
+          "agent_id": 6801016
+        }
+      ]
+    },
+    {
+      "game_id": 920745636,
+      "done": true,
+      "ended_at": "2026-11-12T23:39:54.733Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "noname10001",
+          "agent_id": 2668784
+        }
+      ]
+    },
+    {
+      "game_id": 920745635,
+      "done": true,
+      "ended_at": "2026-11-12T23:39:55.072Z",
+      "my_position": 1,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "noname10001",
+          "agent_id": 2668784
+        },
+        {
+          "position": 1,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        }
+      ]
+    },
+    {
+      "game_id": 920745334,
+      "done": true,
+      "ended_at": "2026-11-12T23:39:31.169Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "IloIlo",
+          "agent_id": 1753051
+        }
+      ]
+    },
+    {
+      "game_id": 920745333,
+      "done": true,
+      "ended_at": "2026-11-12T23:39:30.194Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "IloIlo",
+          "agent_id": 1753051
+        }
+      ]
+    },
+    {
+      "game_id": 920745047,
+      "done": true,
+      "ended_at": "2026-11-12T23:39:00.999Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 0,
+          "nickname": "PFischbeck",
+          "agent_id": 4996332
+        }
+      ]
+    },
+    {
+      "game_id": 920745046,
+      "done": true,
+      "ended_at": "2026-11-12T23:39:00.540Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "PFischbeck",
+          "agent_id": 4996332
+        }
+      ]
+    },
+    {
+      "game_id": 920744777,
+      "done": true,
+      "ended_at": "2026-11-12T23:38:46.832Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "dlubenets",
+          "agent_id": 1884888
+        }
+      ]
+    },
+    {
+      "game_id": 920744776,
+      "done": true,
+      "ended_at": "2026-11-12T23:38:45.433Z",
+      "my_position": 1,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "dlubenets",
+          "agent_id": 1884888
+        },
+        {
+          "position": 1,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        }
+      ]
+    },
+    {
+      "game_id": 920744594,
+      "done": true,
+      "ended_at": "2026-11-12T23:38:29.576Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "BrainSolver",
+          "agent_id": 3664357
+        }
+      ]
+    },
+    {
+      "game_id": 920744593,
+      "done": true,
+      "ended_at": "2026-11-12T23:38:28.773Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "BrainSolver",
+          "agent_id": 3664357
+        }
+      ]
+    },
+    {
+      "game_id": 920744441,
+      "done": true,
+      "ended_at": "2026-11-12T23:38:17.877Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "ArgoZ",
+          "agent_id": 6365904
+        }
+      ]
+    },
+    {
+      "game_id": 920744439,
+      "done": true,
+      "ended_at": "2026-11-12T23:38:16.331Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "ArgoZ",
+          "agent_id": 6365904
+        }
+      ]
+    },
+    {
+      "game_id": 920744270,
+      "done": true,
+      "ended_at": "2026-11-12T23:38:05.718Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "naab",
+          "agent_id": 2259791
+        }
+      ]
+    },
+    {
+      "game_id": 920744269,
+      "done": true,
+      "ended_at": "2026-11-12T23:38:05.711Z",
+      "my_position": 1,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "naab",
+          "agent_id": 2259791
+        },
+        {
+          "position": 1,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        }
+      ]
+    },
+    {
+      "game_id": 920744147,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:53.597Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "MichalOp",
+          "agent_id": 3873770
+        }
+      ]
+    },
+    {
+      "game_id": 920744146,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:54.080Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "MichalOp",
+          "agent_id": 3873770
+        }
+      ]
+    },
+    {
+      "game_id": 920744017,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:44.462Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "geppoz",
+          "agent_id": 2056849
+        }
+      ]
+    },
+    {
+      "game_id": 920744016,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:41.327Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "geppoz",
+          "agent_id": 2056849
+        }
+      ]
+    },
+    {
+      "game_id": 920743847,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:32.931Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "DenWer",
+          "agent_id": 4156931
+        }
+      ]
+    },
+    {
+      "game_id": 920743846,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:33.165Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "DenWer",
+          "agent_id": 4156931
+        }
+      ]
+    },
+    {
+      "game_id": 920743695,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:12.553Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Razog_",
+          "agent_id": 6353901
+        }
+      ]
+    },
+    {
+      "game_id": 920743694,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:13.219Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Razog_",
+          "agent_id": 6353901
+        }
+      ]
+    },
+    {
+      "game_id": 920743693,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:10.386Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "iKiDev",
+          "agent_id": 2580925
+        }
+      ]
+    },
+    {
+      "game_id": 920743691,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:10.374Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "iKiDev",
+          "agent_id": 2580925
+        }
+      ]
+    },
+    {
+      "game_id": 920743690,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:08.828Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Noralia",
+          "agent_id": 6842386
+        }
+      ]
+    },
+    {
+      "game_id": 920743689,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:10.776Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Noralia",
+          "agent_id": 6842386
+        }
+      ]
+    },
+    {
+      "game_id": 920743687,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:14.294Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Daskas",
+          "agent_id": 3377041
+        }
+      ]
+    },
+    {
+      "game_id": 920743686,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:13.688Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Daskas",
+          "agent_id": 3377041
+        }
+      ]
+    },
+    {
+      "game_id": 920743685,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:10.613Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "BenjiBu",
+          "agent_id": 1842614
+        }
+      ]
+    },
+    {
+      "game_id": 920743684,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:10.187Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "BenjiBu",
+          "agent_id": 1842614
+        }
+      ]
+    },
+    {
+      "game_id": 920743683,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:10.265Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "vertdeter3",
+          "agent_id": 4274869
+        }
+      ]
+    },
+    {
+      "game_id": 920743682,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:12.019Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "vertdeter3",
+          "agent_id": 4274869
+        }
+      ]
+    },
+    {
+      "game_id": 920743681,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:13.571Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "butcher2013",
+          "agent_id": 3538115
+        }
+      ]
+    },
+    {
+      "game_id": 920743680,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:12.704Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "butcher2013",
+          "agent_id": 3538115
+        }
+      ]
+    },
+    {
+      "game_id": 920743679,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:12.171Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "NicolasCDT",
+          "agent_id": 4816664
+        }
+      ]
+    },
+    {
+      "game_id": 920743678,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:13.782Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "NicolasCDT",
+          "agent_id": 4816664
+        }
+      ]
+    },
+    {
+      "game_id": 920743677,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:14.965Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Galdarian",
+          "agent_id": 1778564
+        }
+      ]
+    },
+    {
+      "game_id": 920743676,
+      "done": true,
+      "ended_at": "2026-11-12T23:37:16.252Z",
+      "my_position": 0,
+      "players": [
+        {
+          "position": 0,
+          "nickname": "Yasseruvski",
+          "agent_id": 6877718,
+          "me": true
+        },
+        {
+          "position": 1,
+          "nickname": "Galdarian",
+          "agent_id": 1778564
+        }
+      ]
+    }
+  ],
+  "next_before": 920743676,
+  "limits": {
+    "requests": {
+      "name": "requests_1m",
+      "limit": 120,
+      "used": 2,
+      "remaining": 118,
+      "window_seconds": 60,
+      "resets_in_seconds": 47
+    }
+  }
+}

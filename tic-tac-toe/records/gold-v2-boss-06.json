@@ -1,0 +1,32 @@
+{
+  "test_game_id": 920743592,
+  "status": "done",
+  "poll_url": "/api/v1/test-games/920743592",
+  "log": "game 920743592\noptions: seed=66\nagents:\n  0 Yasseruvski (me, agent_id -1)\n  1 MightyCarlo (agent_id 1757691)\nframe 0\nframe 1 agent 0\n  summary: Player $0 played (4 4)\n  stderr: simulations=129024 nodes=281091\n  stdout: 4 4\nframe 2 agent 1\n  summary: Player $1 played (5 5)\n  stdout: 5 5\nframe 3 agent 0\n  summary: Player $0 played (6 6)\n  stderr: simulations=17952 nodes=53426\n  stdout: 6 6\nframe 4 agent 1\n  summary: Player $1 played (2 2)\n  stdout: 2 2\nframe 5 agent 0\n  summary: Player $0 played (8 6)\n  stderr: simulations=19360 nodes=43468\n  stdout: 8 6\nframe 6 agent 1\n  summary: Player $1 played (6 2)\n  stdout: 6 2\nframe 7 agent 0\n  summary: Player $0 played (0 8)\n  stderr: simulations=18688 nodes=40933\n  stdout: 0 8\nframe 8 agent 1\n  summary: Player $1 played (2 6)\n  stdout: 2 6\nframe 9 agent 0\n  summary: Player $0 played (8 1)\n  stderr: simulations=19328 nodes=43466\n  stdout: 8 1\nframe 10 agent 1\n  summary: Player $1 played (8 4)\n  stdout: 8 4\nframe 11 agent 0\n  summary: Player $0 played (7 5)\n  stderr: simulations=20384 nodes=43438\n  stdout: 7 5\nframe 12 agent 1\n  summary: Player $1 played (3 6)\n  stdout: 3 6\nframe 13 agent 0\n  summary: Player $0 played (0 0)\n  stderr: simulations=21152 nodes=43578\n  stdout: 0 0\nframe 14 agent 1\n  summary: Player $1 played (1 2)\n  stdout: 1 2\nframe 15 agent 0\n  summary: Player $0 played (5 7)\n  stderr: simulations=21504 nodes=49857\n  stdout: 5 7\nframe 16 agent 1\n  summary: Player $1 played (6 4)\n  stdout: 6 4\nframe 17 agent 0\n  summary: Player $0 played (0 4)\n  stderr: simulations=21696 nodes=52105\n  stdout: 0 4\nframe 18 agent 1\n  summary: Player $1 played (0 5)\n  stdout: 0 5\nframe 19 agent 0\n  summary: Player $0 played (0 7)\n  stderr: simulations=22176 nodes=50838\n  stdout: 0 7\nframe 20 agent 1\n  summary: Player $1 played (2 3)\n  stdout: 2 3\nframe 21 agent 0\n  summary: Player $0 played (6 1)\n  stderr: simulations=23520 nodes=58960\n  stdout: 6 1\nframe 22 agent 1\n  summary: Player $1 played (1 4)\n  stdout: 1 4\nframe 23 agent 0\n  summary: Player $0 played (4 5)\n  stderr: simulations=20896 nodes=87413\n  stdout: 4 5\nframe 24 agent 1\n  summary: Player $1 played (4 6)\n  stdout: 4 6\nframe 25 agent 0\n  summary: Player $0 played (4 0)\n  stderr: simulations=22720 nodes=91792\n  stdout: 4 0\nframe 26 agent 1\n  summary: Player $1 played (5 0)\n  stdout: 5 0\nframe 27 agent 0\n  summary: Player $0 played (7 1)\n  stderr: simulations=22432 nodes=78461\n  stdout: 7 1\nframe 28 agent 1\n  summary: Player $1 played (4 3)\n  stdout: 4 3\nframe 29 agent 0\n  summary: Player $0 played (4 2)\n  stderr: simulations=22016 nodes=79725\n  stdout: 4 2\nframe 30 agent 1\n  summary: Player $1 played (4 8)\n  stdout: 4 8\nframe 31 agent 0\n  summary: Player $0 played (5 8)\n  stderr: simulations=20672 nodes=119980\n  stdout: 5 8\nframe 32 agent 1\n  summary: Player $1 played (7 6)\n  stdout: 7 6\nframe 33 agent 0\n  summary: Player $0 played (4 1)\n  stderr: simulations=22304 nodes=97288\n  stdout: 4 1\nframe 34 agent 1\n  summary: Player $1 played (3 5)\n  stdout: 3 5\nframe 35 agent 0\n  summary: Player $0 played (0 6)\n  stderr: simulations=23776 nodes=98329\n  stdout: 0 6\nframe 36 agent 1\n  summary: Player $1 played (2 1)\n  stdout: 2 1\nframe 37 agent 0\n  summary: Player $0 played (7 4)\n  stderr: simulations=23840 nodes=97840\n  stdout: 7 4\nframe 38 agent 1\n  summary: Player $1 played (5 4)\n  stdout: 5 4\nframe 39 agent 0\n  summary: Player $0 played (6 3)\n  stderr: simulations=25856 nodes=71140\n  stdout: 6 3\nframe 40 agent 1\n  summary: Player $1 played (1 1)\n  stdout: 1 1\nframe 41 agent 0\n  summary: Player $0 played (3 3)\n  stderr: simulations=10857 nodes=46973\n  stdout: 3 3\nframe 42 agent 1\n  summary: Player $1 played (1 0)\n  stdout: 1 0\nframe 43 agent 0\n  summary: Player $0 played (7 7)\n  stderr: simulations=1 nodes=6056\n  stdout: 7 7\nframe 44 agent 1\n  summary: Player $1 played (5 3)\n  stdout: 5 3\nframe 45 agent 0\n  summary: Player $0 played (8 5)\n  stderr: simulations=1 nodes=545\n  stdout: 8 5\nframe 46 agent 1\n  summary: Player $1 played (7 8)\n  stdout: 7 8\nframe 47 agent 0\n  summary: Player $0 played (5 6)\n  stderr: simulations=1 nodes=42\n  stdout: 5 6\nframe 48 agent 1\n  summary: Player $1 played (6 7)\n  stdout: 6 7\nframe 49 agent 0\n  summary: Player $0 played (8 8)  \n      \u00a4GREEN\u00a4$0 won!\u00a7GREEN\u00a7\n  stderr: simulations=1 nodes=4\n  stdout: 8 8\nresult\n  scores: 0=10 1=3\n  ranking (agent indexes, winner first): 0 1\n  tooltips: frame 22: $1 has won one cell\n      frame 27: $0 has won one cell\n      frame 33: $0 has won one cell\n      frame 35: $0 has won one cell\n      frame 42: $1 has won one cell\n      frame 44: $1 has won one cell\n      frame 45: $0 has won one cell\n      frame 47: $0 has won one cell\n      frame 49: $0 has won one cell\n",
+  "limits": {
+    "submits": {
+      "name": "submits_5m",
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "window_seconds": 300,
+      "resets_in_seconds": 0
+    },
+    "test_games": {
+      "name": "test_games_1m",
+      "limit": 10,
+      "used": 5,
+      "remaining": 5,
+      "window_seconds": 60,
+      "resets_in_seconds": 28
+    },
+    "requests": {
+      "name": "requests_1m",
+      "limit": 120,
+      "used": 2,
+      "remaining": 118,
+      "window_seconds": 60,
+      "resets_in_seconds": 52
+    }
+  }
+}

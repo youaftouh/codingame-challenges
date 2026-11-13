@@ -1,0 +1,219 @@
+game 920744649
+options: seed=213702214
+agents:
+  0 Mahandor (agent_id 3446457)
+  1 Yasseruvski (me, agent_id -1)
+frame 0
+frame 1 agent 0
+  summary: Player $0 played (4 4)
+  stdout: 4 4
+frame 2 agent 1
+  summary: Player $1 played (3 5)
+  stderr: simulations=174240 nodes=374058
+  stdout: 3 5
+frame 3 agent 0
+  summary: Player $0 played (0 8)
+  stdout: 0 8
+frame 4 agent 1
+  summary: Player $1 played (2 8)
+  stderr: simulations=18752 nodes=44205
+  stdout: 2 8
+frame 5 agent 0
+  summary: Player $0 played (8 8)
+  stdout: 8 8
+frame 6 agent 1
+  summary: Player $1 played (8 7)
+  stderr: simulations=18720 nodes=42491
+  stdout: 8 7
+frame 7 agent 0
+  summary: Player $0 played (8 4)
+  stdout: 8 4
+frame 8 agent 1
+  summary: Player $1 played (7 3)
+  stderr: simulations=19456 nodes=40885
+  stdout: 7 3
+frame 9 agent 0
+  summary: Player $0 played (4 2)
+  stdout: 4 2
+frame 10 agent 1
+  summary: Player $1 played (3 6)
+  stderr: simulations=19872 nodes=41905
+  stdout: 3 6
+frame 11 agent 0
+  summary: Player $0 played (0 0)
+  stdout: 0 0
+frame 12 agent 1
+  summary: Player $1 played (0 1)
+  stderr: simulations=20128 nodes=44044
+  stdout: 0 1
+frame 13 agent 0
+  summary: Player $0 played (0 3)
+  stdout: 0 3
+frame 14 agent 1
+  summary: Player $1 played (2 1)
+  stderr: simulations=20384 nodes=41951
+  stdout: 2 1
+frame 15 agent 0
+  summary: Player $0 played (8 3)
+  stdout: 8 3
+frame 16 agent 1
+  summary: Player $1 played (8 2)
+  stderr: simulations=19904 nodes=46144
+  stdout: 8 2
+frame 17 agent 0
+  summary: Player $0 played (6 8)
+  stdout: 6 8
+frame 18 agent 1
+  summary: Player $1 played (2 6)
+  stderr: simulations=20384 nodes=44834
+  stdout: 2 6
+frame 19 agent 0
+  summary: Player $0 played (7 2)
+  stdout: 7 2
+frame 20 agent 1
+  summary: Player $1 played (4 8)
+  stderr: simulations=18944 nodes=70237
+  stdout: 4 8
+frame 21 agent 0
+  summary: Player $0 played (4 6)
+  stdout: 4 6
+frame 22 agent 1
+  summary: Player $1 played (4 0)
+  stderr: simulations=18336 nodes=73962
+  stdout: 4 0
+frame 23 agent 0
+  summary: Player $0 played (3 1)
+  stdout: 3 1
+frame 24 agent 1
+  summary: Player $1 played (1 3)
+  stderr: simulations=21152 nodes=46162
+  stdout: 1 3
+frame 25 agent 0
+  summary: Player $0 played (5 1)
+  stdout: 5 1
+frame 26 agent 1
+  summary: Player $1 played (7 5)
+  stderr: simulations=20256 nodes=59791
+  stdout: 7 5
+frame 27 agent 0
+  summary: Player $0 played (5 6)
+  stdout: 5 6
+frame 28 agent 1
+  summary: Player $1 played (7 0)
+  stderr: simulations=21088 nodes=56915
+  stdout: 7 0
+frame 29 agent 0
+  summary: Player $0 played (4 1)
+  stdout: 4 1
+frame 30 agent 1
+  summary: Player $1 played (3 3)
+  stderr: simulations=18304 nodes=74043
+  stdout: 3 3
+frame 31 agent 0
+  summary: Player $0 played (2 2)
+  stdout: 2 2
+frame 32 agent 1
+  summary: Player $1 played (6 6)
+  stderr: simulations=16288 nodes=96677
+  stdout: 6 6
+frame 33 agent 0
+  summary: Player $0 played (1 2)
+  stdout: 1 2
+frame 34 agent 1
+  summary: Player $1 played (5 7)
+  stderr: simulations=16544 nodes=126090
+  stdout: 5 7
+frame 35 agent 0
+  summary: Player $0 played (8 5)
+  stdout: 8 5
+frame 36 agent 1
+  summary: Player $1 played (7 8)
+  stderr: simulations=13728 nodes=112272
+  stdout: 7 8
+frame 37 agent 0
+  summary: Player $0 played (3 7)
+  stdout: 3 7
+frame 38 agent 1
+  summary: Player $1 played (2 5)
+  stderr: simulations=22304 nodes=65321
+  stdout: 2 5
+frame 39 agent 0
+  summary: Player $0 played (6 7)
+  stdout: 6 7
+frame 40 agent 1
+  summary: Player $1 played (0 4)
+  stderr: simulations=19552 nodes=74350
+  stdout: 0 4
+frame 41 agent 0
+  summary: Player $0 played (2 3)
+  stdout: 2 3
+frame 42 agent 1
+  summary: Player $1 played (8 0)
+  stderr: simulations=20864 nodes=72127
+  stdout: 8 0
+frame 43 agent 0
+  summary: Player $0 played (6 1)
+  stdout: 6 1
+frame 44 agent 1
+  summary: Player $1 played (1 5)
+  stderr: simulations=21344 nodes=84810
+  stdout: 1 5
+frame 45 agent 0
+  summary: Player $0 played (5 8)
+  stdout: 5 8
+frame 46 agent 1
+  summary: Player $1 played (8 6)
+  stderr: simulations=20074 nodes=112806
+  stdout: 8 6
+frame 47 agent 0
+  summary: Player $0 played (6 2)
+  stdout: 6 2
+frame 48 agent 1
+  summary: Player $1 played (1 8)
+  stderr: simulations=1 nodes=14615
+  stdout: 1 8
+frame 49 agent 0
+  summary: Player $0 played (3 8)
+  stdout: 3 8
+frame 50 agent 1
+  summary: Player $1 played (2 7)
+  stderr: simulations=1 nodes=12022
+  stdout: 2 7
+frame 51 agent 0
+  summary: Player $0 played (5 5)
+  stdout: 5 5
+frame 52 agent 1
+  summary: Player $1 played (7 6)
+  stderr: simulations=1 nodes=3361
+  stdout: 7 6
+frame 53 agent 0
+  summary: Player $0 played (4 5)
+  stdout: 4 5
+frame 54 agent 1
+  summary: Player $1 played (4 7)
+  stderr: simulations=1 nodes=484
+  stdout: 4 7
+frame 55 agent 0
+  summary: Player $0 played (5 3)
+  stdout: 5 3
+frame 56 agent 1
+  summary: Player $1 played (6 0)
+  stderr: simulations=1 nodes=52
+  stdout: 6 0
+frame 57 agent 0
+  summary: Player $0 played (2 0)
+  stdout: 2 0
+frame 58 agent 1
+  summary: Player $1 played (3 4)
+      ¤GREEN¤$1 won!§GREEN§
+  stderr: simulations=1 nodes=10
+  stdout: 3 4
+result
+  scores: 0=2 1=10
+  ranking (agent indexes, winner first): 1 0
+  tooltips: frame 29: $0 has won one cell
+      frame 35: $0 has won one cell
+      frame 50: $1 has won one cell
+      frame 52: $1 has won one cell
+      frame 56: $1 has won one cell
+      frame 58: $1 has won one cell
